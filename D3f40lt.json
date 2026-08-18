@@ -1656,17 +1656,6 @@
     "date_upload": "2025-09-22",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
-  "Kaja-XqxfozQfwk": {
-    "key": "Kaja-XqxfozQfwk",
-    "hero": "Kaja",
-    "skin_name": "Inferno Taskmaster",
-    "download": "https://raw.githubusercontent.com/ddsuphhj/D3f4ultSk1n/main/kaja%20epic.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest?cb=20230917045317",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest?cb=20230917045317",
-    "sort": "15",
-    "date_upload": "2025-09-25",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
-  },
   "Lancelot-dQneugdVXV": {
     "key": "Lancelot-dQneugdVXV",
     "hero": "Lancelot",
@@ -12701,5 +12690,16 @@
     "sort": "15",
     "date_upload": "2026-08-18",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "kaja-inferno-taskmaster": {
+    "key": "kaja-inferno-taskmaster",
+    "hero": "Kaja",
+    "skin_name": "Inferno Taskmaster",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/kaja%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest?cb=20230917045317",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero627-portrait.png/revision/latest?cb=20230917045317",
+    "sort": "15",
+    "date_upload": "2026-08-18",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   }
 }
