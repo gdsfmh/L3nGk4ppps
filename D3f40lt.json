@@ -7753,17 +7753,6 @@
     "img2": "https://github.com/gdsfmh/L3nGk4ppps/raw/main/uploads/cd201b6a105992a204139da9569bc6c4.jpg",
     "sort": "30"
   },
-  "Argus-1738494506134": {
-    "key": "Argus-1738494506134",
-    "hero": "Argus",
-    "skin_name": "Abyss",
-    "download": "https://github.com/gdsfmh/L3nGk4ppps/raw/main/uploads/custom argus abyss.zip",
-    "img": "https://github.com/ddsuphhj/P0tuSk1n/raw/refs/heads/main/argus%20x%20abyss.png",
-    "img2": "https://github.com/ddsuphhj/P0tuSk1n/raw/refs/heads/main/argus%20x%20abyss.png",
-    "sort": "30",
-    "date_upload": "2026-03-31",
-    "tag": ""
-  },
   "Phoveus-1738585181551": {
     "key": "Phoveus-1738585181551",
     "hero": "Phoveus",
@@ -12701,5 +12690,16 @@
     "sort": "15",
     "date_upload": "2026-08-18",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
+  },
+  "argus-abyss": {
+    "key": "argus-abyss",
+    "hero": "Argus",
+    "skin_name": "Abyss",
+    "download": "https://github.com/z3ld4-upl0d/upl0d/raw/main/Uploads/Files/custom argus abyss.zip",
+    "img": "https://github.com/ddsuphhj/P0tuSk1n/raw/refs/heads/main/argus%20x%20abyss.png",
+    "img2": "https://github.com/ddsuphhj/P0tuSk1n/raw/refs/heads/main/argus%20x%20abyss.png",
+    "sort": "30",
+    "date_upload": "2026-08-18",
+    "tag": ""
   }
 }
