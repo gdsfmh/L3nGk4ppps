@@ -1137,5 +1137,14 @@
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/emote%20alter%20ego.jpg",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/emote%20alter%20ego.jpg",
     "sort": "1"
+  },
+  "Heartbreaking-doyaokdo": {
+    "key": "Heartbreaking-doyaokdo",
+    "hero": "Heartbreaking",
+    "skin_name": "Alter Ego",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/heartbreaking%20to%20alter%20ego.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/emote%20alter%20ego.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/emote%20alter%20ego.jpg",
+    "sort": "1"
   }
 }
