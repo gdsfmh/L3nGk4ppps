@@ -1353,5 +1353,14 @@
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/emote%20tlph.jpg",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/emote%20tlph.jpg",
     "sort": "1"
+  },
+  "LOL-nrapu3zv": {
+    "key": "LOL-nrapu3zv",
+    "hero": "LOL",
+    "skin_name": "Tlph",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/lol%20to%20tlph.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/emote%20tlph.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/emote%20tlph.jpg",
+    "sort": "1"
   }
 }
