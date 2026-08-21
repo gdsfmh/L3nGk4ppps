@@ -349,5 +349,14 @@
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20harmonia%20night.jpg",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20harmonia%20night.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-ktalm4": {
+    "key": "Sanctum Island-ktalm4",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - imperial Sanctuary",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20imeprial%20sanctuary%20lite.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20imeprial%20sanctuary%20lite.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20imeprial%20sanctuary%20lite.jpg",
+    "sort": "2"
   }
 }
