@@ -331,5 +331,14 @@
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20celestial%20palace.jgp",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20celestial%20palace.jgp",
     "sort": "2"
+  },
+  "Sanctum Island-mx9mrm": {
+    "key": "Sanctum Island-mx9mrm",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - All Star 2026",
+    "download": "https://github.com/z3ld4-upl0d/m3t4l/releases/download/assets/sanctum.island.to.all.star.2026.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20all%20star%202026.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20all%20star%202026.jpg",
+    "sort": "2"
   }
 }
