@@ -358,5 +358,14 @@
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20imeprial%20sanctuary%20lite.jpg",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20imeprial%20sanctuary%20lite.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-tzuhdy": {
+    "key": "Sanctum Island-tzuhdy",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - imperial Sanctuary",
+    "download": "https://github.com/z3ld4-upl0d/m3t4l/releases/download/assets/sanctum.island.to.imeprial.sanctuary.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20imeprial%20sanctuary.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20imeprial%20sanctuary.jpg",
+    "sort": "2"
   }
 }
