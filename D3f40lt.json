@@ -8111,17 +8111,6 @@
     "date_upload": "2025-09-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211212004634"
   },
-  "Yi-Shun-Shin-1745482149126": {
-    "key": "Yi-Shun-Shin-1745482149126",
-    "hero": "Yi Shun Shin",
-    "skin_name": "Lone Destructor",
-    "download": "https://raw.githubusercontent.com/ddsuphhj/D3f4ultSk1n/main/yss%20collector.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
-    "sort": "15",
-    "date_upload": "2025-11-24",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
-  },
   "Hayabusa-1745497108958": {
     "key": "Hayabusa-1745497108958",
     "hero": "Hayabusa",
@@ -12701,5 +12690,16 @@
     "sort": "15",
     "date_upload": "2026-08-18",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240815164310"
+  },
+  "yi-shun-shin-lone-destructor": {
+    "key": "yi-shun-shin-lone-destructor",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Lone Destructor",
+    "download": "https://raw.githubusercontent.com/ddsuphhj/D3f4ultSk1n/main/yss%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807055105",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807055105",
+    "sort": "15",
+    "date_upload": "2026-08-21",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   }
 }
