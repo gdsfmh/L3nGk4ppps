@@ -340,5 +340,14 @@
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20all%20star%202026.jpg",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20all%20star%202026.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-75jnoc": {
+    "key": "Sanctum Island-75jnoc",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - Harmonia Night",
+    "download": "https://github.com/z3ld4-upl0d/m3t4l/releases/download/assets/sanctum.island.to.harmonia.night.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20harmonia%20night.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20harmonia%20night.jpg",
+    "sort": "2"
   }
 }
