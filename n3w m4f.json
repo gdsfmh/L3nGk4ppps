@@ -304,5 +304,14 @@
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20league%20of%20legend.jpg",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20league%20of%20legend.jpg",
     "sort": "2"
+  },
+  "Sanctum Island-2764vr": {
+    "key": "Sanctum Island-2764vr",
+    "hero": "Sanctum Island",
+    "skin_name": "Sanctum island - Spring",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20musim%20semi.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20musim%20semi.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/sanctum%20island%20to%20musim%20semi.jpg",
+    "sort": "2"
   }
 }
