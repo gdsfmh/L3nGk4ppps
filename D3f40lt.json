@@ -12701,5 +12701,16 @@
     "sort": "15",
     "date_upload": "2026-08-21",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
+  },
+  "selena-silverbolt-raiko": {
+    "key": "selena-silverbolt-raiko",
+    "hero": "Selena",
+    "skin_name": "Silverbolt Raiko",
+    "download": "https://github.com/z3ld4-upl0d/upl0d/releases/download/assets/selena.aspitants.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/selena%20aspirants.png",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/selena%20aspirants.png",
+    "sort": "15",
+    "date_upload": "2026-08-28",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240309053331"
   }
 }
