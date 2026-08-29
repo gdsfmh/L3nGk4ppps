@@ -12734,5 +12734,16 @@
     "sort": "15",
     "date_upload": "2026-08-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "zilong-flame-of-heaven": {
+    "key": "zilong-flame-of-heaven",
+    "hero": "Zilong",
+    "skin_name": "Flame of Heaven",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/zilong%20create.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/zilong%20create.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/zilong%20create.jpg",
+    "sort": "15",
+    "date_upload": "2026-08-29",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Create_Skin_Tag.png"
   }
 }
