@@ -12778,5 +12778,16 @@
     "sort": "30",
     "date_upload": "2026-09-01",
     "tag": ""
+  },
+  "rafaela-soul-vessel": {
+    "key": "rafaela-soul-vessel",
+    "hero": "Rafaela",
+    "skin_name": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/rafaela%20x%20soul%20vessel.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/rafaela%20x%20soul%20vessel.png",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/rafaela%20x%20soul%20vessel.png",
+    "sort": "30",
+    "date_upload": "2026-09-01",
+    "tag": ""
   }
 }
