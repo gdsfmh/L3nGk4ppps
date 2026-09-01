@@ -11,98 +11,59 @@
         "createdUser": "nickjin",
         "data": {
           "_object": 2667538,
-          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_8ebc0cf38e2d71847258bbcc842648e5.png",
-          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1a0b70adda2acee8c950dd0982b45e5c.jpg",
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/d5baf8eef3ca4381a929451dc2b68207.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/c45fd271b45fe26a7f2b34a9dfe77b29.jpg",
           "hero": {
             "_createdAt": 1724837697935,
             "_id": "66ceef42af5771f18c5009e9",
-            "_updatedAt": 1765974301950,
+            "_updatedAt": 1785917699848,
             "data": {
               "abilityshow": [
-                "30",
+                "80",
                 "20",
-                "60",
-                "50"
+                "70",
+                "60"
               ],
-              "difficulty": "50",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
+              "difficulty": "60",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_d558bb881e18a070eaeda1e1fdc248a8.png",
               "heroid": 62,
               "heroskilllist": [
                 {
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Kaja achieves Wrath Sanction every 6s. His next Basic Attack will send lightning at enemies, dealing <font color=\"7f62fe\">Magic Damage</font> equal to 100<font color=\"62f8fe\"> (+100% Total Magic Power)</font> plus 4% of targets' Max HP and <font color=\"a6aafb\">paralyzing</font> them. The lightning will jump to enemies nearby as well (up to 3 times).\n\nIncreases damage by 200% of targets' Max HP on Minions and Creeps.\n\n<font color=\"a6aafb\">Paralyze</font>: Slows enemy heroes and summons while reducing their damage by 2.5% (up to 6 stacks) for 5s.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_886fc87f5a6bb8be73d7ff0f1265368d.png",
+                      "skilldesc": "Kaja's skill damage applies the <font color=\"a6aafb\">Paralysis</font> effect to enemy units, briefly slowing heroes or summoned units and reducing their damage by 8% for 5s.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_46a56934f63740c2a0eced6c4adc9879.png",
                       "skillid": 6240,
-                      "skillname": "Wrath Sanction",
-                      "skilltag": [
-                        {
-                          "tagid": 62,
-                          "tagname": "Buff",
-                          "tagrgb": "79,156,184"
-                        }
-                      ],
+                      "skillname": "Wings of Lightning",
+                      "skilltag": [],
                       "skillvideo": ""
                     },
                     {
-                      "skillcd&cost": "CD: 5.5   Mana Cost: 50",
-                      "skilldesc": "Kaja releases a Ringed Electric Blade that quickly expands and contracts, dealing 135<font color=\"62f8fe\"> (+70% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit on its way out and back and <font color=\"a6aafb\">paralyzing</font> them. Enemies hit will also have their positions revealed briefly.\nEach time Electric Blade deals damage, Kaja restores 100 HP (decays to 30% after multiple hits).",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_17653d39e18c367eb027863afa142fe8.png",
+                      "skillcd&cost": "CD: 5.5",
+                      "skilldesc": "Kaja summons a ring of Primal Lightning that expands and returns to him.\nEnemies hit take 160<font color=\"62f8fe\"> (+70% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and recover 78 HP to Kaja. Healing from subsequent hits is reduced to 33%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_53c8df4d8c71bb08be446676013e5dea.png",
                       "skillid": 6210,
                       "skillname": "Ring of Order",
-                      "skilltag": [
-                        {
-                          "tagid": 32,
-                          "tagname": "AOE",
-                          "tagrgb": "199,121,85"
-                        },
-                        {
-                          "tagid": 22,
-                          "tagname": "Slow",
-                          "tagrgb": "205,93,109"
-                        }
-                      ],
+                      "skilltag": [],
                       "skillvideo": ""
                     },
                     {
-                      "skillcd&cost": "CD: 13   Mana Cost: 65",
-                      "skilldesc": "Kaja dashes in the target direction while leaving 3 Lightning Bombs along the way. The Bombs will explode upon enemy contact, dealing 150<font color=\"62f8fe\"> (+35% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the enemies and <font color=\"a6aafb\">paralyzing</font> them.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a4e4ae951469d8f7ea8719442a8830a7.png",
+                      "skillcd&cost": "CD: 14",
+                      "skilldesc": "Kaja dashes to the target area, gaining Control Immunity during the dash. On arrival, he deals 250<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, knocking back and stunning nearby enemies for 0.5s, then enters the <font color=\"a6aafb\">Soaring</font> state.\n\nThe <font color=\"a6aafb\">Soaring</font> state lasts 6.6s. During this time, he ignores obstacles and gains 15% Movement Speed, but his turn radius is restricted. He can use Basic Attacks while moving, dealing 100<font color=\"62f8fe\"> (+25% Total Magic Power)</font> (+ 2% target's Max HP) <font color=\"7f62fe\">Magic Damage</font> to surrounding enemies.\n\nUpon entering the <font color=\"a6aafb\">Soaring</font> state, the cooldown of <font color=\"a6aafb\">Soaring Wings</font> is reduced to 4s (unaffected by Cooldown Reduction). Hitting a hero or creep extends the <font color=\"a6aafb\">Soaring</font> state by 2.6s.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_cbb8ea730be287b5380201dc3db632e6.png",
                       "skillid": 6220,
-                      "skillname": "Lightning Bomb",
-                      "skilltag": [
-                        {
-                          "tagid": 81,
-                          "tagname": "Mobility",
-                          "tagrgb": "162,105,198"
-                        },
-                        {
-                          "tagid": 33,
-                          "tagname": "Damage",
-                          "tagrgb": "199,121,85"
-                        }
-                      ],
+                      "skillname": "Soaring Wings",
+                      "skilltag": [],
                       "skillvideo": ""
                     },
                     {
-                      "skillcd&cost": "CD: 60   Mana Cost: 150",
-                      "skilldesc": "Kaja deals 200<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to a designated enemy hero, suppresses and <font color=\"a6aafb\">paralyzes</font> them for 1.5s.\n\nDuring the suppression, Kaja can drag the enemy hero along with him.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_97e2b721acd4d9ce8180dafdebd0954f.png",
+                      "skillcd&cost": "CD: 60",
+                      "skilldesc": "Kaja hurls a <font color=\"a6aafb\">Primal Lightning Lasso</font> at the target area. After a 0.5s delay, all enemy heroes remaining in the area take 360<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> and are trapped for 2.5s.\n\nWhile active, Kaja can drag the lasso, shrinking its radius and pulling enemies at the boundary along with him (does not interrupt their skills).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_0a05ccc4f8f00cfab7185ed5405e01cf.png",
                       "skillid": 6230,
-                      "skillname": "Divine Judgment",
-                      "skilltag": [
-                        {
-                          "tagid": 21,
-                          "tagname": "CC",
-                          "tagrgb": "205,93,109"
-                        },
-                        {
-                          "tagid": 62,
-                          "tagname": "Buff",
-                          "tagrgb": "79,156,184"
-                        }
-                      ],
+                      "skillname": "Divine Binding",
+                      "skilltag": [],
                       "skillvideo": ""
                     }
                   ],
@@ -111,7 +72,7 @@
               ],
               "heroskin": null,
               "name": "Kaja",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_92b841a4898314b3a4f1996492bb0b24.png",
+              "painting": "",
               "recommendlevel": [
                 "3",
                 "1",
@@ -143,15 +104,15 @@
                 },
                 ""
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon1": "",
               "roadsorticon2": "",
               "roadsortlabel": [
                 "Roam",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_87a88d7acc62a25869a5316147f3ce6a.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
-              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_bd2dce5f2da92dd0fa3a4bb8b45f685e.png",
+              "sorticon1": "",
+              "sorticon2": "",
               "sortid": [
                 {
                   "_id": "6698c06a613093b976b4a97c",
@@ -174,38 +135,18 @@
                   "updatedAt": 1723023113317,
                   "updatedUser": "nickjin"
                 },
-                {
-                  "_id": "6698bfe8613093b976b4a96c",
-                  "caption": "2战士",
-                  "configId": 144237,
-                  "createdAt": 1721286632237,
-                  "createdUser": "nickjin",
-                  "data": {
-                    "_object": 2740651,
-                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
-                    "sort_id": "2",
-                    "sort_title": "fighter"
-                  },
-                  "dynamic": null,
-                  "id": 2740659,
-                  "linkId": [
-                    2740651
-                  ],
-                  "sort": 0,
-                  "updatedAt": 1723023133206,
-                  "updatedUser": "nickjin"
-                }
+                ""
               ],
               "sortlabel": [
                 "Support",
-                "Fighter"
+                ""
               ],
               "speciality": [
-                "Control",
+                "Initiator",
                 "Charge"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_10e88c83ee50f042543e6bf497285028.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1a0b70adda2acee8c950dd0982b45e5c.jpg",
+              "squarehead": "",
+              "squareheadbig": "",
               "story": "Leader of Nazar who guards the Celestial Palace.",
               "tale": ""
             },
@@ -215,70 +156,78 @@
           "hero_id": 62,
           "relation": {
             "assist": {
-              "desc": "Kaja works best with high burst damage heroes like Eudora and Aamon that can quickly kill a target suppressed by his Ultimate.",
+              "desc": "He also pairs well with allies with AoE, like Odette, Pharsa, and Ixia. Kaja can hold enemies in place while they pile on the damage. The perfect set!",
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_d9251718a8894546ba04cfa9ca68dedc.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_10151d43910e62f7aa9ce08df481a20f.png"
                   }
                 },
-                0
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_f070d82521ecd2e14d4ef3f25880830a.png"
+                  }
+                }
               ],
               "target_hero_id": [
-                15,
-                109,
-                0
+                46,
+                52,
+                121
               ]
             },
             "strong": {
-              "desc": "Kaja counters Assassins that rely on constant movement, such as Fanny and Lancelot, as his Ultimate will instantly shutdown their mobility.",
+              "desc": "Kaja does well against carries with no mobility skills, such as Layla, Ixia, and Vexana. Once he flies in and lassoes them, there's no hope of escape. ",
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_b2b38e9406ea0de0b866db7674feea0f.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png"
-                  }
-                },
-                0,
-                0
-              ],
-              "target_hero_id": [
-                17,
-                47,
-                0,
-                0
-              ]
-            },
-            "weak": {
-              "desc": "Kaja is countered by Marksmen or Mages with long range like Layla and Pharsa because the short range of his Ultimate will put him at the mercy of their attacks.",
-              "target_hero": [
-                {
-                  "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_f070d82521ecd2e14d4ef3f25880830a.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_743edd1702084c4ed247908d698bca77.png"
                   }
-                },
-                0,
-                0
+                }
               ],
               "target_hero_id": [
                 18,
-                52,
-                0,
-                0
+                121,
+                38
+              ]
+            },
+            "weak": {
+              "desc": "Now, if you're up against Kaja, remember that while his Ultimate can't be Purified, heroes with mobility like Kagura, Yi Sun-shin, and Suyou can still dodge it with a dash.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_da424b020b8ac8235d64a1b8a09aa749.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_961378be3f498d42c25b3defd1635ad1.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_5e4ca70172332dde18bb1dc158ccc5c8.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                25,
+                30,
+                126
               ]
             }
           }
@@ -289,10 +238,11 @@
           2667538
         ],
         "sort": 0,
-        "updatedAt": 1726805352355,
-        "updatedUser": "nickjin"
+        "updatedAt": 1785909627620,
+        "updatedUser": "v_liuchang"
       }
     ],
     "total": 1
-  }
+  },
+  "traceID": null
 }

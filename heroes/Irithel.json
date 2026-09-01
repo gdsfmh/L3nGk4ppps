@@ -16,16 +16,16 @@
           "hero": {
             "_createdAt": 1724837697935,
             "_id": "66ceef41af5771f18c5009b2",
-            "_updatedAt": 1762767303458,
+            "_updatedAt": 1785917699848,
             "data": {
               "abilityshow": [
                 "10",
                 "80",
                 "10",
-                "50"
+                "30"
               ],
-              "difficulty": "50",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7c51b517dbce49dac4e537bd4ab4f87.png",
+              "difficulty": "30",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_a65d1e2ced64fbfdfcefdcfba719b3fd.png",
               "heroid": 43,
               "heroskilllist": [
                 {
@@ -33,76 +33,37 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Irithel and Leo's immaculate teamwork allows her to shoot while moving. Each Basic Attack will shoot 2 crossbow bolt(s) (but takes longer to refill) that deal <font color=\"fba51f\"> (+55% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> per bolt (inherits a portion of Attack Effects).\nMoving will build up <font color=\"a6aafb\">Jungle Heart</font>, up to a maximum of 10 units, and cause the next Basic Attack to unleash 1 additional bolt(s).",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8e68f781ed32a436758208dbf747a45.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_c5a562745b928518fe5a1021d74eb541.png",
                       "skillid": 4340,
                       "skillname": "Jungle Heart",
-                      "skilltag": [
-                        {
-                          "tagid": 62,
-                          "tagname": "Buff",
-                          "tagrgb": "79,156,184"
-                        }
-                      ],
+                      "skilltag": [],
                       "skillvideo": ""
                     },
                     {
                       "skillcd&cost": "CD: 10",
                       "skilldesc": "Irithel launches a volley of arrows on the target area, dealing 330<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies within and reducing their Physical Defense by 15 for 3s.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51bc3b36a4cad27cf0e2d7f503960d98.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_fa31f958db6f4955abb8c1601d09840d.png",
                       "skillid": 4310,
                       "skillname": "Strafe",
-                      "skilltag": [
-                        {
-                          "tagid": 32,
-                          "tagname": "AOE",
-                          "tagrgb": "199,121,85"
-                        },
-                        {
-                          "tagid": 23,
-                          "tagname": "Debuff",
-                          "tagrgb": "205,93,109"
-                        }
-                      ],
+                      "skilltag": [],
                       "skillvideo": ""
                     },
                     {
                       "skillcd&cost": "CD: 10",
                       "skilldesc": "Leo lets out a piercing roar, dealing 200<font color=\"fba51f\"> (+60% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to nearby enemies and slowing them by 40% for 2s.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2eabb70e4105cb1db25da5b26d8cbff4.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_2e73066af2cc13979e1bed2bba0d3d8f.png",
                       "skillid": 4320,
                       "skillname": "Force of The Queen",
-                      "skilltag": [
-                        {
-                          "tagid": 22,
-                          "tagname": "Slow",
-                          "tagrgb": "205,93,109"
-                        },
-                        {
-                          "tagid": 32,
-                          "tagname": "AOE",
-                          "tagrgb": "199,121,85"
-                        }
-                      ],
+                      "skilltag": [],
                       "skillvideo": ""
                     },
                     {
                       "skillcd&cost": "CD: 30",
                       "skilldesc": "Irithel orders Leo to leap in the target direction and empowers her crossbow for 10s. For the duration, she gains 30 Movement Speed and her Basic Attacks shoot enhanced crossbow bolts, dealing 100<font color=\"fba51f\"> (+65% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target and nearby units. <font color=\"a6aafb\">Jungle Heart</font> also accumulates faster for the duration.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ea4c434b6e7b2d253dc3da2a9940b66.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_eba682528a82c53362daf41147f0034f.png",
                       "skillid": 4330,
                       "skillname": "Heavy Crossbow",
-                      "skilltag": [
-                        {
-                          "tagid": 62,
-                          "tagname": "Buff",
-                          "tagrgb": "79,156,184"
-                        },
-                        {
-                          "tagid": 81,
-                          "tagname": "Mobility",
-                          "tagrgb": "162,105,198"
-                        }
-                      ],
+                      "skilltag": [],
                       "skillvideo": ""
                     }
                   ],
@@ -111,7 +72,7 @@
               ],
               "heroskin": null,
               "name": "Irithel",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a1faeef3e2187f0938c2eeff4a7bf962.png",
+              "painting": "",
               "recommendlevel": [
                 "3",
                 "1",
@@ -143,14 +104,14 @@
                 },
                 ""
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon1": "",
               "roadsorticon2": "",
               "roadsortlabel": [
                 "Gold Lane",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5af934fae1b64f1c689a346741a49858.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_c2ee5c50de98f4a5a53b09c308cc99d9.png",
+              "sorticon1": "",
               "sorticon2": "",
               "sortid": [
                 {
@@ -184,9 +145,9 @@
                 "Finisher",
                 "Burst"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8bdf0e2f05d6e7849c06ca9386c15349.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f999fb58616e2d87c29dcb92177990f5.jpg",
-              "story": "The forest hunter with a smilodon.",
+              "squarehead": "",
+              "squareheadbig": "",
+              "story": "A red-haired elf who lives and fights alongside her companion Leo.",
               "tale": ""
             },
             "id": 100418,
@@ -199,12 +160,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf16690876761b80822df90eb3320d69.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_bf16690876761b80822df90eb3320d69.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_195ad9af866afaab415ae23a6be13b45.png"
                   }
                 },
                 0
@@ -220,12 +181,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_da894b37bfb5cadb32307f371f31918a.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_86c9f91f530727db6498f920d19180d1.png"
                   }
                 },
                 0,
@@ -243,12 +204,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fb1784545a48aef42241fc7a719c575.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_9fb1784545a48aef42241fc7a719c575.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e7b297af7c6e32a420b897aa4998071.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_5e7b297af7c6e32a420b897aa4998071.png"
                   }
                 },
                 0,
@@ -274,5 +235,6 @@
       }
     ],
     "total": 1
-  }
+  },
+  "traceID": null
 }

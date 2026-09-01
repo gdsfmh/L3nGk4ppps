@@ -16,7 +16,7 @@
           "hero": {
             "_createdAt": 1769674501778,
             "_id": "697b1705b57c116ffd8a05e0",
-            "_updatedAt": 1781684101121,
+            "_updatedAt": 1785917699848,
             "data": {
               "abilityshow": [
                 "40",
@@ -25,7 +25,7 @@
                 "60"
               ],
               "difficulty": "60",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_71224844b111f09367df00e4f9b97753.png",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_71224844b111f09367df00e4f9b97753.png",
               "heroid": 133,
               "heroskilllist": [
                 {
@@ -33,46 +33,28 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Hirara has only two skills, representing her two weapons: <font color=\"a6aafb\">Meisen-e</font> and <font color=\"a6aafb\">Kaerazu</font>. Drag one skill onto the other to cast a combo skill.\n\nHirara has 2 <font color=\"a6aafb\">Crimson / Death</font> Energy. Casting a combo skill consumes 1 <font color=\"a6aafb\">Crimson / Death</font> Energy. Energy recovery time is the same as the cooldown of <font color=\"a6aafb\">Meisen-e</font>. Consuming Energy interrupts the recovery process.\n\nHirara only deals 30(+4*Hero Level)% damage to minions.",
-                      "skillicon": "https://raw.githubusercontent.com/gdsfmh/L3nGk4ppps/refs/heads/main/Uploads/hirara-1.jpeg",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_08027b326d3c236be35e6d82a6b7dbf2.png",
                       "skillid": 13380,
                       "skillname": "Twin Fans: Ukifune",
-                      "skilltag": [
-                        {
-                          "tagid": 62,
-                          "tagname": "Buff",
-                          "tagrgb": "79,156,184"
-                        }
-                      ],
+                      "skilltag": [],
                       "skillvideo": ""
                     },
                     {
-                      "skillcd&cost": "CD: 8.5",
+                      "skillcd&cost": "CD: 9",
                       "skilldesc": "Hirara rides the waves using <font color=\"a6aafb\">Meisen-e</font>, performing up to two <font color=\"a6aafb\">joystick dashes</font> (the first dash goes in her facing direction). She deals 150<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit.",
-                      "skillicon": "https://raw.githubusercontent.com/gdsfmh/L3nGk4ppps/refs/heads/main/Uploads/hirara-2.jpeg",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_e474b986578e520c42bef6d49e5509cb.png",
                       "skillid": 13320,
                       "skillname": "Meisen-e",
-                      "skilltag": [
-                        {
-                          "tagid": 81,
-                          "tagname": "Mobility",
-                          "tagrgb": "162,105,198"
-                        }
-                      ],
+                      "skilltag": [],
                       "skillvideo": ""
                     },
                     {
                       "skillcd&cost": "CD: 5",
-                      "skilldesc": "Hirara uses <font color=\"a6aafb\">Kaerazu</font> to unleash the <font color=\"a6aafb\">Crimson Maple</font>, dealing 150<font color=\"fba51f\"> (+50% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a fan-shaped area.\n\nAfter a short delay, she deals damage again at the target location, dealing 2 times the initial <font color=\"a6aafb\">Crimson Maple</font> damage.",
-                      "skillicon": "https://raw.githubusercontent.com/gdsfmh/L3nGk4ppps/refs/heads/main/Uploads/hirara-ulti1.jpeg",
+                      "skilldesc": "Hirara uses <font color=\"a6aafb\">Kaerazu</font> to unleash the <font color=\"a6aafb\">Crimson Maple</font>, dealing 150<font color=\"fba51f\"> (+65% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in a fan-shaped area.\n\nAfter a short delay, she deals damage again at the target location, dealing 2 times the initial <font color=\"a6aafb\">Crimson Maple</font> damage.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_14b0cce85253b33fb3d1bd1e21a09d9f.png",
                       "skillid": 13310,
                       "skillname": "Kaerazu",
-                      "skilltag": [
-                        {
-                          "tagid": 32,
-                          "tagname": "AOE",
-                          "tagrgb": "199,121,85"
-                        }
-                      ],
+                      "skilltag": [],
                       "skillvideo": ""
                     }
                   ],
@@ -83,56 +65,28 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Hirara has only two skills, representing her two weapons: <font color=\"a6aafb\">Meisen-e</font> and <font color=\"a6aafb\">Kaerazu</font>. Drag one skill onto the other to cast a combo skill.\n\nHirara has 2 <font color=\"a6aafb\">Crimson / Death</font> Energy. Casting a combo skill consumes 1 <font color=\"a6aafb\">Crimson / Death</font> Energy. Energy recovery time is the same as the cooldown of <font color=\"a6aafb\">Meisen-e</font>. Consuming Energy interrupts the recovery process.\n\nHirara only deals 30(+4*Hero Level)% damage to minions.",
-                      "skillicon": "https://raw.githubusercontent.com/gdsfmh/L3nGk4ppps/refs/heads/main/Uploads/hirara-1.jpeg",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_08027b326d3c236be35e6d82a6b7dbf2.png",
                       "skillid": 13380,
                       "skillname": "Twin Fans: Ukifune",
-                      "skilltag": [
-                        {
-                          "tagid": 62,
-                          "tagname": "Buff",
-                          "tagrgb": "79,156,184"
-                        }
-                      ],
+                      "skilltag": [],
                       "skillvideo": ""
                     },
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Hirara enhances <font color=\"a6aafb\">Kaerazu</font> with the power of <font color=\"a6aafb\">Meisen-e</font> to cast a combo skill.\nShe becomes untargetable and immobilized for up to 1s.\nAfter 0.6s, she deals 3.5 times <font color=\"a6aafb\">Crimson Maple</font> damage, and can then cast the second <font color=\"a6aafb\">joystick dash</font> of <font color=\"a6aafb\">Meisen-e</font> to end these states early.",
-                      "skillicon": "https://raw.githubusercontent.com/gdsfmh/L3nGk4ppps/refs/heads/main/Uploads/hirara-22.jpeg",
+                      "skilldesc": "Hirara enhances <font color=\"a6aafb\">Kaerazu</font> with the power of <font color=\"a6aafb\">Meisen-e</font> to cast a combo skill.\nShe becomes untargetable and immobilized for up to 1s.\nAfter 0.6s, she deals 3 times <font color=\"a6aafb\">Crimson Maple</font> damage, and can then cast the second <font color=\"a6aafb\">joystick dash</font> of <font color=\"a6aafb\">Meisen-e</font> to end these states early.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_1f6a0ce72a450b74c732bcb3a7a8d686.png",
                       "skillid": 13391,
                       "skillname": "Falling Maple",
-                      "skilltag": [
-                        {
-                          "tagid": 31,
-                          "tagname": "Burst",
-                          "tagrgb": "199,121,85"
-                        },
-                        {
-                          "tagid": 41,
-                          "tagname": "Invincible",
-                          "tagrgb": "177,157,96"
-                        }
-                      ],
+                      "skilltag": [],
                       "skillvideo": ""
                     },
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Hirara enhances <font color=\"a6aafb\">Meisen-e</font> with the power of <font color=\"a6aafb\">Kaerazu</font> to cast a combo skill.\nAfter casting the first <font color=\"a6aafb\">joystick dash</font> of <font color=\"a6aafb\">Meisen-e</font>, she spins, dealing 2.5 times the <font color=\"a6aafb\">Crimson Maple</font> damage and immobilizing enemies for 0.8s.",
-                      "skillicon": "https://raw.githubusercontent.com/gdsfmh/L3nGk4ppps/refs/heads/main/Uploads/hirara-ulti2.jpeg",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_91ebdff8ef41201f5aec33240ea632f8.png",
                       "skillid": 13390,
                       "skillname": "Infernal Torrent",
-                      "skilltag": [
-                        {
-                          "tagid": 21,
-                          "tagname": "CC",
-                          "tagrgb": "205,93,109"
-                        },
-                        {
-                          "tagid": 32,
-                          "tagname": "AOE",
-                          "tagrgb": "199,121,85"
-                        }
-                      ],
+                      "skilltag": [],
                       "skillvideo": ""
                     }
                   ],
@@ -181,7 +135,7 @@
                 "Jungle",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_ec67aa6f87226cceb794b3786d14c902.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_ec67aa6f87226cceb794b3786d14c902.png",
               "sorticon1": "",
               "sorticon2": "",
               "sortid": [
@@ -232,12 +186,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_3ecd2c0843df7ec85044dafff6bf4553.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_3ecd2c0843df7ec85044dafff6bf4553.png"
                   }
                 }
               ],
@@ -251,22 +205,22 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_10151d43910e62f7aa9ce08df481a20f.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_10151d43910e62f7aa9ce08df481a20f.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_f070d82521ecd2e14d4ef3f25880830a.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_f070d82521ecd2e14d4ef3f25880830a.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_ee1c12c84f49514a30e405fb5c617796.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_ee1c12c84f49514a30e405fb5c617796.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_c6cd232de60da5372a7101a203e56554.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_c6cd232de60da5372a7101a203e56554.png"
                   }
                 }
               ],
@@ -282,12 +236,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_6bbfac806f29d29f17fea9e98d2d2fee.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_6bbfac806f29d29f17fea9e98d2d2fee.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_fbb5065b6ff174d1a20ccf5b7f523514.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_fbb5065b6ff174d1a20ccf5b7f523514.png"
                   }
                 }
               ],
