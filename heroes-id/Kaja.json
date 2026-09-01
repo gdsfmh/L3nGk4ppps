@@ -1,5 +1,6 @@
 {
   "code": 0,
+  "message": "OK",
   "data": {
     "records": [
       {
@@ -10,98 +11,59 @@
         "createdUser": "nickjin",
         "data": {
           "_object": 2667538,
-          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_8ebc0cf38e2d71847258bbcc842648e5.png",
-          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1a0b70adda2acee8c950dd0982b45e5c.jpg",
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/d5baf8eef3ca4381a929451dc2b68207.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/c45fd271b45fe26a7f2b34a9dfe77b29.jpg",
           "hero": {
             "_createdAt": 1724837699141,
             "_id": "66ceef43af5771f18c50124c",
-            "_updatedAt": 1765974302788,
+            "_updatedAt": 1785917700563,
             "data": {
               "abilityshow": [
-                "30",
+                "80",
                 "20",
-                "60",
-                "50"
+                "70",
+                "60"
               ],
-              "difficulty": "50",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png",
+              "difficulty": "60",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_d558bb881e18a070eaeda1e1fdc248a8.png",
               "heroid": 62,
               "heroskilllist": [
                 {
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Kaja memperoleh Wrath Sanction setiap 6 detik. Basic Attack berikutnya akan mengeluarkan petir pada lawan, memberikan <font color=\"7f62fe\">Magic Damage</font> yang setara dengan 100<font color=\"62f8fe\"> (+100% Total Magic Power)</font> + 4% Max HP target dan menyebabkan <font color=\"a6aafb\">Paralyze</font> ke mereka. Petir juga akan mengenai lawan di sekitar (hingga 3 kali).\n\nMeningkatkan Damage sebesar 200% Max HP target pada Minion dan Creep.\n\n<font color=\"a6aafb\">Paralyze</font>: Menyebabkan Slow ke Hero dan unit Summon lawan serta mengurangi 2.5% Damage mereka (hingga 6 Stack) selama 5 detik.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_886fc87f5a6bb8be73d7ff0f1265368d.png",
+                      "skilldesc": "Damage skill Kaja menerapkan efek <font color=\"a6aafb\">Paralysis</font> ke unit lawan, menyebabkan slow singkat ke hero atau unit panggilan dan mengurangi 8% damage mereka selama 5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_46a56934f63740c2a0eced6c4adc9879.png",
                       "skillid": 6240,
-                      "skillname": "Wrath Sanction",
-                      "skilltag": [
-                        {
-                          "tagid": 62,
-                          "tagname": "Buff",
-                          "tagrgb": "79,156,184"
-                        }
-                      ],
+                      "skillname": "Wings of Lightning",
+                      "skilltag": [],
                       "skillvideo": ""
                     },
                     {
-                      "skillcd&cost": "CD: 5.5   Mana Cost: 50",
-                      "skilldesc": "Kaja mengeluarkan Ringed Electric Blade, memberikan 135<font color=\"62f8fe\"> (+70% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan efek <font color=\"a6aafb\">Paralyze</font> kepada lawan yang terkena. Serangan ini juga mengungkapkan posisi lawan yang terkena secara singkat.\nSetiap kali Ringed Electric Blade memberikan Damage, Kaja memulihkan 100 HP (berkurang menjadi 30% setelah mengenai lebih dari 1 kali).",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_17653d39e18c367eb027863afa142fe8.png",
+                      "skillcd&cost": "CD: 5.5",
+                      "skilldesc": "Kaja memanggil cincin Primal Lightning yang meluas dan menyusut.\nLawan yang terkena menerima 160<font color=\"62f8fe\"> (+70% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan memulihkan 78 HP untuk Kaja. Pemulihan HP dari serangan-serangan berikutnya berkurang menjadi 33%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_53c8df4d8c71bb08be446676013e5dea.png",
                       "skillid": 6210,
                       "skillname": "Ring of Order",
-                      "skilltag": [
-                        {
-                          "tagid": 32,
-                          "tagname": "Area Efek",
-                          "tagrgb": "199,121,85"
-                        },
-                        {
-                          "tagid": 22,
-                          "tagname": "Slow",
-                          "tagrgb": "205,93,109"
-                        }
-                      ],
+                      "skilltag": [],
                       "skillvideo": ""
                     },
                     {
-                      "skillcd&cost": "CD: 13   Mana Cost: 65",
-                      "skilldesc": "Kaja bergerak ke arah yang ditentukan sambil meninggalkan 3 Lightning Bomb di sepanjang jalurnya. Lightning Bomb akan meledak saat mengenai lawan, memberikan 150<font color=\"62f8fe\"> (+35% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> kepada lawan dan menyebabkan efek <font color=\"a6aafb\">Paralyze</font> kepada mereka.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a4e4ae951469d8f7ea8719442a8830a7.png",
+                      "skillcd&cost": "CD: 14",
+                      "skilldesc": "Kaja menerjang ke area target, mendapatkan Kebal Crowd Control selama menerjang. Saat tiba, dia memberikan 250<font color=\"62f8fe\"> (+120% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font>, menyebabkan knockback dan stun ke lawan di sekitar selama 0.5 detik, lalu memasuki mode <font color=\"a6aafb\">Soaring</font>.\n\nMode <font color=\"a6aafb\">Soaring</font> berlangsung selama 6.6 detik. Selama durasi ini, dia mengabaikan rintangan dan mendapatkan 15% Movement Speed, tetapi radius berbalik arah dibatasi. Dia bisa melancarkan Basic Attack sambil bergerak, memberikan <font color=\"7f62fe\">Magic Damage</font> sebesar 100<font color=\"62f8fe\"> (+25% Total Magic Power)</font> (+ 2% Max HP target) ke lawan di sekitar.\n\nSaat memasuki mode <font color=\"a6aafb\">Soaring</font>, cooldown <font color=\"a6aafb\">Soaring Wings</font> berkurang menjadi 4 detik (tidak terpengaruh oleh Pengurangan Cooldown). Mengenai hero atau creep akan memperpanjang mode <font color=\"a6aafb\">Soaring</font> sebanyak 2.6 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_cbb8ea730be287b5380201dc3db632e6.png",
                       "skillid": 6220,
-                      "skillname": "Lightning Bomb",
-                      "skilltag": [
-                        {
-                          "tagid": 81,
-                          "tagname": "Blink",
-                          "tagrgb": "162,105,198"
-                        },
-                        {
-                          "tagid": 33,
-                          "tagname": "Damage",
-                          "tagrgb": "199,121,85"
-                        }
-                      ],
+                      "skillname": "Soaring Wings",
+                      "skilltag": [],
                       "skillvideo": ""
                     },
                     {
-                      "skillcd&cost": "CD: 60   Mana Cost: 150",
-                      "skilldesc": "Kaja memberikan 200<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke Hero lawan yang ditentukan, menyebabkan Suppress dan <font color=\"a6aafb\">Paralyze</font> selama 1.5 detik.\n\nSelama Suppress berlangsung, Kaja dapat menyeret lawan bersamanya.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_97e2b721acd4d9ce8180dafdebd0954f.png",
+                      "skillcd&cost": "CD: 60",
+                      "skilldesc": "Kaja melemparkan <font color=\"a6aafb\">Primal Lightning Lasso</font> ke area target. Setelah jeda 0.5 detik, semua hero lawan yang masih berada di area tersebut akan menerima 360<font color=\"62f8fe\"> (+80% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan terjebak selama 2.5 detik.\n\nSaat aktif, Kaja bisa menyeret dan memperkecil radiusnya, serta menarik lawan di batas area bersamanya (tidak membatalkan skill mereka).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_0a05ccc4f8f00cfab7185ed5405e01cf.png",
                       "skillid": 6230,
-                      "skillname": "Divine Judgment",
-                      "skilltag": [
-                        {
-                          "tagid": 21,
-                          "tagname": "CC",
-                          "tagrgb": "205,93,109"
-                        },
-                        {
-                          "tagid": 62,
-                          "tagname": "Buff",
-                          "tagrgb": "79,156,184"
-                        }
-                      ],
+                      "skillname": "Divine Binding",
+                      "skilltag": [],
                       "skillvideo": ""
                     }
                   ],
@@ -110,7 +72,7 @@
               ],
               "heroskin": null,
               "name": "Kaja",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_92b841a4898314b3a4f1996492bb0b24.png",
+              "painting": "",
               "recommendlevel": [
                 "3",
                 "1",
@@ -142,15 +104,15 @@
                 },
                 ""
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abb6e4a5579bbffa22c9184584e5f155.png",
+              "roadsorticon1": "",
               "roadsorticon2": "",
               "roadsortlabel": [
                 "Roam",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_87a88d7acc62a25869a5316147f3ce6a.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d478b40eec7ae1c15a03c2ef5db20f05.png",
-              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_bd2dce5f2da92dd0fa3a4bb8b45f685e.png",
+              "sorticon1": "",
+              "sorticon2": "",
               "sortid": [
                 {
                   "_id": "6698c06a613093b976b4a97c",
@@ -173,38 +135,18 @@
                   "updatedAt": 1723023113317,
                   "updatedUser": "nickjin"
                 },
-                {
-                  "_id": "6698bfe8613093b976b4a96c",
-                  "caption": "2战士",
-                  "configId": 144237,
-                  "createdAt": 1721286632237,
-                  "createdUser": "nickjin",
-                  "data": {
-                    "_object": 2740651,
-                    "sort_icon": "https://akmweb.youngjoygame.com/web/gms/image/629e282165d4b63deceaf350426ea440.png",
-                    "sort_id": "2",
-                    "sort_title": "fighter"
-                  },
-                  "dynamic": null,
-                  "id": 2740659,
-                  "linkId": [
-                    2740651
-                  ],
-                  "sort": 0,
-                  "updatedAt": 1723023133206,
-                  "updatedUser": "nickjin"
-                }
+                ""
               ],
               "sortlabel": [
                 "Support",
-                "Fighter"
+                ""
               ],
               "speciality": [
-                "Control",
+                "Initiator",
                 "Charge"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_10e88c83ee50f042543e6bf497285028.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1a0b70adda2acee8c950dd0982b45e5c.jpg",
+              "squarehead": "",
+              "squareheadbig": "",
               "story": "Pemimpin Nazar yang menjaga Celestial Palace.",
               "tale": ""
             },
@@ -214,70 +156,78 @@
           "hero_id": 62,
           "relation": {
             "assist": {
-              "desc": "Kaja cocok dengan Hero ber-Damage Burst tinggi seperti Eudora dan Aamon untuk cepat mengeliminasi target yang terkena Suppress dari Ultimate-nya.",
+              "desc": "Dia juga cocok dengan hero yang memiliki damage area, seperti Odette, Pharsa, dan Ixia.Kaja bisa menahan lawan di tempat sementara mereka memberikan damage besar.",
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_d9251718a8894546ba04cfa9ca68dedc.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_10151d43910e62f7aa9ce08df481a20f.png"
                   }
                 },
-                0
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_f070d82521ecd2e14d4ef3f25880830a.png"
+                  }
+                }
               ],
               "target_hero_id": [
-                15,
-                109,
-                0
+                46,
+                52,
+                121
               ]
             },
             "strong": {
-              "desc": "Kaja meng-Counter Assassin yang mengandalkan pergerakan cepat, seperti Fanny dan Lancelot, karena Ultimate-nya akan secara langsung menghentikan pergerakan mereka.",
+              "desc": "Kaja sangat unggul melawan carry tanpa skill mobilitas, seperti Layla, Ixia, dan Vexana.Begitu dia terbang masuk dan menjerat mereka, tidak ada harapan untuk kabur. ",
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3391df36d6dcc54dd1c417098e15ec59.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_b2b38e9406ea0de0b866db7674feea0f.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc4b821e49b904715172136017798da3.png"
-                  }
-                },
-                0,
-                0
-              ],
-              "target_hero_id": [
-                17,
-                47,
-                0,
-                0
-              ]
-            },
-            "weak": {
-              "desc": "Kaja di-Counter oleh Marksman atau Mage jarak jauh seperti Layla dan Pharsa karena jarak pendek dari Ultimate-nya membuatnya rentan dari serangan mereka.",
-              "target_hero": [
-                {
-                  "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_f070d82521ecd2e14d4ef3f25880830a.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10151d43910e62f7aa9ce08df481a20f.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_743edd1702084c4ed247908d698bca77.png"
                   }
-                },
-                0,
-                0
+                }
               ],
               "target_hero_id": [
                 18,
-                52,
-                0,
-                0
+                121,
+                38
+              ]
+            },
+            "weak": {
+              "desc": "Sekarang, jika kamu berhadapan dengan Kaja, meskipun Ultimate-nya tidak bisa dibatalkan dengan Purify, hero dengan mobilitas seperti Kagura, Yi Sun-shin, dan Suyou masih bisa menghindarinya dengan dash.",
+              "target_hero": [
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_da424b020b8ac8235d64a1b8a09aa749.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_961378be3f498d42c25b3defd1635ad1.png"
+                  }
+                },
+                {
+                  "data": {
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_5e4ca70172332dde18bb1dc158ccc5c8.png"
+                  }
+                }
+              ],
+              "target_hero_id": [
+                25,
+                30,
+                126
               ]
             }
           }
@@ -288,12 +238,11 @@
           2667538
         ],
         "sort": 0,
-        "updatedAt": 1726805352355,
-        "updatedUser": "nickjin"
+        "updatedAt": 1785909627620,
+        "updatedUser": "v_liuchang"
       }
     ],
     "total": 1
   },
-  "message": "OK",
   "traceID": null
 }
