@@ -1,5 +1,6 @@
 {
   "code": 0,
+  "message": "OK",
   "data": {
     "records": [
       {
@@ -10,26 +11,15 @@
         "createdUser": "rubickguo",
         "data": {
           "_object": 2684183,
-          "desc": "In teamfights, look for opportunities to use Kaja's Ultimate to suppress an important target, then use his 2nd Skill to pull them into his team and finish them off with his 1st Skill.",
+          "desc": "For initiating teamfights, use Kaja's 2nd Skill to soar, use the terrain to reposition. Follow up with his 1st Skill to slow and reduce their damage, then immediately cast his Ultimate and let the team clean up.",
           "hero_id": 62,
           "skill_id": [
             {
               "_createdAt": 1730960697288,
-              "_id": "672c5d399d856a6db37d94a7",
-              "_updatedAt": 1758787887535,
-              "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_97e2b721acd4d9ce8180dafdebd0954f.png",
-                "skillid": 6230
-              },
-              "id": 110007,
-              "sourceId": 2674712
-            },
-            {
-              "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d94a9",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1785917699822,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a4e4ae951469d8f7ea8719442a8830a7.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_cbb8ea730be287b5380201dc3db632e6.png",
                 "skillid": 6220
               },
               "id": 110009,
@@ -38,12 +28,23 @@
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d94a6",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1785917699822,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_17653d39e18c367eb027863afa142fe8.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_53c8df4d8c71bb08be446676013e5dea.png",
                 "skillid": 6210
               },
               "id": 110006,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960697288,
+              "_id": "672c5d399d856a6db37d94a7",
+              "_updatedAt": 1785917699822,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_0a05ccc4f8f00cfab7185ed5405e01cf.png",
+                "skillid": 6230
+              },
+              "id": 110007,
               "sourceId": 2674712
             }
           ],
@@ -55,8 +56,8 @@
           2684183
         ],
         "sort": 0,
-        "updatedAt": 1713373161252,
-        "updatedUser": "rubickguo"
+        "updatedAt": 1785909573884,
+        "updatedUser": "v_liuchang"
       },
       {
         "_id": "661fffbd17071f48448b212c",
@@ -66,26 +67,15 @@
         "createdUser": "rubickguo",
         "data": {
           "_object": 2684183,
-          "desc": "In the laning phase, use Kaja's enhanced Basic Attacks and 1st Skill to wear down the enemy while stacking paralyze. Look for a chance to grab the enemy with Kaja's Ultimate then use his 2nd Skill to pull them out of position and into the bombs left by the 2nd Skill.",
+          "desc": "In the laning phase, use Kaja's 1st Skill to poke and recover HP. If the enemy engages, use his 2nd Skill to take off, then kite with his aerial Basic Attacks. Kite when attacked, attack when they're out of steam.",
           "hero_id": 62,
           "skill_id": [
             {
               "_createdAt": 1730960697288,
-              "_id": "672c5d399d856a6db37d94a8",
-              "_updatedAt": 1758787887535,
-              "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
-                "skillid": 6200
-              },
-              "id": 110008,
-              "sourceId": 2674712
-            },
-            {
-              "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d94a6",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1785917699822,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_17653d39e18c367eb027863afa142fe8.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_53c8df4d8c71bb08be446676013e5dea.png",
                 "skillid": 6210
               },
               "id": 110006,
@@ -93,24 +83,24 @@
             },
             {
               "_createdAt": 1730960697288,
-              "_id": "672c5d399d856a6db37d94a7",
-              "_updatedAt": 1758787887535,
+              "_id": "672c5d399d856a6db37d94a9",
+              "_updatedAt": 1785917699822,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_97e2b721acd4d9ce8180dafdebd0954f.png",
-                "skillid": 6230
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_cbb8ea730be287b5380201dc3db632e6.png",
+                "skillid": 6220
               },
-              "id": 110007,
+              "id": 110009,
               "sourceId": 2674712
             },
             {
               "_createdAt": 1730960697288,
-              "_id": "672c5d399d856a6db37d94a9",
-              "_updatedAt": 1758787887535,
+              "_id": "672c5d399d856a6db37d94a8",
+              "_updatedAt": 1785917699822,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a4e4ae951469d8f7ea8719442a8830a7.png",
-                "skillid": 6220
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1205_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 6200
               },
-              "id": 110009,
+              "id": 110008,
               "sourceId": 2674712
             }
           ],
@@ -122,12 +112,11 @@
           2684183
         ],
         "sort": 0,
-        "updatedAt": 1713373161254,
-        "updatedUser": "rubickguo"
+        "updatedAt": 1785912787232,
+        "updatedUser": "v_liuchang"
       }
     ],
     "total": 2
   },
-  "message": "OK",
   "traceID": null
 }
