@@ -12800,5 +12800,16 @@
     "sort": "30",
     "date_upload": "2026-09-01",
     "tag": ""
+  },
+  "floryn-celestial": {
+    "key": "floryn-celestial",
+    "hero": "Floryn",
+    "skin_name": "Celestial",
+    "download": "https://github.com/z3ld4-upl0d/m3t4l/releases/download/assets/alice.x.celestial.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/alice%20x%20celestial.png",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/alice%20x%20celestial.png",
+    "sort": "30",
+    "date_upload": "2026-09-01",
+    "tag": ""
   }
 }
