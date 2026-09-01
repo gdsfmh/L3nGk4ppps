@@ -12789,5 +12789,16 @@
     "sort": "30",
     "date_upload": "2026-09-01",
     "tag": ""
+  },
+  "floryn-clouds": {
+    "key": "floryn-clouds",
+    "hero": "Floryn",
+    "skin_name": "Clouds",
+    "download": "https://github.com/z3ld4-upl0d/m3t4l/releases/download/assets/floryn.x.btc.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/floryn%20x%20btc.png",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/floryn%20x%20btc.png",
+    "sort": "30",
+    "date_upload": "2026-09-01",
+    "tag": ""
   }
 }
