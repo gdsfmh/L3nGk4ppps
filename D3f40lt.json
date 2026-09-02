@@ -11492,17 +11492,6 @@
     "date_upload": "2026-06-02",
     "tag": ""
   },
-  "Fredrin-1780462636469": {
-    "key": "Fredrin-1780462636469",
-    "hero": "Fredrin",
-    "skin_name": "Bernard Bear",
-    "download": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-hhdcw2uktm9hhfokkyljqbernand.s-n5vg1jq42hp/AnehGamingOfficial.zip",
-    "img": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/cftvvx9b141000206974.jpg",
-    "img2": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/cftvvx9b141000206974.jpg",
-    "sort": "30",
-    "date_upload": "2026-06-03",
-    "tag": ""
-  },
   "Joy-1780463508764": {
     "key": "Joy-1780463508764",
     "hero": "Joy",
@@ -12819,6 +12808,17 @@
     "download": "https://github.com/z3ld4-upl0d/m3t4l/releases/download/assets/alice.x.celestial.zip",
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/alice%20x%20celestial.png",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/m3t4l/main/alice%20x%20celestial.png",
+    "sort": "30",
+    "date_upload": "2026-09-02",
+    "tag": ""
+  },
+  "fredrin-bernard-bear": {
+    "key": "fredrin-bernard-bear",
+    "hero": "Fredrin",
+    "skin_name": "Bernard Bear",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/fredrinn%20x%20bernard%20bear.zip",
+    "img": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/cftvvx9b141000206974.jpg",
+    "img2": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/cftvvx9b141000206974.jpg",
     "sort": "30",
     "date_upload": "2026-09-02",
     "tag": ""
