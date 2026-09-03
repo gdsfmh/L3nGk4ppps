@@ -12833,5 +12833,16 @@
     "sort": "30",
     "date_upload": "2026-09-03",
     "tag": ""
+  },
+  "hayabusa-itachi": {
+    "key": "hayabusa-itachi",
+    "hero": "Hayabusa",
+    "skin_name": "Itachi",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/hayabusa%20x%20itachi2.zip",
+    "img": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/gusion%20itachi.jpg",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/gusion%20itachi.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-03",
+    "tag": ""
   }
 }
