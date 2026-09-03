@@ -12822,5 +12822,16 @@
     "sort": "30",
     "date_upload": "2026-09-02",
     "tag": ""
+  },
+  "hayabusa-sasuke": {
+    "key": "hayabusa-sasuke",
+    "hero": "Hayabusa",
+    "skin_name": "Sasuke",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/hayabusa%20x%20sasuke.zip",
+    "img": "https://github.com/ddsuphhj/P0tuSk1n/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
+    "img2": "",
+    "sort": "30",
+    "date_upload": "2026-09-03",
+    "tag": ""
   }
 }
