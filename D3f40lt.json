@@ -8100,17 +8100,6 @@
     "date_upload": "2025-09-26",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Star_Wars_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20211212004634"
   },
-  "Hayabusa-1745497108958": {
-    "key": "Hayabusa-1745497108958",
-    "hero": "Hayabusa",
-    "skin_name": "Sasuke",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/hayabusa%20x%20sasuke.zip",
-    "img": "https://github.com/ddsuphhj/P0tuSk1n/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
-    "img2": "https://github.com/ddsuphhj/P0tuSk1n/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
-    "sort": "30",
-    "date_upload": "2026-03-28",
-    "tag": ""
-  },
   "Kimmy-1745909817168": {
     "key": "Kimmy-1745909817168",
     "hero": "Kimmy",
@@ -12830,6 +12819,17 @@
     "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/hayabusa%20x%20itachi2.zip",
     "img": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/gusion%20itachi.jpg",
     "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/gusion%20itachi.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-03",
+    "tag": ""
+  },
+  "hayabusa-sasuke": {
+    "key": "hayabusa-sasuke",
+    "hero": "Hayabusa",
+    "skin_name": "Sasuke",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/hayabusa%20x%20sasuke.zip",
+    "img": "https://github.com/ddsuphhj/P0tuSk1n/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
+    "img2": "https://github.com/ddsuphhj/P0tuSk1n/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
     "sort": "30",
     "date_upload": "2026-09-03",
     "tag": ""
