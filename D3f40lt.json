@@ -12909,5 +12909,16 @@
     "sort": "30",
     "date_upload": "2026-09-05",
     "tag": ""
+  },
+  "miya-alex": {
+    "key": "miya-alex",
+    "hero": "Miya",
+    "skin_name": "Alex",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/miya%20x%20alex.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/miya%20x%20alex.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/miya%20x%20alex.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-05",
+    "tag": ""
   }
 }
