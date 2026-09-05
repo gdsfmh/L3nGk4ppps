@@ -12964,5 +12964,16 @@
     "sort": "30",
     "date_upload": "2026-09-05",
     "tag": ""
+  },
+  "gord-mecha-aurelion": {
+    "key": "gord-mecha-aurelion",
+    "hero": "Gord",
+    "skin_name": "Mecha Aurelion",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/gord%20x%20mecha%20aurelion.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/gord%20x%20mecha%20aurelion.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/gord%20x%20mecha%20aurelion.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-05",
+    "tag": ""
   }
 }
