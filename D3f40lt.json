@@ -12942,5 +12942,16 @@
     "sort": "30",
     "date_upload": "2026-09-05",
     "tag": ""
+  },
+  "yin-taro-sakamoto": {
+    "key": "yin-taro-sakamoto",
+    "hero": "Yin",
+    "skin_name": "Taro Sakamoto",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yin%20x%20taro%20sakamoto.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yin%20x%20taro%20sakamoto.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yin%20x%20taro%20sakamoto.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-05",
+    "tag": ""
   }
 }
