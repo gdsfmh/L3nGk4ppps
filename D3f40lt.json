@@ -3245,15 +3245,6 @@
     "date_upload": "2025-09-01",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
-  "Alucard-G0mNNQGuQB": {
-    "key": "Alucard-G0mNNQGuQB",
-    "hero": "Alucard",
-    "skin_name": "Tanjiro",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/alucard%20X%20tanjiro.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfb_nxj8EJFgC17GAOcfTjDa400U1UerPGg&usqp=CAU",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfb_nxj8EJFgC17GAOcfTjDa400U1UerPGg&usqp=CAU",
-    "sort": "30"
-  },
   "Alucard-6Art1LCY7d": {
     "key": "Alucard-6Art1LCY7d",
     "hero": "Alucard",
@@ -12832,6 +12823,17 @@
     "img2": "https://github.com/ddsuphhj/P0tuSk1n/raw/refs/heads/main/alucard%20x%20sasuke.jpg",
     "sort": "30",
     "date_upload": "2026-09-03",
+    "tag": ""
+  },
+  "alucard-tanjiro": {
+    "key": "alucard-tanjiro",
+    "hero": "Alucard",
+    "skin_name": "Tanjiro",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20tanjiro.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfb_nxj8EJFgC17GAOcfTjDa400U1UerPGg&usqp=CAU",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfb_nxj8EJFgC17GAOcfTjDa400U1UerPGg&usqp=CAU",
+    "sort": "30",
+    "date_upload": "2026-09-05",
     "tag": ""
   }
 }
