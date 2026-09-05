@@ -12843,5 +12843,16 @@
     "sort": "30",
     "date_upload": "2026-09-05",
     "tag": ""
+  },
+  "baxia-sonic": {
+    "key": "baxia-sonic",
+    "hero": "Baxia",
+    "skin_name": "Sonic",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/baxia%20x%20sonic.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/baxia%20x%20sonic.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/baxia%20x%20sonic.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-05",
+    "tag": ""
   }
 }
