@@ -8697,15 +8697,6 @@
     "date_upload": "2026-03-29",
     "tag": ""
   },
-  "Arlott-1750477176350": {
-    "key": "Arlott-1750477176350",
-    "hero": "Arlott",
-    "skin_name": "Custom Kakashi V2",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/arlott%20x%20kakashi2.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59KpYJDLYYupO6M8G70CoyMDyVunn7pY6yjBPtAo806pgSZxyvoj5b0l2&s=10",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59KpYJDLYYupO6M8G70CoyMDyVunn7pY6yjBPtAo806pgSZxyvoj5b0l2&s=10",
-    "sort": "30"
-  },
   "Bane-1750477328303": {
     "key": "Bane-1750477328303",
     "hero": "Bane",
@@ -12838,6 +12829,17 @@
     "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lancelot%20x%20zenitsu.zip",
     "img": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/0wikomuzke5images%20(38)-picsay_image_repair_1705745916551.jpg",
     "img2": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/0wikomuzke5images%20(38)-picsay_image_repair_1705745916551.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-05",
+    "tag": ""
+  },
+  "arlott-kakashi": {
+    "key": "arlott-kakashi",
+    "hero": "Arlott",
+    "skin_name": "Kakashi",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/arlott%20x%20kakashi.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59KpYJDLYYupO6M8G70CoyMDyVunn7pY6yjBPtAo806pgSZxyvoj5b0l2&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59KpYJDLYYupO6M8G70CoyMDyVunn7pY6yjBPtAo806pgSZxyvoj5b0l2&s=10",
     "sort": "30",
     "date_upload": "2026-09-05",
     "tag": ""
