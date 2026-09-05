@@ -12953,5 +12953,16 @@
     "sort": "30",
     "date_upload": "2026-09-05",
     "tag": ""
+  },
+  "cici-mitsuri-kanroji": {
+    "key": "cici-mitsuri-kanroji",
+    "hero": "Cici",
+    "skin_name": "Mitsuri Kanroji",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/cici%20x%20mitsuri%20kanroji.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/cici%20x%20mitsuri%20kanroji.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/cici%20x%20mitsuri%20kanroji.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-05",
+    "tag": ""
   }
 }
