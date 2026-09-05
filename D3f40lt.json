@@ -12876,5 +12876,16 @@
     "sort": "30",
     "date_upload": "2026-09-05",
     "tag": ""
+  },
+  "dyrroth-frieza": {
+    "key": "dyrroth-frieza",
+    "hero": "Dyrroth",
+    "skin_name": "Frieza",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/dyrroth%20x%20frieza.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/dyrroth%20x%20frieza.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/dyrroth%20x%20frieza.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-05",
+    "tag": ""
   }
 }
