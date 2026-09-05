@@ -12865,5 +12865,16 @@
     "sort": "30",
     "date_upload": "2026-09-05",
     "tag": ""
+  },
+  "argus-byakuya-kuchiki": {
+    "key": "argus-byakuya-kuchiki",
+    "hero": "Argus",
+    "skin_name": "Byakuya Kuchiki",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20byakuya%20kuchiki.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20byakuya%20kuchiki.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20byakuya%20kuchiki.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-05",
+    "tag": ""
   }
 }
