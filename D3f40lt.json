@@ -12931,5 +12931,16 @@
     "sort": "30",
     "date_upload": "2026-09-05",
     "tag": ""
+  },
+  "valir-douma": {
+    "key": "valir-douma",
+    "hero": "Valir",
+    "skin_name": "Douma",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/valir%20x%20douma.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/valir%20x%20douma.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/valir%20x%20douma.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-05",
+    "tag": ""
   }
 }
