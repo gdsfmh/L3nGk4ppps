@@ -12854,5 +12854,16 @@
     "sort": "30",
     "date_upload": "2026-09-05",
     "tag": ""
+  },
+  "argus-sousu-aizen": {
+    "key": "argus-sousu-aizen",
+    "hero": "Argus",
+    "skin_name": "Sousu Aizen",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20sousuke%20aizen2.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20sousuke%20aizen2.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20sousuke%20aizen2.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-05",
+    "tag": ""
   }
 }
