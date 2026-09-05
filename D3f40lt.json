@@ -12151,17 +12151,6 @@
     "date_upload": "2026-07-08",
     "tag": ""
   },
-  "dyrroth-sasuke": {
-    "key": "dyrroth-sasuke",
-    "hero": "Dyrroth",
-    "skin_name": "Sasuke",
-    "download": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-plbjutb6g6txctk0v1e4xpsasuke%20dyr.zip-yc5x2gbu4mn/AnehGamingOfficial.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
-    "sort": "30",
-    "date_upload": "2026-07-11",
-    "tag": ""
-  },
   "yi-shun-shin-old-collector": {
     "key": "yi-shun-shin-old-collector",
     "hero": "Yi Shun Shin",
@@ -12972,6 +12961,17 @@
     "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/gord%20x%20mecha%20aurelion.zip",
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/gord%20x%20mecha%20aurelion.jpg",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/gord%20x%20mecha%20aurelion.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-05",
+    "tag": ""
+  },
+  "dyrroth-sasuke": {
+    "key": "dyrroth-sasuke",
+    "hero": "Dyrroth",
+    "skin_name": "Sasuke",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/dyrroth%20x%20sasuke.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
     "sort": "30",
     "date_upload": "2026-09-05",
     "tag": ""
