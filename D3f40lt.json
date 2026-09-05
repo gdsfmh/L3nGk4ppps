@@ -2829,15 +2829,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/badang%20x%20madara.png",
     "sort": "30"
   },
-  "Benedetta-beQD72S5UK": {
-    "key": "Benedetta-beQD72S5UK",
-    "hero": "Benedetta",
-    "skin_name": "Shinobu",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/benedetta%20x%20shinobu.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20x%20shinobu.png",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20x%20shinobu.png",
-    "sort": "30"
-  },
   "Bruno-h2YcPyNSqA": {
     "key": "Bruno-h2YcPyNSqA",
     "hero": "Bruno",
@@ -12834,6 +12825,17 @@
     "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20rengoku.zip",
     "img": "https://raw.githubusercontent.com/rahasia55/tes/main/alucard%20x%20rengoku.png",
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/alucard%20x%20rengoku.png",
+    "sort": "30",
+    "date_upload": "2026-09-05",
+    "tag": ""
+  },
+  "benedetta-shinobu": {
+    "key": "benedetta-shinobu",
+    "hero": "Benedetta",
+    "skin_name": "Shinobu",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/benedetta%20x%20shinobu.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20x%20shinobu.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/benedetta%20x%20shinobu.png",
     "sort": "30",
     "date_upload": "2026-09-05",
     "tag": ""
