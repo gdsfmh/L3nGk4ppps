@@ -12997,5 +12997,16 @@
     "sort": "30",
     "date_upload": "2026-09-06",
     "tag": ""
+  },
+  "claude-metro-zero": {
+    "key": "claude-metro-zero",
+    "hero": "Claude",
+    "skin_name": "Metro Zero",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/claude%20x%20xbox%20metro%20zero.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/xborg%20metro%20zero.jpg",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/refs/heads/main/xborg%20metro%20zero.jpg",
+    "sort": "15",
+    "date_upload": "2026-09-06",
+    "tag": ""
   }
 }
