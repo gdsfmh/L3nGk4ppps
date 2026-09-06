@@ -13030,5 +13030,16 @@
     "sort": "30",
     "date_upload": "2026-09-06",
     "tag": ""
+  },
+  "kimmy-starscream": {
+    "key": "kimmy-starscream",
+    "hero": "Kimmy",
+    "skin_name": "Starscream",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/kimmy%20x%20starscream.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165625",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero648-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165625",
+    "sort": "30",
+    "date_upload": "2026-09-06",
+    "tag": ""
   }
 }
