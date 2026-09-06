@@ -12986,5 +12986,16 @@
     "sort": "30",
     "date_upload": "2026-09-06",
     "tag": ""
+  },
+  "argus-asta": {
+    "key": "argus-asta",
+    "hero": "Argus",
+    "skin_name": "Asta",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20asta.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20asta.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20asta.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-06",
+    "tag": ""
   }
 }
