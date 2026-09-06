@@ -13041,5 +13041,16 @@
     "sort": "30",
     "date_upload": "2026-09-06",
     "tag": ""
+  },
+  "lancelot-neobeast": {
+    "key": "lancelot-neobeast",
+    "hero": "Lancelot",
+    "skin_name": "Neobeast",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lancelot%20x%20ling%20neobeast.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125043",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125043",
+    "sort": "30",
+    "date_upload": "2026-09-06",
+    "tag": ""
   }
 }
