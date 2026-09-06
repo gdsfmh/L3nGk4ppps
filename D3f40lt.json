@@ -12975,5 +12975,16 @@
     "sort": "30",
     "date_upload": "2026-09-05",
     "tag": ""
+  },
+  "angela-sweet-photographer": {
+    "key": "angela-sweet-photographer",
+    "hero": "Angela",
+    "skin_name": "Sweet Photographer",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/angela%20x%20sweet%20photographer.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/angela%20x%20sweet%20photographer.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/angela%20x%20sweet%20photographer.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-06",
+    "tag": ""
   }
 }
