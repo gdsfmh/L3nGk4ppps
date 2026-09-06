@@ -13008,5 +13008,16 @@
     "sort": "15",
     "date_upload": "2026-09-06",
     "tag": ""
+  },
+  "lancelot-halibel-bleach": {
+    "key": "lancelot-halibel-bleach",
+    "hero": "Lancelot",
+    "skin_name": "Halibel Bleach",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lancelot%20x%20halibel%20bleach.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lancelot%20x%20halibel%20bleach.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lancelot%20x%20halibel%20bleach.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-06",
+    "tag": ""
   }
 }
