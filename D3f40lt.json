@@ -13019,5 +13019,16 @@
     "sort": "30",
     "date_upload": "2026-09-06",
     "tag": ""
+  },
+  "terizla-super-mario": {
+    "key": "terizla-super-mario",
+    "hero": "Terizla",
+    "skin_name": "Super Mario",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/terizla%20x%20mario.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/terizla%20x%20mario.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/terizla%20x%20mario.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-06",
+    "tag": ""
   }
 }
