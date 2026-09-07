@@ -11557,17 +11557,6 @@
     "date_upload": "2026-06-18",
     "tag": ""
   },
-  "Alucard-1782464169331": {
-    "key": "Alucard-1782464169331",
-    "hero": "Alucard",
-    "skin_name": "Ken",
-    "download": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-8ldfpplijms5kd0f24qg4alucard%20ken-dzwb33foc8/AnehGamingOfficial.zip",
-    "img": "https://static.wikia.nocookie.net/capcomdatabase/images/9/9b/ChenKen.png/revision/latest?cb=20100605041329",
-    "img2": "https://static.wikia.nocookie.net/capcomdatabase/images/9/9b/ChenKen.png/revision/latest?cb=20100605041329",
-    "sort": "30",
-    "date_upload": "2026-06-26",
-    "tag": ""
-  },
   "Eudora-1782464334733": {
     "key": "Eudora-1782464334733",
     "hero": "Eudora",
@@ -13049,6 +13038,17 @@
     "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20stave.zip",
     "img": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/argus%20x%20steve.jpg",
     "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/argus%20x%20steve.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-07",
+    "tag": ""
+  },
+  "alucard-ken": {
+    "key": "alucard-ken",
+    "hero": "Alucard",
+    "skin_name": "Ken",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20ken.zip",
+    "img": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/chou%20sf2.png",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/chou%20sf2.png",
     "sort": "30",
     "date_upload": "2026-09-07",
     "tag": ""
