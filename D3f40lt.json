@@ -13074,5 +13074,16 @@
     "sort": "30",
     "date_upload": "2026-09-07",
     "tag": ""
+  },
+  "alucard-rimuru": {
+    "key": "alucard-rimuru",
+    "hero": "Alucard",
+    "skin_name": "Rimuru",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20rimuru.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20rimuru.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20rimuru.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-07",
+    "tag": ""
   }
 }
