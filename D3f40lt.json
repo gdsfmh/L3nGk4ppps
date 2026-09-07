@@ -13052,5 +13052,16 @@
     "sort": "30",
     "date_upload": "2026-09-07",
     "tag": ""
+  },
+  "alucard-ichigo": {
+    "key": "alucard-ichigo",
+    "hero": "Alucard",
+    "skin_name": "Ichigo",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20ichigo4.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20ichigo4.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20ichigo4.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-07",
+    "tag": ""
   }
 }
