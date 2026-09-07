@@ -11524,17 +11524,6 @@
     "date_upload": "2026-06-16",
     "tag": ""
   },
-  "Alucard-1781692108818": {
-    "key": "Alucard-1781692108818",
-    "hero": "Alucard",
-    "skin_name": "Steve (777daa)",
-    "download": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-0eublhqzv6sr0bmrhwjousteve-94imxl8jqen/AnehGamingOfficial.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTftLPtL5UQgGJFcsKlbsGINA0zKZa_vOFAS_tuItjz6IYoLi_59QfiI-bX&s=10",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTftLPtL5UQgGJFcsKlbsGINA0zKZa_vOFAS_tuItjz6IYoLi_59QfiI-bX&s=10",
-    "sort": "30",
-    "date_upload": "2026-06-17",
-    "tag": ""
-  },
   "Phoveus-1781692534746": {
     "key": "Phoveus-1781692534746",
     "hero": "Phoveus",
@@ -13051,6 +13040,17 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125043",
     "sort": "30",
     "date_upload": "2026-09-06",
+    "tag": ""
+  },
+  "alucard-steve": {
+    "key": "alucard-steve",
+    "hero": "Alucard",
+    "skin_name": "Steve",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20stave.zip",
+    "img": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/argus%20x%20steve.jpg",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/argus%20x%20steve.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-07",
     "tag": ""
   }
 }
