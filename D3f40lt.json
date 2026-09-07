@@ -13063,5 +13063,16 @@
     "sort": "30",
     "date_upload": "2026-09-07",
     "tag": ""
+  },
+  "alucard-cid-kagenou": {
+    "key": "alucard-cid-kagenou",
+    "hero": "Alucard",
+    "skin_name": "Cid Kagenou",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20cid%20kagenou.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20cid%20kagenou.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20cid%20kagenou.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-07",
+    "tag": ""
   }
 }
