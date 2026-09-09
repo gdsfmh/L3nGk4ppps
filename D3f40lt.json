@@ -12030,17 +12030,6 @@
     "date_upload": "2026-07-01",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Epic_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216162258"
   },
-  "balerick-arbiter-of-stars": {
-    "key": "balerick-arbiter-of-stars",
-    "hero": "Balerick",
-    "skin_name": "Arbiter of Stars",
-    "download": "https://raw.githubusercontent.com/ddsuphhj/D3f4ultSk1n/main/belerick%20star.zip",
-    "img": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/belerick%20star.jpg",
-    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/belerick%20star.jpg",
-    "sort": "15",
-    "date_upload": "2026-07-02",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
-  },
   "yu-zhong-crystal-earth-dragon": {
     "key": "yu-zhong-crystal-earth-dragon",
     "hero": "Yu Zhong",
@@ -13085,5 +13074,16 @@
     "sort": "30",
     "date_upload": "2026-09-07",
     "tag": ""
+  },
+  "balerick-smouldering-fortress": {
+    "key": "balerick-smouldering-fortress",
+    "hero": "Balerick",
+    "skin_name": "Smouldering Fortress",
+    "download": "https://raw.githubusercontent.com/ddsuphhj/D3f4ultSk1n/main/belerick%20star.zip",
+    "img": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/belerick%20star.jpg",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/belerick%20star.jpg",
+    "sort": "15",
+    "date_upload": "2026-09-09",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   }
 }
