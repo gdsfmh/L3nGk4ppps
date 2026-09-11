@@ -11592,17 +11592,6 @@
     "date_upload": "2026-06-29",
     "tag": ""
   },
-  "Yin-1782693017149": {
-    "key": "Yin-1782693017149",
-    "hero": "Yin",
-    "skin_name": "Yuta",
-    "download": "https://raw.githubusercontent.com/AnehGamingOfficial/temp-ml/main/temp/AnehGamingOfficial-gztn6jgd1tfr5hlrhkdr4fyinyuta-yoffzxgzzgo/AnehGamingOfficial.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJL7fCsKimgJAb4pCvozFgF4IZfVdbzTvEcSkOC5v0W-A7ubQqrUPhvDeS&s=10",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJL7fCsKimgJAb4pCvozFgF4IZfVdbzTvEcSkOC5v0W-A7ubQqrUPhvDeS&s=10",
-    "sort": "30",
-    "date_upload": "2026-06-29",
-    "tag": ""
-  },
   "Johnson-1782695901141": {
     "key": "Johnson-1782695901141",
     "hero": "Johnson",
@@ -13084,6 +13073,17 @@
     "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/yin%20x%20naruto%20kcm.zip",
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yin%20x%20naruto%20kcm.jpg",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yin%20x%20naruto%20kcm.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-11",
+    "tag": ""
+  },
+  "yin-yuta": {
+    "key": "yin-yuta",
+    "hero": "Yin",
+    "skin_name": "Yuta",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yin%20x%20yuta.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yin%20x%20yuta.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yin%20x%20yuta.jpg",
     "sort": "30",
     "date_upload": "2026-09-11",
     "tag": ""
