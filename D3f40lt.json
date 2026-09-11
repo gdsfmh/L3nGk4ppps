@@ -8561,15 +8561,6 @@
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSabdJhMmtZkZvezqjttPcm1h_0cbmrkTXHqE_SYnZLIT9YK3yaKwRK5c&s=10",
     "sort": "30"
   },
-  "Yin-1748840022430": {
-    "key": "Yin-1748840022430",
-    "hero": "Yin",
-    "skin_name": "Naruto kcm",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/yin%20x%20naruto%20kcm.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8tbtXpptGMmApTi822ZNI9Xs5lFKue5XBJNUBEZGhu4NAiWSDKfWhY6Q&s=10",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8tbtXpptGMmApTi822ZNI9Xs5lFKue5XBJNUBEZGhu4NAiWSDKfWhY6Q&s=10",
-    "sort": "30"
-  },
   "Yin-1748840279948": {
     "key": "Yin-1748840279948",
     "hero": "Yin",
@@ -13085,5 +13076,16 @@
     "sort": "15",
     "date_upload": "2026-09-09",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
+  },
+  "yin-naruto-kcm": {
+    "key": "yin-naruto-kcm",
+    "hero": "Yin",
+    "skin_name": "Naruto kcm",
+    "download": "https://github.com/rahasia55/New-Default-skin/raw/refs/heads/main/yin%20x%20naruto%20kcm.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yin%20x%20naruto%20kcm.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yin%20x%20naruto%20kcm.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-11",
+    "tag": ""
   }
 }
