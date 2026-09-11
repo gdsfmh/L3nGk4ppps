@@ -2093,17 +2093,6 @@
     "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   },
-  "Yu Zhong-nIMI3rlM8x": {
-    "key": "Yu Zhong-nIMI3rlM8x",
-    "hero": "Yu Zhong",
-    "skin_name": "Blood Serpent",
-    "download": "https://raw.githubusercontent.com/ddsuphhj/D3f4ultSk1n/main/yu%20zhong%20collector.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest?cb=20220525170239",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest?cb=20220525170239",
-    "sort": "15",
-    "date_upload": "2025-09-29",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
-  },
   "Yu Zhong-h4IA8jIOgc": {
     "key": "Yu Zhong-h4IA8jIOgc",
     "hero": "Yu Zhong",
@@ -13087,5 +13076,16 @@
     "sort": "30",
     "date_upload": "2026-09-11",
     "tag": ""
+  },
+  "yu-zhong-blood-serpent": {
+    "key": "yu-zhong-blood-serpent",
+    "hero": "Yu Zhong",
+    "skin_name": "Blood Serpent",
+    "download": "https://raw.githubusercontent.com/ddsuphhj/D3f4ultSk1n/main/yu%20zhong%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807054340",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20260807054340",
+    "sort": "15",
+    "date_upload": "2026-09-11",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   }
 }
