@@ -13078,5 +13078,16 @@
     "sort": "30",
     "date_upload": "2026-09-15",
     "tag": ""
+  },
+  "chou-naruto-": {
+    "key": "chou-naruto-",
+    "hero": "Chou",
+    "skin_name": "Naruto ",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/chou%20x%20naruto.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/chou%20x%20naruto.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/chou%20x%20naruto.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-15",
+    "tag": ""
   }
 }
