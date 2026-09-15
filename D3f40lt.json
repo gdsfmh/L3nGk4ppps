@@ -5377,15 +5377,6 @@
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL4JSdkA7yI4zLzTcGqloGi-4f7m3VhAhaewtx_quWfVTESAI_x9D1rF8&s=10",
     "sort": "30"
   },
-  "Hayabusa-zpM2Xbh5GN": {
-    "key": "Hayabusa-zpM2Xbh5GN",
-    "hero": "Hayabusa",
-    "skin_name": "Custom Minato",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/hayabusa%20x%20minato.zip",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRpKhd1jOIIiDkzPea2vA7obM3hYdLzZheTQ1V46VuNzC-loDckuhoXII&s=10",
-    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRpKhd1jOIIiDkzPea2vA7obM3hYdLzZheTQ1V46VuNzC-loDckuhoXII&s=10",
-    "sort": "30"
-  },
   "Ling-IemEWc2uPL": {
     "key": "Ling-IemEWc2uPL",
     "hero": "Ling",
@@ -13071,6 +13062,17 @@
     "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/gatotkqca%20x%20jiraiya.zip",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFgRa41_2t1K9_7Ni_qXJzDbEjTdmZs2wlJd5g27rSWCZZGw9XIWcjVesU&s=10",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFgRa41_2t1K9_7Ni_qXJzDbEjTdmZs2wlJd5g27rSWCZZGw9XIWcjVesU&s=10",
+    "sort": "30",
+    "date_upload": "2026-09-15",
+    "tag": ""
+  },
+  "hayabusa-minato": {
+    "key": "hayabusa-minato",
+    "hero": "Hayabusa",
+    "skin_name": "Minato",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/hayabusa%20x%20minato.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRpKhd1jOIIiDkzPea2vA7obM3hYdLzZheTQ1V46VuNzC-loDckuhoXII&s=10",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRpKhd1jOIIiDkzPea2vA7obM3hYdLzZheTQ1V46VuNzC-loDckuhoXII&s=10",
     "sort": "30",
     "date_upload": "2026-09-15",
     "tag": ""
