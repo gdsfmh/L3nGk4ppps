@@ -5503,15 +5503,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/cecilion%20x%20geto.png",
     "sort": "30"
   },
-  "Chou-1xH3Y1oLRT": {
-    "key": "Chou-1xH3Y1oLRT",
-    "hero": "Chou",
-    "skin_name": "Sanji",
-    "download": "https://github.com/rahasia55/New-Default-skin/raw/main/chou%20x%20sanji.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20x%20sanji.png",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20x%20sanji.png",
-    "sort": "30"
-  },
   "Khaleed-D5FlS8zhS8": {
     "key": "Khaleed-D5FlS8zhS8",
     "hero": "Khaleed",
@@ -13067,6 +13058,17 @@
     "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/chou%20x%20naruto2.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101452",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero1273-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101452",
+    "sort": "30",
+    "date_upload": "2026-09-15",
+    "tag": ""
+  },
+  "chou-sanji": {
+    "key": "chou-sanji",
+    "hero": "Chou",
+    "skin_name": "Sanji",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/chou%20x%20sanji.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20x%20sanji.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/chou%20x%20sanji.png",
     "sort": "30",
     "date_upload": "2026-09-15",
     "tag": ""
