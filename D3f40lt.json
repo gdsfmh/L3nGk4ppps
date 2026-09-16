@@ -6078,15 +6078,6 @@
     "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/odette%20x%20exorcist.png",
     "sort": "30"
   },
-  "Odete-1723444915836": {
-    "key": "Odete-1723444915836",
-    "hero": "Wanwan",
-    "skin_name": "Custom Exorcist",
-    "download": "https://github.com/rahasia55/New-Up-Skin/raw/main/wanwan%20x%20exorcist.zip",
-    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/wanwan%20x%20exorcist.png",
-    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/wanwan%20x%20exorcist.png",
-    "sort": "30"
-  },
   "Yin-1723445011527": {
     "key": "Yin-1723445011527",
     "hero": "Yin",
@@ -13025,6 +13016,17 @@
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/chou%20x%20naruto.jpg",
     "sort": "30",
     "date_upload": "2026-09-15",
+    "tag": ""
+  },
+  "wanwan-exorcist": {
+    "key": "wanwan-exorcist",
+    "hero": "Wanwan",
+    "skin_name": "Exorcist",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/wanwan%20x%20exorcist.zip",
+    "img": "https://raw.githubusercontent.com/rahasia55/tes/main/wanwan%20x%20exorcist.png",
+    "img2": "https://raw.githubusercontent.com/rahasia55/tes/main/wanwan%20x%20exorcist.png",
+    "sort": "30",
+    "date_upload": "2026-09-16",
     "tag": ""
   }
 }
