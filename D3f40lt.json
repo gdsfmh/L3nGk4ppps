@@ -13028,5 +13028,16 @@
     "sort": "30",
     "date_upload": "2026-09-16",
     "tag": ""
+  },
+  "lancelot-soul-vessel": {
+    "key": "lancelot-soul-vessel",
+    "hero": "Lancelot",
+    "skin_name": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lancelot%20x%20soul%20vessel.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lancelot%20x%20soul%20vessel.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lancelot%20x%20soul%20vessel.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-16",
+    "tag": ""
   }
 }
