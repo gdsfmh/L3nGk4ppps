@@ -13074,5 +13074,16 @@
     "sort": "30",
     "date_upload": "2026-09-16",
     "tag": ""
+  },
+  "argus-aizen-hogyoku": {
+    "key": "argus-aizen-hogyoku",
+    "hero": "Argus",
+    "skin_name": "Aizen Hogyoku",
+    "download": "https://github.com/z3ld4-upl0d/upl0d/releases/download/assets/argus.x.aizen.hogyoku.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20aizen%20hogyoku.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/argus%20x%20aizen%20hogyoku.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-16",
+    "tag": ""
   }
 }
