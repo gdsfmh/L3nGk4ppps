@@ -13061,5 +13061,16 @@
     "sort": "30",
     "date_upload": "2026-09-16",
     "tag": ""
+  },
+  "lukas-minato": {
+    "key": "lukas-minato",
+    "hero": "Lukas",
+    "skin_name": "Minato",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/lukas%20x%20minato.zip",
+    "img": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/gusion%20minato.jpg",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/gusion%20minato.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-16",
+    "tag": ""
   }
 }
