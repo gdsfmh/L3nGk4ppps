@@ -13039,5 +13039,16 @@
     "sort": "30",
     "date_upload": "2026-09-16",
     "tag": ""
+  },
+  "yin-oggy": {
+    "key": "yin-oggy",
+    "hero": "Yin",
+    "skin_name": "Oggy",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yin%20x%20oggy.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yin%20x%20oggy.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/yin%20x%20oggy.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-16",
+    "tag": ""
   }
 }
