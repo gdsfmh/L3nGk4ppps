@@ -13063,5 +13063,16 @@
     "sort": "30",
     "date_upload": "2026-09-16",
     "tag": ""
+  },
+  "nana-aspirants": {
+    "key": "nana-aspirants",
+    "hero": "Nana",
+    "skin_name": "Aspirants",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/nana%20x%20vexana%20aspirants.zip",
+    "img": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/vexana%20aspirants.jpg",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/refs/heads/main/vexana%20aspirants.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-16",
+    "tag": ""
   }
 }
