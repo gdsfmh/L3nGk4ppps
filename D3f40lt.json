@@ -5122,17 +5122,6 @@
     "date_upload": "2026-03-10",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
-  "Masha-6fgTWLPrpu": {
-    "key": "Masha-6fgTWLPrpu",
-    "hero": "Masha",
-    "skin_name": "Mai Shiranui",
-    "download": "https://raw.githubusercontent.com/ddsuphhj/D3f4ultSk1n/main/masha%20kof.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
-    "sort": "15",
-    "date_upload": "2025-09-26",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
-  },
   "Nolan-ddqAT4yP67": {
     "key": "Nolan-ddqAT4yP67",
     "hero": "Nolan",
@@ -12839,5 +12828,16 @@
     "sort": "15",
     "date_upload": "2026-09-20",
     "tag": ""
+  },
+  "masha-mai-shiranui": {
+    "key": "masha-mai-shiranui",
+    "hero": "Masha",
+    "skin_name": "Mai Shiranui",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/masha%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero887-portrait.png/revision/latest/scale-to-width-down/150?cb=20240430024127",
+    "sort": "15",
+    "date_upload": "2026-09-20",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
   }
 }
