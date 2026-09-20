@@ -1414,17 +1414,6 @@
     "date_upload": "2025-09-27",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20240309053331"
   },
-  "Brody-BZdZK2LiTs": {
-    "key": "Brody-BZdZK2LiTs",
-    "hero": "Brody",
-    "skin_name": "S.T.U.N",
-    "download": "https://raw.githubusercontent.com/ddsuphhj/D3f4ultSk1n/main/brody%20stun.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
-    "sort": "15",
-    "date_upload": "2026-04-25",
-    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235941"
-  },
   "Chou-X2P7szOdud": {
     "key": "Chou-X2P7szOdud",
     "hero": "Chou",
@@ -12919,5 +12908,16 @@
     "sort": "15",
     "date_upload": "2026-09-20",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
+  },
+  "brody-stun": {
+    "key": "brody-stun",
+    "hero": "Brody",
+    "skin_name": "S.T.U.N",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/brody%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1003-portrait.png/revision/latest?cb=20220525170320",
+    "sort": "15",
+    "date_upload": "2026-09-20",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235941"
   }
 }
