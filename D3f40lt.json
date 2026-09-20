@@ -1038,15 +1038,6 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
     "sort": "0"
   },
-  "Masha-NQwHtZcb7C3NITTWdNc": {
-    "key": "Masha-NQwHtZcb7C3NITTWdNc",
-    "hero": "Masha",
-    "skin_name": " ",
-    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/masha.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest?cb=20220525170858",
-    "sort": "0"
-  },
   "Mathilda-NQwHvqf6NBYCwa9u7Ww": {
     "key": "Mathilda-NQwHvqf6NBYCwa9u7Ww",
     "hero": "Mathilda",
@@ -12839,5 +12830,16 @@
     "sort": "15",
     "date_upload": "2026-09-20",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220203122802"
+  },
+  "masha--": {
+    "key": "masha--",
+    "hero": "Masha",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/masha.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest/scale-to-width-down/150?cb=20260918142339",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero881-portrait.png/revision/latest/scale-to-width-down/150?cb=20260918142339",
+    "sort": "0",
+    "date_upload": "2026-09-20",
+    "tag": ""
   }
 }
