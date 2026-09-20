@@ -12828,5 +12828,16 @@
     "sort": "0",
     "date_upload": "2026-09-20",
     "tag": ""
+  },
+  "bruno-the-purifier": {
+    "key": "bruno-the-purifier",
+    "hero": "Bruno",
+    "skin_name": "The Purifier",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/bruno%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest?cb=20250522142819",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero101210-portrait.png/revision/latest?cb=20250522142819",
+    "sort": "15",
+    "date_upload": "2026-09-20",
+    "tag": ""
   }
 }
