@@ -4673,15 +4673,6 @@
     "date_upload": "2025-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20230214083603"
   },
-  "Clint-urvVLo3F2E": {
-    "key": "Clint-urvVLo3F2E",
-    "hero": "Clint",
-    "skin_name": " ",
-    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/clint.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20220525164553",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest?cb=20220525164553",
-    "sort": "0"
-  },
   "Khaleed-9gskt0jLXy": {
     "key": "Khaleed-9gskt0jLXy",
     "hero": "Khaleed",
@@ -12623,6 +12614,17 @@
     "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/paquito.zip",
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/paquito%20revamp.jpg",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/paquito%20revamp.jpg",
+    "sort": "0",
+    "date_upload": "2026-09-20",
+    "tag": ""
+  },
+  "clint--": {
+    "key": "clint--",
+    "hero": "Clint",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/clint.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest/scale-to-width-down/150?cb=20260918135520",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero131-portrait.png/revision/latest/scale-to-width-down/150?cb=20260918135520",
     "sort": "0",
     "date_upload": "2026-09-20",
     "tag": ""
