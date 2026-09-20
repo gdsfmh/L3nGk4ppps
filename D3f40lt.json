@@ -567,15 +567,6 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20220525170250",
     "sort": "0"
   },
-  "Brody-NQwCk7Uhdo1Z0hg2iPr": {
-    "key": "Brody-NQwCk7Uhdo1Z0hg2iPr",
-    "hero": "Brody",
-    "skin_name": " ",
-    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/brody.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest?cb=20220525172049",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest?cb=20220525172049",
-    "sort": "0"
-  },
   "Bruno-NQwCmhN3cqNac3QgcLZ": {
     "key": "Bruno-NQwCmhN3cqNac3QgcLZ",
     "hero": "Bruno",
@@ -12919,5 +12910,16 @@
     "sort": "15",
     "date_upload": "2026-09-20",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/S.T.U.N._Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235941"
+  },
+  "brody--": {
+    "key": "brody--",
+    "hero": "Brody",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/brody.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest/scale-to-width-down/150?cb=20260916131931",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest/scale-to-width-down/150?cb=20260916131931",
+    "sort": "0",
+    "date_upload": "2026-09-20",
+    "tag": ""
   }
 }
