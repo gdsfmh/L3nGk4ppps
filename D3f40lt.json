@@ -500,15 +500,6 @@
     "skin_name": "",
     "sort": "0"
   },
-  "Badang-NQwCJx3whcYI75w6Ua9": {
-    "key": "Badang-NQwCJx3whcYI75w6Ua9",
-    "hero": "Badang",
-    "skin_name": " ",
-    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/badang.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
-    "sort": "0"
-  },
   "Balerick-NQwCMEhvMg248ERAJQZ": {
     "key": "Balerick-NQwCMEhvMg248ERAJQZ",
     "hero": "Balerick",
@@ -12918,6 +12909,17 @@
     "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/brody.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest/scale-to-width-down/150?cb=20260916131931",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest/scale-to-width-down/150?cb=20260916131931",
+    "sort": "0",
+    "date_upload": "2026-09-20",
+    "tag": ""
+  },
+  "badang--": {
+    "key": "badang--",
+    "hero": "Badang",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/badang.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest/scale-to-width-down/150?cb=20260919020718",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest/scale-to-width-down/150?cb=20260919020718",
     "sort": "0",
     "date_upload": "2026-09-20",
     "tag": ""
