@@ -1099,15 +1099,6 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero461-portrait.png/revision/latest?cb=20220525165233",
     "sort": "0"
   },
-  "Paquito-NQwIilfhI6oRTKAH5v5": {
-    "key": "Paquito-NQwIilfhI6oRTKAH5v5",
-    "hero": "Paquito",
-    "skin_name": " ",
-    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/paquito.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
-    "sort": "0"
-  },
   "Parsha-NQwIl5TDnLvCt196t3Z": {
     "key": "Parsha-NQwIl5TDnLvCt196t3Z",
     "hero": "Parsha",
@@ -12741,6 +12732,17 @@
     "img": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/paquito%20sf2.png",
     "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/paquito%20sf2.png",
     "sort": "15",
+    "date_upload": "2026-09-20",
+    "tag": ""
+  },
+  "paquito--": {
+    "key": "paquito--",
+    "hero": "Paquito",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/paquito.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/paquito%20revamp.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/paquito%20revamp.jpg",
+    "sort": "0",
     "date_upload": "2026-09-20",
     "tag": ""
   }
