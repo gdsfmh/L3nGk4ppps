@@ -999,16 +999,6 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero681-portrait.png/revision/latest?cb=20220525165705",
     "sort": "0"
   },
-  "Luo Yi-NQwHodVSz35s5IyNNG6": {
-    "key": "Luo Yi-NQwHodVSz35s5IyNNG6",
-    "hero": "Luo Yi",
-    "skin_name": " ",
-    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/luo.yi.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero961-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143002",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero961-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143002",
-    "sort": "0",
-    "date_upload": "2025-07-04"
-  },
   "Martis-NQwHqxBtY69d1yL6ByH": {
     "key": "Martis-NQwHqxBtY69d1yL6ByH",
     "hero": "Martis",
@@ -12518,6 +12508,17 @@
     "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/kadita.zip",
     "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/kadita%20revamp.jpg",
     "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/kadita%20revamp.jpg",
+    "sort": "0",
+    "date_upload": "2026-09-20",
+    "tag": ""
+  },
+  "luo-yi--": {
+    "key": "luo-yi--",
+    "hero": "Luo Yi",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/luo.yi.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero961-portrait.png/revision/latest/scale-to-width-down/150?cb=20260918005619",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero961-portrait.png/revision/latest/scale-to-width-down/150?cb=20260918005619",
     "sort": "0",
     "date_upload": "2026-09-20",
     "tag": ""
