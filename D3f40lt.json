@@ -558,15 +558,6 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20220525170250",
     "sort": "0"
   },
-  "Bruno-NQwCmhN3cqNac3QgcLZ": {
-    "key": "Bruno-NQwCmhN3cqNac3QgcLZ",
-    "hero": "Bruno",
-    "skin_name": " ",
-    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/bruno.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest?cb=20230826055036",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest?cb=20230826055036",
-    "sort": "0"
-  },
   "Carmilla-NQwCpV0Q8_DcEV-Rq14": {
     "key": "Carmilla-NQwCpV0Q8_DcEV-Rq14",
     "hero": "Carmilla",
@@ -12823,6 +12814,17 @@
     "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/badang.zip",
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest/scale-to-width-down/150?cb=20260919020718",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest/scale-to-width-down/150?cb=20260919020718",
+    "sort": "0",
+    "date_upload": "2026-09-20",
+    "tag": ""
+  },
+  "bruno--": {
+    "key": "bruno--",
+    "hero": "Bruno",
+    "skin_name": " ",
+    "download": "https://github.com/rahasia55/New-Default-skin/releases/download/backdefault/bruno.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest/scale-to-width-down/150?cb=20260916132624",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero121-portrait.png/revision/latest/scale-to-width-down/150?cb=20260916132624",
     "sort": "0",
     "date_upload": "2026-09-20",
     "tag": ""
