@@ -12449,5 +12449,16 @@
     "sort": "0",
     "date_upload": "2026-09-20",
     "tag": ""
+  },
+  "paquito-ryu-outfit-1": {
+    "key": "paquito-ryu-outfit-1",
+    "hero": "Paquito",
+    "skin_name": "Ryu Outfit 1",
+    "download": "https://github.com/z3ld4-upl0d/upl0d/releases/download/assets/paquito.sf.zip",
+    "img": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/paquito%20sf.png",
+    "img2": "https://raw.githubusercontent.com/ddsuphhj/P0tuSk1n/main/paquito%20sf.png",
+    "sort": "15",
+    "date_upload": "2026-09-23",
+    "tag": ""
   }
 }
