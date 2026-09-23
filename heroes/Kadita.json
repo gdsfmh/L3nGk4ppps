@@ -11,12 +11,12 @@
         "createdUser": "nickjin",
         "data": {
           "_object": 2667538,
-          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_64931dfa2914e36b6ba72c5a0d765d21.png",
-          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3671cbec60a1b4f62971d37e7ecc0e89.jpg",
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/bbebde1b760c7161a2130d951cabcc65.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/cf5e45b10f70e4237c2513d1ae80988e.jpg",
           "hero": {
             "_createdAt": 1724837697935,
             "_id": "66ceef41af5771f18c5009d0",
-            "_updatedAt": 1769674501778,
+            "_updatedAt": 1789542899945,
             "data": {
               "abilityshow": [
                 "40",
@@ -25,15 +25,15 @@
                 "60"
               ],
               "difficulty": "60",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_99c0a77d0e01b06ad3f4351f8ef2869c.png",
               "heroid": 75,
               "heroskilllist": [
                 {
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Kadita gains the <font color=\"a6aafb\">Blessing of the Ocean</font> every 30s. The Blessing is triggered when she takes damage from enemy heroes and lasts 4s, allowing her to recover 65% of the HP lost within the duration afterward.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cd01187439b79c1916a9c74a3b34a006.png",
+                      "skilldesc": "Kadita gains the <font color=\"a6aafb\">Blessing of the Ocean</font> every 30s. Taking damage from an enemy hero activates the Blessing for 4s.\n\nWhen the Blessing ends, she recovers 65% of the HP lost during this period (damage from minions and creeps does not activate this effect).\n\nWhile in the River, Kadita gains 10% extra Movement Speed.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_15fa706c7d6004ff908b68735d14b40d.png",
                       "skillid": 7540,
                       "skillname": "Thalassophobia",
                       "skilltag": [
@@ -48,7 +48,7 @@
                     {
                       "skillcd&cost": "CD: 9   Mana Cost: 55",
                       "skilldesc": "Kadita summons an ocean wave to carry herself in the target direction and back, dealing 250<font color=\"62f8fe\"> (+90% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slowing them by 30%. While inside the wave, she gains Control Immunity and 50% Damage Reduction. This skill can pass through obstacles and terrain.\n\n<font color=\"a6aafb\">Use Again</font>: Kadita exits the wave without interrupting the wave's movement.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_167f6356afa763ceaa72fdf875770531.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_8d6257459f42258262743264f5cda02d.png",
                       "skillid": 7510,
                       "skillname": "Ocean Ode",
                       "skilltag": [
@@ -68,7 +68,7 @@
                     {
                       "skillcd&cost": "CD: 8   Mana Cost: 75",
                       "skilldesc": "After a short delay, Kadita summons an ocean wave to erupt at the target location, dealing 350<font color=\"62f8fe\"> (+140% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and knocking them airborne for 1s.\n\nKadita can cast this skill during <font color=\"a6aafb\">Ocean Ode</font> to summon an ocean wave beneath her with a shorter eruption delay.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3533b6afa084dd8c756c563aac23933b.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_e283cb7a2953c91cfd05a62393338c93.png",
                       "skillid": 7520,
                       "skillname": "Breath of the Ocean",
                       "skilltag": [
@@ -87,8 +87,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 40   Mana Cost: 120",
-                      "skilldesc": "Kadita dives into the ground and sends ocean waves in all directions (this skill can only be interrupted by Suppression), each dealing 270<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slowing them by 30%. Enemies hit by multiple waves take increased damage. After a short period, the waves return to Kadita, each dealing 180<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit.\n\nWhen underground, Kadita becomes untargetable and gains 60% Movement Speed.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e0a8e44d8b5f8c14be27daf7cb807008.png",
+                      "skilldesc": "Kadita dives into the ground and sends ocean waves in all directions, each dealing 270<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slowing them by 30%. Enemies hit by multiple waves take increased damage. After a delay, the waves return to Kadita, each dealing 180<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit.\n\nWhile underground, Kadita becomes untargetable and gains 60% Movement Speed.\nThis skill can only be interrupted by Suppression.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_45dece9e671dd3a71e4b79a541d5f5ef.png",
                       "skillid": 7530,
                       "skillname": "Rough Waves",
                       "skilltag": [
@@ -111,7 +111,7 @@
               ],
               "heroskin": null,
               "name": "Kadita",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_812f998f0d153ace42c9c55a10dd2533.png",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_812f998f0d153ace42c9c55a10dd2533.png",
               "recommendlevel": [
                 "3",
                 "1",
@@ -143,15 +143,15 @@
                 },
                 ""
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_1b414d1631fc57199315b998064c6722.png",
               "roadsorticon2": "",
               "roadsortlabel": [
                 "Mid Lane",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_db76619a5d692aff3f78e3ff8d075a35.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
-              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_323c7edad76a491ea805644aed3ab999.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_933dce3f6078bc4eeaa97caaaa81875f.png",
               "sortid": [
                 {
                   "_id": "6698c015613093b976b4a974",
@@ -204,9 +204,9 @@
                 "Burst",
                 "Charge"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b5bcc58bc3bd0462691c85c45a6c1cb1.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3671cbec60a1b4f62971d37e7ecc0e89.jpg",
-              "story": "Beautiful and powerful mermaid queen.",
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_b5bcc58bc3bd0462691c85c45a6c1cb1.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_3671cbec60a1b4f62971d37e7ecc0e89.jpg",
+              "story": "The Ocean Goddess who wields the Trident of the Seas to cleanse the seas.",
               "tale": ""
             },
             "id": 100448,
@@ -219,12 +219,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_d974ac796678180ff8724b88e192898b.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_8b30576754be1a4f8bebd09df8d6bec7.png"
                   }
                 },
                 0
@@ -240,12 +240,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f9b2be0150361018bb98f941b9667c42.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_87b2a655b254c136dce8976e21935a80.png"
                   }
                 },
                 0,
@@ -263,12 +263,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a8345c69a4c9c611fdfce91089fe74a.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_fd120c3e9261a233442ee88a1d7c9f58.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_4687eca874feec9017b448a0b9110d65.png"
                   }
                 },
                 0,
@@ -289,10 +289,11 @@
           2667538
         ],
         "sort": 0,
-        "updatedAt": 1726805352355,
-        "updatedUser": "nickjin"
+        "updatedAt": 1789376611104,
+        "updatedUser": "keiralin"
       }
     ],
     "total": 1
-  }
+  },
+  "traceID": null
 }

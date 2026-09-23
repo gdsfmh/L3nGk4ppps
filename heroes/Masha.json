@@ -11,12 +11,12 @@
         "createdUser": "nickjin",
         "data": {
           "_object": 2667538,
-          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_2da39f7e29e54c3ea763200792ff028d.png",
-          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_59893811b0123dc6babca117f5ead017.jpg",
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/e0f364feb04f22dcb60ee74bf760b4b1.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/c09dc406cf28410a2045eec82a60b617.jpg",
           "hero": {
             "_createdAt": 1724837697935,
             "_id": "66ceef41af5771f18c5009db",
-            "_updatedAt": 1765974301950,
+            "_updatedAt": 1789542899945,
             "data": {
               "abilityshow": [
                 "50",
@@ -25,38 +25,18 @@
                 "30"
               ],
               "difficulty": "30",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_4d79ba6ebb0a0f2bf542917f0b19d056.png",
               "heroid": 88,
               "heroskilllist": [
                 {
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Blessed by the Bear King, Masha has 3 HP bars and won't die until all of them are depleted. She can ignore an instance of damage and remove all Control effects on herself each time she loses an HP bar. When Masha only has two HP bars left, skills will only require 50% of their original HP Cost to cast. When Masha only has one HP bar left, she doesn't need to spend HP to cast skills.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_11fea6d6964fce2e229664f69b8b74a0.png",
+                      "skilldesc": "<font color=\"a6aafb\">Bear's Blessing</font>: Masha has 3 HP bars, each inheriting 50% of her Equipment HP bonuses. When an HP bar is depleted, she removes control effects and blocks damage once. She gains <font color=\"a6aafb\">Feral</font> by dealing damage to enemy heroes or creeps. <font color=\"a6aafb\">Feral</font> converts into HP after leaving combat.\n<font color=\"a6aafb\">Power of Wildness</font>: After Masha's skills deal damage to an enemy hero, she leaves a <font color=\"a6aafb\">Wound</font> in a random direction. Her Basic Attacks can break the <font color=\"a6aafb\">Wound</font> and cause her to enter the <font color=\"a6aafb\">Feral</font> state.\n<font color=\"a6aafb\">Feral</font>: Masha gains 15<font color=\"ffe63c\"> (+1*Hero Level)</font>% Resilience, Attack Speed, and Movement Speed. Her next 3 Basic Attacks become fan-shaped claw strikes, dealing 3<font color=\"fba51f\"> (+2% Extra Physical Attack)</font> <font color=\"ffe63c\">(+0.2*Hero Level)</font>% <font color=\"26e407\"><1005></font> extra <font color=\"fb1f1f\">Physical Damage</font> to enemies in the area (extra damage does not apply to Turrets) and recovering 4<font color=\"ffe63c\"> (+0.4*Hero Level)</font>% HP. It lasts 3s.\n[C8Breaking a <font color=\"a6aafb\">Wound</font> again during the <font color=\"a6aafb\">Feral</font> state will refresh its duration. Up to 6 claw strikes can be stored.]",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_6542c500aa72062c01ec90a3228e83bf.png",
                       "skillid": 8840,
-                      "skillname": "Ancient Strength",
+                      "skillname": "Primal Pact",
                       "skilltag": [
-                        {
-                          "tagid": 62,
-                          "tagname": "Buff",
-                          "tagrgb": "79,156,184"
-                        }
-                      ],
-                      "skillvideo": ""
-                    },
-                    {
-                      "skillcd&cost": "CD: 4",
-                      "skilldesc": "<font color=\"a6aafb\">Passive</font>: Masha gains <font color=\"a6aafb\">Power of the Wild</font>, causing her Basic Attacks to deal extra <font color=\"fb1f1f\">Physical Damage</font> equal to 2<font color=\"fba51f\"> (+1% Extra Physical Attack)</font>% of the target's Max HP (up to 60 against Creeps and doesn't take effect on Turrets or Base).\n\n<font color=\"a6aafb\">Active</font>: Masha consumes 24% HP to empower herself, gaining 50% Movement Speed (decays over time) for 2s. She also increases the extra <font color=\"fb1f1f\">Physical Damage</font> from <font color=\"a6aafb\">Power of the Wild</font> by 3<font color=\"fba51f\"> (+1% Extra Physical Attack)</font>% of the target's Max HP and gains 50% Attack Speed for her next two Basic Attacks.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e8d16ab8090bc35167878013b946b53f.png",
-                      "skillid": 8810,
-                      "skillname": "Wild Power",
-                      "skilltag": [
-                        {
-                          "tagid": 61,
-                          "tagname": "Speed Up",
-                          "tagrgb": "79,156,184"
-                        },
                         {
                           "tagid": 62,
                           "tagname": "Buff",
@@ -67,60 +47,55 @@
                     },
                     {
                       "skillcd&cost": "CD: 8",
-                      "skilldesc": "Masha spends 24% HP to roar at enemies, dealing 200<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and reducing their Attack Speed by 50% for 2s.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18145750af85a40bbae3287f1ed47ebb.png",
-                      "skillid": 8820,
-                      "skillname": "Howl Shock",
+                      "skilldesc": "Masha releases energy forward, dealing 250<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in its path.\nIf an enemy hero is hit, they are slowed by 50% for 1s.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_0d1830ffdf3eda7e34a33f879aea70d1.png",
+                      "skillid": 8810,
+                      "skillname": "Feral Swipe",
                       "skilltag": [
-                        {
-                          "tagid": 23,
-                          "tagname": "Debuff",
-                          "tagrgb": "205,93,109"
-                        },
                         {
                           "tagid": 32,
                           "tagname": "AOE",
                           "tagrgb": "199,121,85"
+                        },
+                        {
+                          "tagid": 22,
+                          "tagname": "Slow",
+                          "tagrgb": "205,93,109"
                         }
                       ],
                       "skillvideo": ""
                     },
                     {
-                      "skillcd&cost": "CD: 35",
-                      "skilldesc": "Masha spends 34% HP to lunge at an enemy hero (immune to control effects during the lunge), dealing 400<font color=\"fba51f\"> (+220% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, slowing them by 25% for 2s, and knocking back nearby enemies. The cooldown of this skill will be reset each time Masha loses an HP bar.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7bd1cc6fe451768339602321771094a.png",
-                      "skillid": 8830,
-                      "skillname": "Thunderclap",
+                      "skillcd&cost": "CD: 9",
+                      "skilldesc": "Masha dashes in the target direction, dealing 120<font color=\"fba51f\"> (+80% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\n[C8Whenever an HP bar is depleted, the cooldown of <font color=\"a6aafb\">Claw Strike</font> resets.]",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b137533c0a7e40fb4759d2b68ffbc230.png",
+                      "skillid": 8820,
+                      "skillname": "Claw Strike",
                       "skilltag": [
-                        {
-                          "tagid": 31,
-                          "tagname": "Burst",
-                          "tagrgb": "199,121,85"
-                        },
                         {
                           "tagid": 81,
                           "tagname": "Mobility",
                           "tagrgb": "162,105,198"
+                        },
+                        {
+                          "tagid": 33,
+                          "tagname": "Damage",
+                          "tagrgb": "199,121,85"
                         }
                       ],
                       "skillvideo": ""
                     },
                     {
-                      "skillcd&cost": "",
-                      "skilldesc": "Masha gains Energy when dealing damage to enemies and extra Energy when dealing damage with Wild Power.\n\nAfter leaving combat for 3s, Masha can activate this skill to spend half a full bar of Energy to recover a full HP bar. Masha is invincible while casting this skill.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_13f8eb8f71c22d308124486b630def4c.png",
-                      "skillid": 8850,
-                      "skillname": "Life Recovery",
+                      "skillcd&cost": "CD: 42",
+                      "skilldesc": "Masha charges toward an enemy hero, dealing 300<font color=\"26e407\"> (+50% Extra Max HP)</font> <font color=\"fb1f1f\">Physical Damage</font> and stunning them for 1s while knocking back nearby enemies.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_a973d17d6ff36a513b419a343a131997.png",
+                      "skillid": 8830,
+                      "skillname": "Savage Maul",
                       "skilltag": [
                         {
-                          "tagid": 51,
-                          "tagname": "Heal",
-                          "tagrgb": "89,168,111"
-                        },
-                        {
-                          "tagid": 41,
-                          "tagname": "Invincible",
-                          "tagrgb": "177,157,96"
+                          "tagid": 21,
+                          "tagname": "CC",
+                          "tagrgb": "205,93,109"
                         }
                       ],
                       "skillvideo": ""
@@ -131,13 +106,13 @@
               ],
               "heroskin": null,
               "name": "Masha",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_087f15d931d74f75b577f5aff372ce25.png",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_087f15d931d74f75b577f5aff372ce25.png",
               "recommendlevel": [
                 "3",
-                "1",
-                "2"
+                "2",
+                "1"
               ],
-              "recommendlevellabel": "3-1-2",
+              "recommendlevellabel": "3-2-1",
               "recommendmasterplan": [],
               "roadsort": [
                 {
@@ -163,15 +138,15 @@
                 },
                 ""
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
               "roadsorticon2": "",
               "roadsortlabel": [
                 "Exp Lane",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6fcd3a37b34ea16ca6b485b88220e400.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
-              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_12c8811faed55965b22e2a7333971c1e.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_e746915cd7826d1d334dc5f4cb5e34a1.png",
               "sortid": [
                 {
                   "_id": "6698bfe8613093b976b4a96c",
@@ -224,8 +199,8 @@
                 "Push",
                 "Damage"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_cb32a0d6ed6e8fa174aab72e61d9e6da.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_59893811b0123dc6babca117f5ead017.jpg",
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_cb32a0d6ed6e8fa174aab72e61d9e6da.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_59893811b0123dc6babca117f5ead017.jpg",
               "story": "Guardian of the Direbears.",
               "tale": ""
             },
@@ -235,68 +210,68 @@
           "hero_id": 88,
           "relation": {
             "assist": {
-              "desc": "Masha can maximize her effectiveness and damage when paired with utility Supports that provide extra Movement Speed and CC, such as Angela and Rafaela.",
+              "desc": "Masha also pairs well with CC heroes like Atlas and Minotaur. Once they pull the enemies together, she can tear them to shreds with her savage claws!",
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_d974ac796678180ff8724b88e192898b.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_3ecd2c0843df7ec85044dafff6bf4553.png"
                   }
                 },
                 0
               ],
               "target_hero_id": [
-                55,
-                14,
+                93,
+                19,
                 0
               ]
             },
             "strong": {
-              "desc": "Masha works well against Marksmen with low mobility, such as Ixia and Layla, as she can easily chase them down using her Ultimate.",
+              "desc": "Burst Mages like Eudora and Kadita are ideal prey for Masha. With three HP bars and CC removal plus damage negation when losing a bar, Masha has built-in anti-burst against them.",
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f070d82521ecd2e14d4ef3f25880830a.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_87b2a655b254c136dce8976e21935a80.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_99c0a77d0e01b06ad3f4351f8ef2869c.png"
                   }
                 },
                 0,
                 0
               ],
               "target_hero_id": [
-                121,
-                18,
+                15,
+                75,
                 0,
                 0
               ]
             },
             "weak": {
-              "desc": "Masha is countered by Fighters with strong Regen capabilities like Cici and Thamuz, because they can outlast Masha in a prolonged fight due to her comparatively lower Regen.",
+              "desc": "Choose highly mobile heroes with multiple dashes, such as Fanny or Claude. Thwart her initiation, then focus her down before she goes Feral.",
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60e3e11da30f404c77fff9e22d3bdc72.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_3391df36d6dcc54dd1c417098e15ec59.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_b5ad55e408b68acf6a86e7ff76f5f569.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_e1097b9d3e1d5e9f14600d32e8b18acd.png"
                   }
                 },
                 0,
                 0
               ],
               "target_hero_id": [
-                123,
-                72,
+                17,
+                65,
                 0,
                 0
               ]
@@ -310,10 +285,11 @@
           2667538
         ],
         "sort": 0,
-        "updatedAt": 1726805352355,
-        "updatedUser": "nickjin"
+        "updatedAt": 1789441685262,
+        "updatedUser": "v_zhoujie"
       }
     ],
     "total": 1
-  }
+  },
+  "traceID": null
 }

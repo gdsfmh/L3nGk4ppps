@@ -11,21 +11,21 @@
         "createdUser": "nickjin",
         "data": {
           "_object": 2667538,
-          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_9dc55ccd4a972b721dfb8fadfb22fa34.png",
-          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_52c14752b29b6f9039da26a50e860c5c.jpg",
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/c62254ad3286303de2a9812f358a9cef.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/2317c1e430b6a2ff914b54f9f625bea7.jpg",
           "hero": {
             "_createdAt": 1724837697935,
             "_id": "66ceef41af5771f18c5009e1",
-            "_updatedAt": 1773205501411,
+            "_updatedAt": 1789542899945,
             "data": {
               "abilityshow": [
                 "20",
                 "100",
                 "40",
-                "50"
+                "80"
               ],
-              "difficulty": "50",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+              "difficulty": "80",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_26e03fd72532d11c7b32911b95b8d559.png",
               "heroid": 96,
               "heroskilllist": [
                 {
@@ -33,7 +33,7 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Luo Yi's skills can create <font color=\"a6aafb\">Sigils of Yin/Yang</font> on the battlefield. Each Sigil lasts up to 6s.\nSigils of opposite attributes will trigger <font color=\"a6aafb\">Yin-Yang Reaction</font> when they are within a certain distance, dealing 300 (+25*Hero Level) <font color=\"62f8fe\">(+190% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the marked enemies, stunning them for 0.3s, and pulling them toward each other.\nEach time Luo Yi applies a new Sigil to a marked enemy, she gains a 300 (+10*Hero Level) <font color=\"62f8fe\">(+150% Total Magic Power)</font> shield (up to 3 stacks) and 50% extra Movement Speed that decays over 2s.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_55ccda55cadbf28d972b7878c6ed14fe.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_d546b501cbc87be215ff183e0bd958dd.png",
                       "skillid": 9650,
                       "skillname": "Duality",
                       "skilltag": [
@@ -53,7 +53,7 @@
                     {
                       "skillcd&cost": "CD: 1.2   Mana Cost: 50",
                       "skilldesc": "Luo Yi casts the energy of <font color=\"a6aafb\">Yin/Yang</font> in the target direction, dealing 285<font color=\"62f8fe\"> (+135% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to the first enemy hit and those behind them in a fan-shaped area. Enemy heroes hit are marked with a <font color=\"a6aafb\">Sigil of Yin/Yang</font>.\nLuo Yi stores up to 4 <font color=\"a6aafb\">Dispersion</font> charges and gains 1 charge every 8s. She also immediately gains 1 charge each time <font color=\"a6aafb\">Yin-Yang Reaction</font> is triggered.\nThe state of this skill changes on each cast.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_05fb5366ff51181b744efcf51bc51dde.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_e3ace08874e301da572c9ef3b4741bcb.png",
                       "skillid": 9620,
                       "skillname": "Dispersion",
                       "skilltag": [
@@ -67,8 +67,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 12   Mana Cost: 75",
-                      "skilldesc": "Luo Yi summons <font color=\"a6aafb\">Fire of Yang/Aqua of Yin</font> at the target location, dealing 250<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slowing them by 60% for 0.5s.\n<font color=\"a6aafb\">Fire of Yan/Aqua of Yin</font> then remains at the location for 6s, dealing 50<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> every 0.7s to nearby enemies. It can also trigger <font color=\"a6aafb\">Yin-Yang Reaction</font> with Sigils of opposite attributes.\nThe state of this skill changes on each cast.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4e2479753eebe2d5bb68a2bc5875f74d.png",
+                      "skilldesc": "Luo Yi summons <font color=\"a6aafb\">Fire of Yang / Aqua of Yin</font> at the target location, dealing 250<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> to enemies hit and slowing them by 60% for 0.5s.\n<font color=\"a6aafb\">Fire of Yang / Aqua of Yin</font> then remains at the location for 6s, dealing 50<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> every 0.7s to nearby enemies. It can also trigger <font color=\"a6aafb\">Yin-Yang Reaction</font> with Sigils of opposite attributes.\nThe state of this skill changes on each cast.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f0c9485281881d1333d2723a8cc93886.png",
                       "skillid": 9630,
                       "skillname": "Rotation",
                       "skilltag": [
@@ -87,8 +87,8 @@
                     },
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Luo Yi creates a Teleport Circle around herself and marks the target location (within 28 units) as its destination. After a 3s delay, allied heroes (including herself) within the Circle will be teleported to the location.\n\n<font color=\"a6aafb\">Passive</font>: Luo Yi's Cooldown Reduction is increased by 6%.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acb1a21a98666b2902d41370b8a18a77.png",
+                      "skilldesc": "<font color=\"a6aafb\">Passive</font>: Luo Yi's Cooldown Reduction is increased by 6%.\n<font color=\"a6aafb\">Active</font>: Luo Yi creates a Teleport Circle around herself and marks the target location (within 28 units) as its destination. After a 3s delay, allied heroes within the Circle will be teleported to the location.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_c1933de3e8017a6d1cf49c4573b8e319.png",
                       "skillid": 9640,
                       "skillname": "Diversion",
                       "skilltag": [
@@ -106,7 +106,7 @@
               ],
               "heroskin": null,
               "name": "Luo Yi",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e8f1e6dd0d7864b66bda10ef65242dd6.png",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_e8f1e6dd0d7864b66bda10ef65242dd6.png",
               "recommendlevel": [
                 "3",
                 "1",
@@ -138,14 +138,14 @@
                 },
                 ""
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_1b414d1631fc57199315b998064c6722.png",
               "roadsorticon2": "",
               "roadsortlabel": [
                 "Mid Lane",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_74fe63bd31cc092aed923543a115b7bd.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_d564187373b57b3aab116a985e2e27e2.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_50fbe091cc66ff01cef0fa6b82872510.png",
               "sorticon2": "",
               "sortid": [
                 {
@@ -179,8 +179,8 @@
                 "Support",
                 "Crowd Control"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_45ed52f05d2288e0c87ca858d7f66f23.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_52c14752b29b6f9039da26a50e860c5c.jpg",
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_45ed52f05d2288e0c87ca858d7f66f23.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_52c14752b29b6f9039da26a50e860c5c.jpg",
               "story": "Seeking to revive an ancient past, she is the sole being who has mastered the secrets of Yin and Yang.",
               "tale": ""
             },
@@ -194,12 +194,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f49394186dc0e55d545da8377be83280.png"
                   }
                 },
                 0
@@ -215,12 +215,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_87b2a655b254c136dce8976e21935a80.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_9513f5e10ec33f76747732eaf2082259.png"
                   }
                 },
                 0,
@@ -238,12 +238,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_dea170bfd5f26c41fb04e5edf72afedb.png"
                   }
                 },
                 0,
@@ -265,10 +265,11 @@
           2667538
         ],
         "sort": 0,
-        "updatedAt": 1726805352355,
-        "updatedUser": "nickjin"
+        "updatedAt": 1789376821612,
+        "updatedUser": "keiralin"
       }
     ],
     "total": 1
-  }
+  },
+  "traceID": null
 }

@@ -11,21 +11,21 @@
         "createdUser": "nickjin",
         "data": {
           "_object": 2667538,
-          "head": "https://akmweb.youngjoygame.com/web/gms/image/af551d16e9c04164c90e209dc4c75b1c.jpg",
-          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_03cd0ea0a0f0bd80ca4f7462174f80b1.jpg",
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/126add04a4acef50fbee3f39ff8c4759.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/79a7f9ab5cb76f4ff5b3cc453de3624f.jpg",
           "hero": {
             "_createdAt": 1724837697935,
             "_id": "66ceef41af5771f18c500991",
-            "_updatedAt": 1758787900299,
+            "_updatedAt": 1789542899945,
             "data": {
               "abilityshow": [
                 "20",
                 "60",
                 "20",
-                "50"
+                "40"
               ],
-              "difficulty": "50",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ff39deb9c6afec3d977fdbe9d86f78cb.png",
+              "difficulty": "40",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_2a733ac5b7d1f97093e82940af6f5008.png",
               "heroid": 12,
               "heroskilllist": [
                 {
@@ -33,7 +33,7 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "Bruno gains 2.5% extra Crit Chance each time he deals damage with his skills (up to 8 stacks).\n\nBruno has higher Physical Attack but only gains 80% extra Attack Speed from all sources.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0850ac06412b0171aef0eba541581199.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_a1c3c66444e958b880d746e56c285566.png",
                       "skillid": 1240,
                       "skillname": "Mecha Legs",
                       "skilltag": [
@@ -47,8 +47,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 10   Mana Cost: 50",
-                      "skilldesc": "Bruno kicks a Powerball on his next Basic Attack, dealing 100<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target, slowing them by 30%, and speeding up by 30% for 0.5s.\n\nThe Powerball then bounces back toward Bruno and lands on the ground. He or allied heroes can retrieve the Powerball for another attack and reduce the cooldown of <font color=\"a6aafb\">Flying Tackle</font> by 1s.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_65a5b817dc5f53e082caa8c1def5a9ef.png",
+                      "skilldesc": "Bruno kicks a <font color=\"a6aafb\">Powerball</font> on his next Basic Attack, gaining 48% Movement Speed for 1s. It deals 100<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to the target, and slows them by 30% for 0.5s.\n\nThe <font color=\"a6aafb\">Powerball</font> then bounces back toward Bruno and lands on the ground. He or allied heroes can retrieve the <font color=\"a6aafb\">Powerball</font> for another attack and reduce the cooldown of <font color=\"a6aafb\">Slide</font> by 1s.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_8a7a2312f5db658e2c2a69172eca8de4.png",
                       "skillid": 1210,
                       "skillname": "Volley Shot",
                       "skilltag": [
@@ -66,11 +66,11 @@
                       "skillvideo": ""
                     },
                     {
-                      "skillcd&cost": "CD: 7   Mana Cost: 60",
-                      "skilldesc": "Bruno makes a slide tackle in the target direction, dealing 140<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in his path and stunning them for 0.5s.\n\nIf the Powerball is bouncing back, Bruno also draws the Powerball toward him.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_02cfbd7b97612b6aedb46d84a3186ce4.png",
+                      "skillcd&cost": "CD: 9   Mana Cost: 90",
+                      "skilldesc": "Bruno slides forward, briefly stunning enemies along the way, and gaining a Powerball at the end of the dash.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_83c0d7db78c5fe89c33e3ddfaea62553.png",
                       "skillid": 1220,
-                      "skillname": "Flying Tackle",
+                      "skillname": "Slide",
                       "skilltag": [
                         {
                           "tagid": 81,
@@ -78,17 +78,17 @@
                           "tagrgb": "162,105,198"
                         },
                         {
-                          "tagid": 21,
-                          "tagname": "CC",
-                          "tagrgb": "205,93,109"
+                          "tagid": 62,
+                          "tagname": "Buff",
+                          "tagrgb": "79,156,184"
                         }
                       ],
                       "skillvideo": ""
                     },
                     {
                       "skillcd&cost": "CD: 38   Mana Cost: 140",
-                      "skilldesc": "Bruno kicks his Energy Ball at the target enemy hero, dealing 250<font color=\"fba51f\"> (+83% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and knocking them back. The Energy Ball then bounces between nearby enemies up to 10 times, each time dealing 150<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Each hit also reduces the enemy's Physical Defense by 4% for 8s (up to 3 stacks).",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0d4558404b2096ecbce8394de5ced030.png",
+                      "skilldesc": "Bruno kicks an <font color=\"a6aafb\">Energy Ball</font> at a target hero, dealing 200<font color=\"fba51f\"> (+80% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. It knocks them back to the edge of Bruno's attack range, stuns them for 0.5s, and slows them by 80% for 2s.\n\nThe <font color=\"a6aafb\">Energy Ball</font> then bounces among enemy units (up to 10 times), prioritizing enemy heroes. Each bounce deals 100<font color=\"fba51f\"> (+40% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_0ae5a817888a5eb997e9d47874521ef2.png",
                       "skillid": 1230,
                       "skillname": "Worldie",
                       "skilltag": [
@@ -111,7 +111,7 @@
               ],
               "heroskin": null,
               "name": "Bruno",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_890739c136c183bc1a128867baf2a357.png",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_890739c136c183bc1a128867baf2a357.png",
               "recommendlevel": [
                 "3",
                 "1",
@@ -143,14 +143,14 @@
                 },
                 ""
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b4302450af5d1f55adf07399b4d3ed95.png",
               "roadsorticon2": "",
               "roadsortlabel": [
                 "Gold Lane",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68d7ca30f69cb691125e3f03cd782a53.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_3259934dcb13b5a4ba25b25a3eb86f54.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_094c17e22ff5e8086641e9a2c67dd81e.png",
               "sorticon2": "",
               "sortid": [
                 {
@@ -184,9 +184,9 @@
                 "Finisher",
                 "Burst"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a58a8659284c9b852c5fa025638ab888.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_03cd0ea0a0f0bd80ca4f7462174f80b1.jpg",
-              "story": "The captain of the Eruditio Rangers that protects the city with his amazing football skills.",
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_a58a8659284c9b852c5fa025638ab888.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_03cd0ea0a0f0bd80ca4f7462174f80b1.jpg",
+              "story": "The captain of the Eruditio Rangers who returned to the \"pitch\" thanks to advanced prosthetics.",
               "tale": ""
             },
             "id": 100385,
@@ -199,12 +199,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_9bed3c0095335606e0ce616c6e5a8553.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe99f4001211d18b3d2b95d0d3dc395.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_2fe99f4001211d18b3d2b95d0d3dc395.png"
                   }
                 }
               ],
@@ -218,12 +218,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_8a9c1966feb34e85d7bdcc1ed01ffb5d.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_da894b37bfb5cadb32307f371f31918a.png"
                   }
                 }
               ],
@@ -237,12 +237,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_96f9dbbc096e0f0a28f9b9e587d06a9c.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_dea170bfd5f26c41fb04e5edf72afedb.png"
                   }
                 }
               ],
@@ -260,10 +260,11 @@
           2667538
         ],
         "sort": 0,
-        "updatedAt": 1726805440128,
-        "updatedUser": "nickjin"
+        "updatedAt": 1789376645596,
+        "updatedUser": "keiralin"
       }
     ],
     "total": 1
-  }
+  },
+  "traceID": null
 }

@@ -11,29 +11,29 @@
         "createdUser": "nickjin",
         "data": {
           "_object": 2667538,
-          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_84c1352819d72d8163027323f4e8e9e0.png",
-          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ef4c59d1923663a6aaa77d1c0a7ff258.jpg",
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/3e5e0ce79068174c33574ba9933476f9.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/1be4eba1fa94d906a631125ab5fc9c7b.jpg",
           "hero": {
             "_createdAt": 1724837697935,
             "_id": "66ceef42af5771f18c5009ee",
-            "_updatedAt": 1765974301950,
+            "_updatedAt": 1789542899945,
             "data": {
               "abilityshow": [
                 "60",
                 "50",
                 "40",
-                "80"
+                "90"
               ],
-              "difficulty": "80",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
+              "difficulty": "90",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_5ab87805b9107b126a3bab64a8a199ad.png",
               "heroid": 103,
               "heroskilllist": [
                 {
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "After every 3 skill casts, Paquito enters the <font color=\"a6aafb\">Champ Stance</font>, gaining an enhanced skill ignoring his current cooldowns. He gains 60% extra Movement Speed that decays over 1.8s after casting the enhanced skill.\nPaquito's Basic Attacks only deal <font color=\"fba51f\"> (+85% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c9451df51335c47c1dd75bef800d037d.png",
+                      "skilldesc": "Paquito gains a stack each time he casts a skill. At 3 stacks, he enters the <font color=\"a6aafb\">Champ Stance</font> and enhances his next skill.\nPaquito's enhanced skills have no cooldown and deal (+2*Hero Level)% extra damage to minions.\n\nAfter casting any enhanced skill, Paquito gains 60% Movement Speed and (+2*Hero Level)% Damage Reduction for 1.2s.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_355d974ddddee49aa368a23ce6261325.png",
                       "skillid": 10340,
                       "skillname": "Champ Stance",
                       "skilltag": [
@@ -52,8 +52,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 7",
-                      "skilldesc": "Paquito throws a punch in the target direction, dealing 210<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit. If this skill hits an enemy hero or Creep, Paquito will also gain a 150<font color=\"fba51f\"> (+135% Total Physical Attack)</font> shield for 2.5s.\n\n<font color=\"a6aafb\">Champ Stance</font>: The damage is increased to 350<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and the shield value is increased to 140%. The normal and enhanced shields can stack.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a885c745981e38cb336ca27d147f2bc6.png",
+                      "skilldesc": "Paquito throws a punch in the target direction, dealing 210<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and gaining a 150<font color=\"fba51f\"> (+135% Total Physical Attack)</font> shield.\n\n<font color=\"a6aafb\">Champ Stance</font>: The damage is increased to 350<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, and the shield value is increased to 140% for 2.5s (normal and enhanced shields can stack).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_272a8e256ea04a2cc61624913c1a3a0d.png",
                       "skillid": 10310,
                       "skillname": "Heavy Left Punch",
                       "skilltag": [
@@ -72,8 +72,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 7",
-                      "skilldesc": "Paquito dashes in the target direction and throws a jab, dealing 200<font color=\"fba51f\"> (+165% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit. Paquito will stop and throw the jab immediately upon colliding with an enemy hero or Creep during the dash.\n\n<font color=\"a6aafb\">Champ Stance</font>: The damage is increased to 350<font color=\"fba51f\"> (+230% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_322cb891727ea1c40e72f123c2d41e0d.png",
+                      "skilldesc": "Paquito dashes forward and throws a jab, dealing 200<font color=\"fba51f\"> (+165% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies in his path and at the destination.\n\n<font color=\"a6aafb\">Champ Stance</font>: Paquito's jab becomes fiercer, dealing 300<font color=\"fba51f\"> (+210% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit.\nThe jab stops upon hitting a hero or creep.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_c25b703eaad4be83ff1d2f9d8376efa6.png",
                       "skillid": 10320,
                       "skillname": "Jab",
                       "skilltag": [
@@ -92,8 +92,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 15",
-                      "skilldesc": "Paquito launches an elbow strike in the target direction, dealing 250<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and knocking them back. He then throws a haymaker, dealing 300<font color=\"fba51f\"> (+90% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and slowing them by 75% for 1s, as he darts backward.\n\n<font color=\"a6aafb\">Champ Stance</font>: Instead of a haymaker, Paquito launches an uppercut after the elbow strike, dealing 400<font color=\"fba51f\"> (+120% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> to enemies hit and knocking them airborne for 0.5s.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_114ac52dbe3fe616904102fd4ac16d14.png",
+                      "skilldesc": "Paquito launches an elbow strike at enemies in the target direction, dealing 250<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and knocking them back to the destination.\nHe then throws a haymaker, dealing 300<font color=\"fba51f\"> (+90% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and slowing them by 75% for 1s, before darting backward.\n\n<font color=\"a6aafb\">Champ Stance</font>: After knocking enemies back to the destination, Paquito launches an uppercut instead, dealing 400<font color=\"fba51f\"> (+120% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> and knocking them airborne for 0.5s.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_526a9945a05f076fe151ede742bd3d48.png",
                       "skillid": 10330,
                       "skillname": "Knockout Strike",
                       "skilltag": [
@@ -116,7 +116,7 @@
               ],
               "heroskin": null,
               "name": "Paquito",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e57019805d928c886bd0ae01b8947c30.png",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_e57019805d928c886bd0ae01b8947c30.png",
               "recommendlevel": [
                 "3",
                 "2",
@@ -148,15 +148,15 @@
                 },
                 ""
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
               "roadsorticon2": "",
               "roadsortlabel": [
                 "Exp Lane",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1986ebcc24fc3eb28f59f079c15be612.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
-              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_7d54ccba749ba18ec934631b49632d1f.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_933dce3f6078bc4eeaa97caaaa81875f.png",
               "sortid": [
                 {
                   "_id": "6698bfe8613093b976b4a96c",
@@ -209,9 +209,9 @@
                 "Chase",
                 "Damage"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_02466a857c46760a78265713eab7e39c.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ef4c59d1923663a6aaa77d1c0a7ff258.jpg",
-              "story": "The hero who uses his two fists to protect hope and love.",
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_02466a857c46760a78265713eab7e39c.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_ef4c59d1923663a6aaa77d1c0a7ff258.jpg",
+              "story": "A mortal hero who fights demons with nothing but his fists—and the iron will to protect his tribe.",
               "tale": ""
             },
             "id": 100478,
@@ -224,12 +224,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_68277dce415742c4a98883151c693a07.png"
                   }
                 },
                 0
@@ -245,12 +245,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_9513f5e10ec33f76747732eaf2082259.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b2b38e9406ea0de0b866db7674feea0f.png"
                   }
                 },
                 0,
@@ -268,12 +268,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2928027062e3c2a97bc3fd4a84897012.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_9bed3c0095335606e0ce616c6e5a8553.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_d558bb881e18a070eaeda1e1fdc248a8.png"
                   }
                 },
                 0,
@@ -295,10 +295,11 @@
           2667538
         ],
         "sort": 0,
-        "updatedAt": 1726805352355,
-        "updatedUser": "nickjin"
+        "updatedAt": 1789376798515,
+        "updatedUser": "keiralin"
       }
     ],
     "total": 1
-  }
+  },
+  "traceID": null
 }
