@@ -12482,5 +12482,16 @@
     "sort": "15",
     "date_upload": "2026-09-23",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
+  },
+  "clint-crimson-blast": {
+    "key": "clint-crimson-blast",
+    "hero": "Clint",
+    "skin_name": "Crimson Blast",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/clint%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1f/Hero139-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133647",
+    "sort": "15",
+    "date_upload": "2026-09-23",
+    "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
   }
 }
