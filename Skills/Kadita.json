@@ -1,5 +1,6 @@
 {
   "code": 0,
+  "message": "OK",
   "data": {
     "records": [
       {
@@ -16,9 +17,9 @@
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d94f6",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1789542899555,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_167f6356afa763ceaa72fdf875770531.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_8d6257459f42258262743264f5cda02d.png",
                 "skillid": 7510
               },
               "id": 110086,
@@ -27,9 +28,9 @@
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d94f3",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1789542899555,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3533b6afa084dd8c756c563aac23933b.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_e283cb7a2953c91cfd05a62393338c93.png",
                 "skillid": 7520
               },
               "id": 110083,
@@ -38,9 +39,9 @@
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d94f4",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1789542899555,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e0a8e44d8b5f8c14be27daf7cb807008.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_45dece9e671dd3a71e4b79a541d5f5ef.png",
                 "skillid": 7530
               },
               "id": 110084,
@@ -72,9 +73,9 @@
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d94f6",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1789542899555,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_167f6356afa763ceaa72fdf875770531.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_8d6257459f42258262743264f5cda02d.png",
                 "skillid": 7510
               },
               "id": 110086,
@@ -83,9 +84,9 @@
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d94f6",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1789542899555,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_167f6356afa763ceaa72fdf875770531.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_8d6257459f42258262743264f5cda02d.png",
                 "skillid": 7510
               },
               "id": 110086,
@@ -94,9 +95,9 @@
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d94f3",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1789542899555,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3533b6afa084dd8c756c563aac23933b.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_e283cb7a2953c91cfd05a62393338c93.png",
                 "skillid": 7520
               },
               "id": 110083,
@@ -117,6 +118,5 @@
     ],
     "total": 2
   },
-  "message": "OK",
   "traceID": null
 }

@@ -1,5 +1,6 @@
 {
   "code": 0,
+  "message": "OK",
   "data": {
     "records": [
       {
@@ -10,26 +11,15 @@
         "createdUser": "rubickguo",
         "data": {
           "_object": 2684183,
-          "desc": "In the laning phase, use Masha's 1st Skill to close the gap with the enemy and slow them with her 2nd Skill to engage. Follow up with Basic Attacks for more damage.",
+          "desc": "In the laning phase, use Masha's 2nd Skill to close in and Basic Attack to inflict Wounds. Slow the target with the 1st Skill, then continue attacking to trigger the Enhanced Basic Attack, and keep up the pressure!",
           "hero_id": 88,
           "skill_id": [
             {
               "_createdAt": 1730960697288,
-              "_id": "672c5d399d856a6db37d9534",
-              "_updatedAt": 1758787887535,
-              "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e8d16ab8090bc35167878013b946b53f.png",
-                "skillid": 8810
-              },
-              "id": 110148,
-              "sourceId": 2674712
-            },
-            {
-              "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d9536",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1789542899555,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18145750af85a40bbae3287f1ed47ebb.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b137533c0a7e40fb4759d2b68ffbc230.png",
                 "skillid": 8820
               },
               "id": 110150,
@@ -38,9 +28,31 @@
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d9532",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1789542899555,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 8800
+              },
+              "id": 110147,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960697288,
+              "_id": "672c5d399d856a6db37d9534",
+              "_updatedAt": 1789542899555,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_0d1830ffdf3eda7e34a33f879aea70d1.png",
+                "skillid": 8810
+              },
+              "id": 110148,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960697288,
+              "_id": "672c5d399d856a6db37d9532",
+              "_updatedAt": 1789542899555,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
                 "skillid": 8800
               },
               "id": 110147,
@@ -55,8 +67,8 @@
           2684183
         ],
         "sort": 0,
-        "updatedAt": 1715152453341,
-        "updatedUser": "rubickguo"
+        "updatedAt": 1789532949675,
+        "updatedUser": "v_zhoujie"
       },
       {
         "_id": "663b2627633922a8d1876bf3",
@@ -66,15 +78,15 @@
         "createdUser": "rubickguo",
         "data": {
           "_object": 2684183,
-          "desc": "In teamfights, charge into an enemy with Masha's Ultimate, then use her 1st Skill followed by Basic Attacks to deal more damage. Whenever she loses an HP bar, use her Ultimate again to charge at the target and slow them with her 2nd Skill.",
+          "desc": "In teamfights, use Masha's Ultimate to dive a squishy target. Follow with an Enhanced Basic Attack,  then 2nd Skill to inflict Wounds on multiple enemies, and AoE them down with repeated Basic Attacks.",
           "hero_id": 88,
           "skill_id": [
             {
               "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d9535",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1789542899555,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7bd1cc6fe451768339602321771094a.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_a973d17d6ff36a513b419a343a131997.png",
                 "skillid": 8830
               },
               "id": 110149,
@@ -82,21 +94,10 @@
             },
             {
               "_createdAt": 1730960697288,
-              "_id": "672c5d399d856a6db37d9534",
-              "_updatedAt": 1758787887535,
-              "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e8d16ab8090bc35167878013b946b53f.png",
-                "skillid": 8810
-              },
-              "id": 110148,
-              "sourceId": 2674712
-            },
-            {
-              "_createdAt": 1730960697288,
               "_id": "672c5d399d856a6db37d9532",
-              "_updatedAt": 1758787887535,
+              "_updatedAt": 1789542899555,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
                 "skillid": 8800
               },
               "id": 110147,
@@ -104,24 +105,57 @@
             },
             {
               "_createdAt": 1730960697288,
-              "_id": "672c5d399d856a6db37d9535",
-              "_updatedAt": 1758787887535,
+              "_id": "672c5d399d856a6db37d9536",
+              "_updatedAt": 1789542899555,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7bd1cc6fe451768339602321771094a.png",
-                "skillid": 8830
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b137533c0a7e40fb4759d2b68ffbc230.png",
+                "skillid": 8820
               },
-              "id": 110149,
+              "id": 110150,
               "sourceId": 2674712
             },
             {
               "_createdAt": 1730960697288,
-              "_id": "672c5d399d856a6db37d9536",
-              "_updatedAt": 1758787887535,
+              "_id": "672c5d399d856a6db37d9532",
+              "_updatedAt": 1789542899555,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18145750af85a40bbae3287f1ed47ebb.png",
-                "skillid": 8820
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 8800
               },
-              "id": 110150,
+              "id": 110147,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960697288,
+              "_id": "672c5d399d856a6db37d9532",
+              "_updatedAt": 1789542899555,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 8800
+              },
+              "id": 110147,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960697288,
+              "_id": "672c5d399d856a6db37d9532",
+              "_updatedAt": 1789542899555,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 8800
+              },
+              "id": 110147,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960697288,
+              "_id": "672c5d399d856a6db37d9532",
+              "_updatedAt": 1789542899555,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 8800
+              },
+              "id": 110147,
               "sourceId": 2674712
             }
           ],
@@ -133,12 +167,11 @@
           2684183
         ],
         "sort": 0,
-        "updatedAt": 1720668186847,
-        "updatedUser": "rubickguo"
+        "updatedAt": 1789533408856,
+        "updatedUser": "v_zhoujie"
       }
     ],
     "total": 2
   },
-  "message": "OK",
   "traceID": null
 }
