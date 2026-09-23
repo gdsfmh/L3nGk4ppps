@@ -12583,5 +12583,16 @@
     "sort": "30",
     "date_upload": "2026-09-23",
     "tag": ""
+  },
+  "alucard-natsu": {
+    "key": "alucard-natsu",
+    "hero": "Alucard",
+    "skin_name": "Natsu",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20natsu.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20natsu.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20natsu.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-23",
+    "tag": ""
   }
 }
