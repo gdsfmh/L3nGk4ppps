@@ -12594,5 +12594,16 @@
     "sort": "30",
     "date_upload": "2026-09-23",
     "tag": ""
+  },
+  "alucard-zangetsu": {
+    "key": "alucard-zangetsu",
+    "hero": "Alucard",
+    "skin_name": "Zangetsu",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20zangetsu.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20zangetsu.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/alucard%20x%20zangetsu.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-23",
+    "tag": ""
   }
 }
