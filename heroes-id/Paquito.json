@@ -1,5 +1,6 @@
 {
   "code": 0,
+  "message": "OK",
   "data": {
     "records": [
       {
@@ -10,29 +11,29 @@
         "createdUser": "nickjin",
         "data": {
           "_object": 2667538,
-          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_84c1352819d72d8163027323f4e8e9e0.png",
-          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ef4c59d1923663a6aaa77d1c0a7ff258.jpg",
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/3e5e0ce79068174c33574ba9933476f9.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/1be4eba1fa94d906a631125ab5fc9c7b.jpg",
           "hero": {
             "_createdAt": 1724837699141,
             "_id": "66ceef43af5771f18c50127c",
-            "_updatedAt": 1765974302788,
+            "_updatedAt": 1789542901527,
             "data": {
               "abilityshow": [
                 "60",
                 "50",
                 "40",
-                "80"
+                "90"
               ],
-              "difficulty": "80",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
+              "difficulty": "90",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_5ab87805b9107b126a3bab64a8a199ad.png",
               "heroid": 103,
               "heroskilllist": [
                 {
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Paquito mengumpulkan Stack saat menggunakan Skill-nya. Ketika Stack ini mencapai 3, dia memasuki <font color=\"a6aafb\">Champ Stance</font>, dan memperkuat Skill berikutnya.\nPaquito memiliki teknik yang luar biasa, dan Skill yang diperkuat tidak memiliki Cooldown. Tetapi, setiap Basic Attack-nya hanya memberikan <font color=\"fba51f\"> (+85% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.\nSetelah menggunakan Skill yang diperkuat, Paquito meningkatkan Movement Speed-nya sebesar 60% yang akan berkurang dengan cepat selama 1.8 detik.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c9451df51335c47c1dd75bef800d037d.png",
+                      "skilldesc": "Paquito mendapatkan stack setiap kali dia menggunakan skill. Saat mencapai 3 stack, dia memasuki <font color=\"a6aafb\">Champ Stance</font> dan memperkuat skill berikutnya.\nSkill Paquito yang diperkuat tidak punya cooldown dan memberikan (+2*Hero Level)% damage tambahan ke minion.\n\nSetelah menggunakan skill yang diperkuat, Paquito mendapatkan 60% Movement Speed dan (+2*Hero Level)% Pengurangan Damage selama 1.2 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_355d974ddddee49aa368a23ce6261325.png",
                       "skillid": 10340,
                       "skillname": "Champ Stance",
                       "skilltag": [
@@ -51,8 +52,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 7",
-                      "skilldesc": "Paquito melepaskan pukulan ke arah target, memberikan 210<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena. Jika Skill ini mengenai Hero lawan atau Creep, Paquito memperoleh 150<font color=\"fba51f\"> (+135% Total Physical Attack)</font> Shield selama 2.5 detik.\n\n<font color=\"a6aafb\">Champ Stance</font>: Damage meningkat menjadi 350<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan meningkatkan 140% jumlah Shield. Shield biasa dan yang diperkuat dapat di-Stack.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a885c745981e38cb336ca27d147f2bc6.png",
+                      "skilldesc": "Paquito melancarkan pukulan ke arah target, memberikan 210<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena dan mendapatkan 150<font color=\"fba51f\"> (+135% Total Physical Attack)</font> shield.\n\n<font color=\"a6aafb\">Champ Stance</font>: Damage meningkat menjadi 350<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>, dan jumlah shield meningkat menjadi 140% selama 2.5 detik (shield biasa dan yang diperkuat bisa ditumpuk).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_272a8e256ea04a2cc61624913c1a3a0d.png",
                       "skillid": 10310,
                       "skillname": "Heavy Left Punch",
                       "skilltag": [
@@ -71,8 +72,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 7",
-                      "skilldesc": "Paquito berlari ke arah target dan melakukan Jab, memberikan 200<font color=\"fba51f\"> (+165% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena. Paquito akan berhenti dan melakukan Jab saat bersentuhan dengan Hero lawan atau Creep saat bergerak.\n\n<font color=\"a6aafb\">Champ Stance</font>: Meningkatkan 350<font color=\"fba51f\"> (+230% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_322cb891727ea1c40e72f123c2d41e0d.png",
+                      "skilldesc": "Paquito berlari ke depan dan melancarkan pukulan Jab, memberikan 200<font color=\"fba51f\"> (+165% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di jalurnya dan di lokasi tujuan.\n\n<font color=\"a6aafb\">Champ Stance</font>: Pukulan Jab menjadi lebih kuat, memberikan 300<font color=\"fba51f\"> (+210% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena.\nPukulan Jab berhenti saat mengenai hero atau creep.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_c25b703eaad4be83ff1d2f9d8376efa6.png",
                       "skillid": 10320,
                       "skillname": "Jab",
                       "skilltag": [
@@ -91,8 +92,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 15",
-                      "skilldesc": "Paquito melakukan pukulan siku ke arah target, memberikan 250<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena dan menyebabkan Knockback. Kemudian dia mengayunkan Haymaker, memberikan 300<font color=\"fba51f\"> (+90% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena dan menyebabkan 75% Slow selama 1 detik, lalu bergerak mundur.\n\n<font color=\"a6aafb\">Champ Stance</font>: Paquito melepaskan Uppercut setelah serangan siku, tidak lagi mengayunkan Haymaker, memberikan 400<font color=\"fba51f\"> (+120% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan yang terkena dan menyebabkan Airborne selama 0.5 detik.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_114ac52dbe3fe616904102fd4ac16d14.png",
+                      "skilldesc": "Paquito melancarkan pukulan siku ke lawan di arah target, memberikan 250<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan knockback.\nDia melancarkan pukulan kuat, memberikan 300<font color=\"fba51f\"> (+90% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan 75% slow selama 1 detik, lalu bergerak mundur.\n\n<font color=\"a6aafb\">Champ Stance</font>: Setelah menyebabkan knockback ke lawan, Paquito akan melancarkan pukulan ke atas, memberikan 400<font color=\"fba51f\"> (+120% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan airborne selama 0.5 detik.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_526a9945a05f076fe151ede742bd3d48.png",
                       "skillid": 10330,
                       "skillname": "Knockout Strike",
                       "skilltag": [
@@ -115,7 +116,7 @@
               ],
               "heroskin": null,
               "name": "Paquito",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e57019805d928c886bd0ae01b8947c30.png",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_e57019805d928c886bd0ae01b8947c30.png",
               "recommendlevel": [
                 "3",
                 "2",
@@ -147,15 +148,15 @@
                 },
                 ""
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_9a93311ae387f9ffe5a7efa5e341eb9e.png",
               "roadsorticon2": "",
               "roadsortlabel": [
                 "EXP Lane",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1986ebcc24fc3eb28f59f079c15be612.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1660a04f7dc87095c97aaf32f44d685c.png",
-              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_7d54ccba749ba18ec934631b49632d1f.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_1660a04f7dc87095c97aaf32f44d685c.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_933dce3f6078bc4eeaa97caaaa81875f.png",
               "sortid": [
                 {
                   "_id": "6698bfe8613093b976b4a96c",
@@ -208,9 +209,9 @@
                 "Chase",
                 "Damage"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_02466a857c46760a78265713eab7e39c.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ef4c59d1923663a6aaa77d1c0a7ff258.jpg",
-              "story": "Hero yang menggunakan kedua tinjunya untuk melindungi Harapan dan Cinta.",
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_02466a857c46760a78265713eab7e39c.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_ef4c59d1923663a6aaa77d1c0a7ff258.jpg",
+              "story": "Seorang pahlawan manusia yang melawan iblis hanya dengan tinjunya. Bertekad baja untuk melindungi sukunya.",
               "tale": ""
             },
             "id": 100604,
@@ -223,12 +224,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_68277dce415742c4a98883151c693a07.png"
                   }
                 },
                 0
@@ -244,12 +245,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_9513f5e10ec33f76747732eaf2082259.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2b38e9406ea0de0b866db7674feea0f.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b2b38e9406ea0de0b866db7674feea0f.png"
                   }
                 },
                 0,
@@ -267,12 +268,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_60_2/100_9bed3c0095335606e0ce616c6e5a8553.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_9bed3c0095335606e0ce616c6e5a8553.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a23983833ad5bee7c83422c8ff727115.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_d558bb881e18a070eaeda1e1fdc248a8.png"
                   }
                 },
                 0,
@@ -294,12 +295,11 @@
           2667538
         ],
         "sort": 0,
-        "updatedAt": 1726805352355,
-        "updatedUser": "nickjin"
+        "updatedAt": 1789376798515,
+        "updatedUser": "keiralin"
       }
     ],
     "total": 1
   },
-  "message": "OK",
   "traceID": null
 }

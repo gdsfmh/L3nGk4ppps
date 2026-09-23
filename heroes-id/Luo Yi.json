@@ -1,5 +1,6 @@
 {
   "code": 0,
+  "message": "OK",
   "data": {
     "records": [
       {
@@ -10,29 +11,29 @@
         "createdUser": "nickjin",
         "data": {
           "_object": 2667538,
-          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_9dc55ccd4a972b721dfb8fadfb22fa34.png",
-          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_52c14752b29b6f9039da26a50e860c5c.jpg",
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/c62254ad3286303de2a9812f358a9cef.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/2317c1e430b6a2ff914b54f9f625bea7.jpg",
           "hero": {
             "_createdAt": 1724837699141,
             "_id": "66ceef43af5771f18c501272",
-            "_updatedAt": 1776932104952,
+            "_updatedAt": 1789542901527,
             "data": {
               "abilityshow": [
                 "20",
                 "100",
                 "40",
-                "50"
+                "80"
               ],
-              "difficulty": "50",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_103541726507f5ce102689f04fe215e8.png",
+              "difficulty": "80",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_26e03fd72532d11c7b32911b95b8d559.png",
               "heroid": 96,
               "heroskilllist": [
                 {
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Skill Luo Yi akan menciptakan Mark <font color=\"a6aafb\">\"Yin\"</font> dan <font color=\"a6aafb\">\"Yang\"</font> di dalam Battlefield, masing-masing berlangsung selama hingga 6 detik.\n<font color=\"a6aafb\">Yin-Yang Reaction</font> terjadi setiap kali dua pembawa Mark yang berbeda saling mendekat, memberikan 300 (+25*Level Hero) <font color=\"62f8fe\">(+190% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan efek Stun kepada mereka selama 0.3 detik.\nSetiap kali Luo Yi meninggalkan Mark baru kepada pembawa Mark, ia akan memperoleh Shield sebesar 300 (+10*Level Hero) <font color=\"62f8fe\">(+150% Total Magic Power)</font> (Maksimal pada 3 Stack) dan 50% Movement Speed (semakin berkurang dengan cepat dalam 2 detik).",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_55ccda55cadbf28d972b7878c6ed14fe.png",
+                      "skilldesc": "Skill Luo Yi akan menciptakan mark <font color=\"a6aafb\">\"Yin\"</font> dan <font color=\"a6aafb\">\"Yang\"</font> di medan tempur, masing-masing berlangsung selama hingga 6 detik.\n<font color=\"a6aafb\">Yin-Yang Reaction</font> terjadi setiap kali dua pembawa mark yang berbeda saling mendekat, memberikan 300 (+25*Hero Level) <font color=\"62f8fe\">(+190% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan stun kepada mereka selama 0.3 detik.\nSetiap kali Luo Yi meninggalkan mark baru kepada pembawa mark, dia akan mendapatkan shield sebesar 300 (+10*Hero Level) <font color=\"62f8fe\">(+150% Total Magic Power)</font> (maksimal 3 stack) dan 50% Movement Speed tambahan (semakin berkurang dengan cepat dalam 2 detik).",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_d546b501cbc87be215ff183e0bd958dd.png",
                       "skillid": 9650,
                       "skillname": "Duality",
                       "skilltag": [
@@ -52,7 +53,7 @@
                     {
                       "skillcd&cost": "CD: 1.2   Mana Cost: 50",
                       "skilldesc": "Luo Yi mengeluarkan energi <font color=\"a6aafb\">Yin/Yang</font> ke arah target, memberikan 285<font color=\"62f8fe\"> (+135% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan pertama yang terkena dan lawan yang berada di belakangnya. Hero lawan yang terkena skill ini akan menerima mark <font color=\"a6aafb\">Sigil of Yin/Yang</font>.\nLuo Yi bisa menyimpan hingga 4 penggunaan <font color=\"a6aafb\">Dispersion</font> dan memperoleh 1 penggunaan setiap 8 detik. Dia juga langsung memperoleh 1 penggunaan setiap kali <font color=\"a6aafb\">Yin-Yang Reaction</font> aktif.\nMode skill akan berubah setiap kali penggunaan skill.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_05fb5366ff51181b744efcf51bc51dde.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_e3ace08874e301da572c9ef3b4741bcb.png",
                       "skillid": 9620,
                       "skillname": "Dispersion",
                       "skilltag": [
@@ -67,7 +68,7 @@
                     {
                       "skillcd&cost": "CD: 12   Mana Cost: 75",
                       "skilldesc": "Luo Yi memanggil <font color=\"a6aafb\">Fire of Yang / Aqua of Yin</font> di area yang ditentukan, memberikan 250<font color=\"62f8fe\"> (+50% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang terkena dan menyebabkan 60% slow selama 0.5 detik.\n<font color=\"a6aafb\">Fire of Yang / Aqua of Yin</font> akan terus berada di lokasi selama 6 detik, memberikan 50<font color=\"62f8fe\"> (+10% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> setiap 0.7 detik. Area ini juga bisa memicu <font color=\"a6aafb\">Yin-Yang Reaction</font> dengan Sigil yang berbeda.\nMode skill akan berubah setiap kali skill digunakan.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4e2479753eebe2d5bb68a2bc5875f74d.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f0c9485281881d1333d2723a8cc93886.png",
                       "skillid": 9630,
                       "skillname": "Rotation",
                       "skilltag": [
@@ -87,7 +88,7 @@
                     {
                       "skillcd&cost": "",
                       "skilldesc": "<font color=\"a6aafb\">Pasif</font>: Pengurangan Cooldown Luo Yi meningkat sebesar 6%.\n<font color=\"a6aafb\">Aktif</font>: Luo Yi menciptakan Lingkaran Teleportasi di sekitarnya dan menandai lokasi target (dalam jarak 28 unit) sebagai tujuannya. Setelah jeda 3 detik, hero rekan di dalam Lingkaran tersebut akan berpindah ke lokasi tujuan.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acb1a21a98666b2902d41370b8a18a77.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_c1933de3e8017a6d1cf49c4573b8e319.png",
                       "skillid": 9640,
                       "skillname": "Diversion",
                       "skilltag": [
@@ -105,7 +106,7 @@
               ],
               "heroskin": null,
               "name": "Luo Yi",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e8f1e6dd0d7864b66bda10ef65242dd6.png",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_e8f1e6dd0d7864b66bda10ef65242dd6.png",
               "recommendlevel": [
                 "3",
                 "1",
@@ -137,14 +138,14 @@
                 },
                 ""
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_1b414d1631fc57199315b998064c6722.png",
               "roadsorticon2": "",
               "roadsortlabel": [
                 "Mid Lane",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_74fe63bd31cc092aed923543a115b7bd.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_d564187373b57b3aab116a985e2e27e2.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_50fbe091cc66ff01cef0fa6b82872510.png",
               "sorticon2": "",
               "sortid": [
                 {
@@ -178,8 +179,8 @@
                 "Support",
                 "Crowd Control"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_45ed52f05d2288e0c87ca858d7f66f23.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_52c14752b29b6f9039da26a50e860c5c.jpg",
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_45ed52f05d2288e0c87ca858d7f66f23.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_52c14752b29b6f9039da26a50e860c5c.jpg",
               "story": "Berusaha membangkitkan masa lalu kuno, dialah satu-satunya manusia yang menguasai rahasia Yin dan Yang.",
               "tale": ""
             },
@@ -193,12 +194,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f49394186dc0e55d545da8377be83280.png"
                   }
                 },
                 0
@@ -214,12 +215,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_87b2a655b254c136dce8976e21935a80.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_9513f5e10ec33f76747732eaf2082259.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_9513f5e10ec33f76747732eaf2082259.png"
                   }
                 },
                 0,
@@ -237,12 +238,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_2e15a0a506aaecd9b3de40a8cc9f7ec7.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dea170bfd5f26c41fb04e5edf72afedb.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_dea170bfd5f26c41fb04e5edf72afedb.png"
                   }
                 },
                 0,
@@ -264,12 +265,11 @@
           2667538
         ],
         "sort": 0,
-        "updatedAt": 1726805352355,
-        "updatedUser": "nickjin"
+        "updatedAt": 1789376821612,
+        "updatedUser": "keiralin"
       }
     ],
     "total": 1
   },
-  "message": "OK",
   "traceID": null
 }

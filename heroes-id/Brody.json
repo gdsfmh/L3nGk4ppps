@@ -1,5 +1,6 @@
 {
   "code": 0,
+  "message": "OK",
   "data": {
     "records": [
       {
@@ -10,12 +11,12 @@
         "createdUser": "nickjin",
         "data": {
           "_object": 2667538,
-          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_2f3ad5e7e045abe8cce3d7360253f62a.png",
-          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_9a3feb044b76ac87f886a0fdf4ef4f13.jpg",
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/290e866a90f83c1183f9a010bbfd3347.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/2540bf91969577e919995bb30e9e255c.jpg",
           "hero": {
             "_createdAt": 1724837699141,
             "_id": "66ceef43af5771f18c501277",
-            "_updatedAt": 1776932104952,
+            "_updatedAt": 1789542901527,
             "data": {
               "abilityshow": [
                 "40",
@@ -24,15 +25,15 @@
                 "50"
               ],
               "difficulty": "50",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_cbb309b63cdf838fce79bd9cb95d4ed7.png",
               "heroid": 100,
               "heroskilllist": [
                 {
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Dengan Basic Attack yang beresonansi dengan Kekuatan Abyss di dalam tubuhnya, Brody dapat bergerak ketika menggunakan Basic Attack (yang akan berhenti ketika menggunakan Skill), tetapi memiliki Animasi Basic Attack yang lebih lama dan Bonus Attack Speed yang lebih rendah. Setiap Basic Attack memberikan <font color=\"fba51f\"> (+140% Total Physical Attack)</font> <font color=\"ffe63c\">(+45*Level Hero)</font> <font color=\"fb1f1f\">Physical Damage</font> (skala Damage dengan level tidak dapat menjadi Critical), meningkatkan 30% Movement Speed-nya (yang akan berkurang dengan cepat dalam 1.2 detik), dan meninggalkan 1 Stack <font color=\"a6aafb\">Abyss Mark</font> ke lawan, hingga 4 Stack.\nSetiap Stack <font color=\"a6aafb\">Abyss Mark</font> meningkatkan 5% Damage yang diberikan Brody ke target dan 5% Movement Speed.   ",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f8af16b9b9818804317127362cc3e78f.png",
+                      "skilldesc": "Brody bisa bergerak ketika melancarkan Basic Attack (yang akan berhenti ketika menggunakan skill), tetapi memiliki Animasi Basic Attack yang lebih lama dan Bonus Attack Speed yang lebih rendah. Setiap Basic Attack memberikan <font color=\"fba51f\"> (+140% Total Physical Attack)</font> <font color=\"ffe63c\">(+45*Hero Level)</font> <font color=\"fb1f1f\">Physical Damage</font> (skala damage dengan level tidak bisa memicu Critical), meningkatkan 30% Movement Speed (yang akan berkurang dalam 1.2 detik), dan menerapkan 1 stack <font color=\"a6aafb\">Abyss Mark</font> ke lawan, hingga 4 stack.\nSetiap stack <font color=\"a6aafb\">Abyss Mark</font> meningkatkan 5% damage yang diberikan Brody ke target dan 5% Movement Speed miliknya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b804cd33697728e8b26d29322ff6b559.png",
                       "skillid": 10040,
                       "skillname": "Abyss Corrosion",
                       "skilltag": [
@@ -47,7 +48,7 @@
                     {
                       "skillcd&cost": "CD: 4   Mana Cost: 50",
                       "skilldesc": "Brody melepaskan gelombang serangan ke arah target, memberikan 200<font color=\"fba51f\"> (+170% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan 30% slow ke lawan selama 1.2 detik sambil menerapkan 1 stack <font color=\"a6aafb\">Abyss Mark</font>.\n\nUntuk setiap lawan yang terkena gelombang serangan, mereka akan menerima 5% slow tambahan dan 1 stack <font color=\"a6aafb\">Abyss Mark</font> tambahan (maksimal 45% slow dan 4 stack).",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6635e0873a7cc48bac4bf4542c84e459.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_24cd29bfba887495edd4e396d974502f.png",
                       "skillid": 10010,
                       "skillname": "Abyss Impact",
                       "skilltag": [
@@ -67,7 +68,7 @@
                     {
                       "skillcd&cost": "CD: 8   Mana Cost: 90",
                       "skilldesc": "Brody menerjang ke arah lawan, memberikan 200<font color=\"fba51f\"> (+70% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke target, menyebabkan Stun ke target selama 0.8 detik, dan meninggalkan 1 Stack <font color=\"a6aafb\">Abyss Mark</font> pada target.\nSaat mengenai target, dia dapat bergerak sekali lagi sesuai arah pergerakannya, memperoleh 45% Movement Speed yang akan berkurang dengan cepat dalam 1.2 detik.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e26469bd1e87124fe3aefbd15dddb127.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f76c11dbe0589f49627a1bdc3e1f3bf2.png",
                       "skillid": 10020,
                       "skillname": "Corrosive Strike",
                       "skilltag": [
@@ -86,8 +87,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 32   Mana Cost: 120",
-                      "skilldesc": "Brody mengunci serangan pada semua target yang berada dalam jarak 8 unit, memberikan 216<font color=\"fba51f\"> (+165% Extra Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke mereka. Jika target memiliki <font color=\"a6aafb\">Abyss Mark</font>, semua <font color=\"a6aafb\">Abyss Mark</font> akan direset, memberikan <font color=\"fb1f1f\">Physical Damage</font> setara dengan 94<font color=\"fba51f\"> (+72% Extra Physical Attack)</font> + 4% HP target yang hilang untuk setiap Stack yang target miliki.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cbf0e2955ea6204995caf47e8082a376.png",
+                      "skilldesc": "Brody mengunci serangan ke semua lawan dalam jarak 8 unit, memberikan 216<font color=\"fba51f\"> (+165% Physical Attack Tambahan)</font> <font color=\"fb1f1f\">Physical Damage</font>.\nUntuk setiap target yang memiliki stack <font color=\"a6aafb\">Abyss Mark</font>, semua stack akan dikonsumsi, memberikan <font color=\"fb1f1f\">Physical Damage</font> tambahan sebesar 94<font color=\"fba51f\"> (+72% Physical Attack Tambahan)</font> (+ 4% dari <font color=\"26e407\"><1997></font> target yang hilang) per stack.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_164e7e1000b258395f9350114636ddac.png",
                       "skillid": 10030,
                       "skillname": "Torn-Apart Memory",
                       "skilltag": [
@@ -110,7 +111,7 @@
               ],
               "heroskin": null,
               "name": "Brody",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0dd42d343fcd6298ca65eec2a65a6b77.png",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_0dd42d343fcd6298ca65eec2a65a6b77.png",
               "recommendlevel": [
                 "3",
                 "1",
@@ -142,14 +143,14 @@
                 },
                 ""
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b4302450af5d1f55adf07399b4d3ed95.png",
               "roadsorticon2": "",
               "roadsortlabel": [
                 "Gold Lane",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc8216bde520fd7be7a2e9e6fad90191.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f9cb88efae5d35e6317828bcdb7154d6.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_094c17e22ff5e8086641e9a2c67dd81e.png",
               "sorticon2": "",
               "sortid": [
                 {
@@ -183,9 +184,9 @@
                 "Burst",
                 "Finisher"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_59bbe13e82041e67c6b1797b8776a461.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_9a3feb044b76ac87f886a0fdf4ef4f13.jpg",
-              "story": "Pria misterius yang tangan kanannya telah rusak dan kehilangan ingatannya.",
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_59bbe13e82041e67c6b1797b8776a461.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_9a3feb044b76ac87f886a0fdf4ef4f13.jpg",
+              "story": "Seorang penjaga perbatasan dengan lengan kanan yang diselimuti kegelapan, dia menyalurkan rasa sakit menjadi anak panah untuk menumbangkan para penjajah; dialah sang \"Lone Star\" yang menembus malam di Barren Lands.",
               "tale": ""
             },
             "id": 100599,
@@ -198,12 +199,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_195ad9af866afaab415ae23a6be13b45.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_195ad9af866afaab415ae23a6be13b45.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5d24a1dad6cef21de2698a4ed1d80ce.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_c5d24a1dad6cef21de2698a4ed1d80ce.png"
                   }
                 },
                 0
@@ -219,12 +220,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b3a7602fe7ffd1e54bf8ea79ceadfa72.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_ee1c12c84f49514a30e405fb5c617796.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_ee1c12c84f49514a30e405fb5c617796.png"
                   }
                 },
                 0,
@@ -242,12 +243,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cc8124b0eb6ca22d950b000744d69fbf.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_cc8124b0eb6ca22d950b000744d69fbf.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_44bfa1dc44deb8d7620605faaa9ffae7.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_44bfa1dc44deb8d7620605faaa9ffae7.png"
                   }
                 },
                 0,
@@ -269,12 +270,11 @@
           2667538
         ],
         "sort": 0,
-        "updatedAt": 1726805352355,
-        "updatedUser": "nickjin"
+        "updatedAt": 1789376769110,
+        "updatedUser": "keiralin"
       }
     ],
     "total": 1
   },
-  "message": "OK",
   "traceID": null
 }

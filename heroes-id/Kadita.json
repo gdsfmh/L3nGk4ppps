@@ -1,5 +1,6 @@
 {
   "code": 0,
+  "message": "OK",
   "data": {
     "records": [
       {
@@ -10,12 +11,12 @@
         "createdUser": "nickjin",
         "data": {
           "_object": 2667538,
-          "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/community/100_64931dfa2914e36b6ba72c5a0d765d21.png",
-          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3671cbec60a1b4f62971d37e7ecc0e89.jpg",
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/bbebde1b760c7161a2130d951cabcc65.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/cf5e45b10f70e4237c2513d1ae80988e.jpg",
           "hero": {
             "_createdAt": 1724837699141,
             "_id": "66ceef43af5771f18c501262",
-            "_updatedAt": 1776932104952,
+            "_updatedAt": 1789542901527,
             "data": {
               "abilityshow": [
                 "40",
@@ -24,15 +25,15 @@
                 "60"
               ],
               "difficulty": "60",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42b40ae7741d2eb81148c8f1e1ff614c.png",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_99c0a77d0e01b06ad3f4351f8ef2869c.png",
               "heroid": 75,
               "heroskilllist": [
                 {
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Kadita mendapatkan <font color=\"a6aafb\">Blessing of the Ocean</font> setiap 30 detik. Menerima damage dari hero lawan akan mengaktifkan Blessing tersebut selama 4 detik.\n\nSaat durasi berakhir, dia memulihkan 65% dari HP yang hilang selama durasi ini (damage dari minion dan creep tidak akan mengaktifkan efek ini).",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cd01187439b79c1916a9c74a3b34a006.png",
+                      "skilldesc": "Kadita mendapatkan <font color=\"a6aafb\">Blessing of the Ocean</font> setiap 30 detik. Menerima damage dari hero lawan akan mengaktifkan Blessing selama 4 detik.\n\nSaat Blessing berakhir, dia memulihkan 65% HP yang hilang selama periode ini (damage dari minion dan creep tidak mengaktifkan efek ini).\n\nSaat berada di Sungai, Kadita mendapatkan 10% Movement Speed tambahan.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_15fa706c7d6004ff908b68735d14b40d.png",
                       "skillid": 7540,
                       "skillname": "Thalassophobia",
                       "skilltag": [
@@ -47,7 +48,7 @@
                     {
                       "skillcd&cost": "CD: 9   Mana Cost: 55",
                       "skilldesc": "Kadita memanggil gelombang laut untuk membawanya ke arah target dan kembali, memberikan 250<font color=\"62f8fe\"> (+90% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang terkena dan menyebabkan 30% Slow ke mereka. Saat di dalam gelombang, dia menjadi kebal terhadap Crowd Control dan memperoleh 50% Pengurangan Damage. Skill ini dapat melewati halangan dan rintangan.\n\n<font color=\"a6aafb\">Gunakan Kembali</font>: Kadita keluar dari ombak tanpa mengganggu pergerakan ombak.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_167f6356afa763ceaa72fdf875770531.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_8d6257459f42258262743264f5cda02d.png",
                       "skillid": 7510,
                       "skillname": "Ocean Ode",
                       "skilltag": [
@@ -67,7 +68,7 @@
                     {
                       "skillcd&cost": "CD: 8   Mana Cost: 75",
                       "skilldesc": "Setelah jeda singkat, Kadita memanggil ombak yang menyembur di lokasi target, memberikan 350<font color=\"62f8fe\"> (+140% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang terkena dan menyebabkan Airborne selama 1 detik.\n\nKadita dapat menggunakan Skill ini selama <font color=\"a6aafb\">Ocean Ode</font> untuk memanggil ombak dengan jeda semburan yang lebih singkat.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3533b6afa084dd8c756c563aac23933b.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_e283cb7a2953c91cfd05a62393338c93.png",
                       "skillid": 7520,
                       "skillname": "Breath of the Ocean",
                       "skilltag": [
@@ -86,8 +87,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 40   Mana Cost: 120",
-                      "skilldesc": "Kadita menyelam dan mengeluarkan ombak ke semua arah (skill ini hanya bisa dibatalkan oleh Suppress), setiap ombak memberikan 270<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan 30% slow ke lawan. Lawan yang terkena beberapa ombak akan menerima damage tambahan. Setelah jeda singkat, ombak akan kembali ke Kadita, setiap ombak memberikan 180<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang terkena.\n\nKetika menyelam, Kadita tidak bisa ditargetkan dan mendapatkan 60% Movement Speed.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e0a8e44d8b5f8c14be27daf7cb807008.png",
+                      "skilldesc": "Kadita menyelam dan mengeluarkan ombak ke semua arah, setiap ombak memberikan 270<font color=\"62f8fe\"> (+60% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan 30% slow ke lawan. Lawan yang terkena beberapa ombak akan menerima damage tambahan. Setelah jeda singkat, ombak akan kembali ke Kadita, setiap ombak memberikan 180<font color=\"62f8fe\"> (+40% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> ke lawan yang terkena.\n\nKetika menyelam, Kadita tidak bisa ditargetkan dan mendapatkan 60% Movement Speed.\nSkill ini hanya bisa dibatalkan oleh Suppress.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_45dece9e671dd3a71e4b79a541d5f5ef.png",
                       "skillid": 7530,
                       "skillname": "Rough Waves",
                       "skilltag": [
@@ -110,7 +111,7 @@
               ],
               "heroskin": null,
               "name": "Kadita",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_812f998f0d153ace42c9c55a10dd2533.png",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_812f998f0d153ace42c9c55a10dd2533.png",
               "recommendlevel": [
                 "3",
                 "1",
@@ -142,15 +143,15 @@
                 },
                 ""
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1b414d1631fc57199315b998064c6722.png",
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_1b414d1631fc57199315b998064c6722.png",
               "roadsorticon2": "",
               "roadsortlabel": [
                 "Mid Lane",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_db76619a5d692aff3f78e3ff8d075a35.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_50fbe091cc66ff01cef0fa6b82872510.png",
-              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_933dce3f6078bc4eeaa97caaaa81875f.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_323c7edad76a491ea805644aed3ab999.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_50fbe091cc66ff01cef0fa6b82872510.png",
+              "sorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_933dce3f6078bc4eeaa97caaaa81875f.png",
               "sortid": [
                 {
                   "_id": "6698c015613093b976b4a974",
@@ -203,9 +204,9 @@
                 "Burst",
                 "Charge"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b5bcc58bc3bd0462691c85c45a6c1cb1.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3671cbec60a1b4f62971d37e7ecc0e89.jpg",
-              "story": "Ratu putri duyung yang cantik dan kuat.",
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_b5bcc58bc3bd0462691c85c45a6c1cb1.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_3671cbec60a1b4f62971d37e7ecc0e89.jpg",
+              "story": "Sang Dewi Samudra yang menggenggam Trisula Laut untuk menyucikan lautan.",
               "tale": ""
             },
             "id": 100578,
@@ -218,12 +219,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d974ac796678180ff8724b88e192898b.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_d974ac796678180ff8724b88e192898b.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b30576754be1a4f8bebd09df8d6bec7.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_8b30576754be1a4f8bebd09df8d6bec7.png"
                   }
                 },
                 0
@@ -239,12 +240,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9b2be0150361018bb98f941b9667c42.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f9b2be0150361018bb98f941b9667c42.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_42/100_87b2a655b254c136dce8976e21935a80.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_87b2a655b254c136dce8976e21935a80.png"
                   }
                 },
                 0,
@@ -262,12 +263,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a8345c69a4c9c611fdfce91089fe74a.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_fd120c3e9261a233442ee88a1d7c9f58.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4687eca874feec9017b448a0b9110d65.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_4687eca874feec9017b448a0b9110d65.png"
                   }
                 },
                 0,
@@ -288,12 +289,11 @@
           2667538
         ],
         "sort": 0,
-        "updatedAt": 1726805352355,
-        "updatedUser": "nickjin"
+        "updatedAt": 1789376611104,
+        "updatedUser": "keiralin"
       }
     ],
     "total": 1
   },
-  "message": "OK",
   "traceID": null
 }

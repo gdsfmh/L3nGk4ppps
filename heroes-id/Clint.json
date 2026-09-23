@@ -1,5 +1,6 @@
 {
   "code": 0,
+  "message": "OK",
   "data": {
     "records": [
       {
@@ -10,29 +11,29 @@
         "createdUser": "nickjin",
         "data": {
           "_object": 2667538,
-          "head": "https://akmweb.youngjoygame.com/web/gms/image/424de435edcaf67ab6ac211a3db646a6.jpg",
-          "head_big": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8136b5ece3387dfe347956f797a14a5d.jpg",
+          "head": "https://akmweb.youngjoygame.com/web/gms/image/f05e671ec71ef3582c6eeb070c69467f.jpg",
+          "head_big": "https://akmweb.youngjoygame.com/web/gms/image/8d51bcb3c21b3c35a68629d66aa94f47.jpg",
           "hero": {
             "_createdAt": 1724837699141,
             "_id": "66ceef43af5771f18c501223",
-            "_updatedAt": 1776932104952,
+            "_updatedAt": 1789542901527,
             "data": {
               "abilityshow": [
                 "30",
                 "70",
                 "40",
-                "70"
+                "60"
               ],
-              "difficulty": "70",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a8345c69a4c9c611fdfce91089fe74a.png",
+              "difficulty": "60",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_fd120c3e9261a233442ee88a1d7c9f58.png",
               "heroid": 13,
               "heroskilllist": [
                 {
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Setelah setiap kali menggunakan skill, Basic Attack Clint berikutnya dalam 4 detik akan menembus lawan, memberikan 150<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Damage ini bisa mengaktifkan efek Basic Attack, dan sebagian dari damage yang dipengaruhi oleh Physical Attack bisa memberikan Damage Critical.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4f34f91aa8c276c6c68c0fb062645591.png",
+                      "skilldesc": "Setelah setiap kali menggunakan skill, Basic Attack Clint berikutnya dalam 4 detik akan menembus lawan, memberikan 150<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Damage ini bisa memicu Efek Basic Attack, dan sebagian dari damage yang dipengaruhi oleh <font color=\"fba51f\"><1020></font> bisa memicu Critical.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_7adb0a322810b79addc40db494bd1b83.png",
                       "skillid": 1340,
                       "skillname": "Double Shot",
                       "skilltag": [
@@ -47,7 +48,7 @@
                     {
                       "skillcd&cost": "CD: 8   Mana Cost: 50",
                       "skilldesc": "Clint menembakkan 5 peluru secara berurutan, setiap peluru memberikan 250<font color=\"fba51f\"> (+85% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> kepada lawan yang terkena Hit.\n\nPeluru akan menyebar secara merata kepada lawan di area berbentuk kipas. Lawan yang terkena lebih dari satu peluru akan menerima Damage yang berkurang mulai dari peluru kedua.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_819bd2b4fce66ea402874193cd70b190.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_cbbd239b3a6e2f359cc1fb766377bf7f.png",
                       "skillid": 1310,
                       "skillname": "Quick Draw",
                       "skilltag": [
@@ -62,7 +63,7 @@
                     {
                       "skillcd&cost": "CD: 10   Mana Cost: 80",
                       "skilldesc": "Clint menembakkan jaring perangkap ke arah target, sedikit melompat ke belakang sambil memberikan 140<font color=\"fba51f\"> (+30% Total Physical Attack)</font><font color=\"62f8fe\"> (+150% Total Magic Power)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan pertama yang terkena dan menyebabkan Immobilize selama 1.2 detik.\n\nSetelah mengenai lawan, mengurangi 40% Cooldown Skill ini.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6813ebabb3e000e3af1935d16faa8f5b.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_62e86d24c231fae9cb2dafab798ec766.png",
                       "skillid": 1320,
                       "skillname": "Trapping Recoil",
                       "skilltag": [
@@ -82,7 +83,7 @@
                     {
                       "skillcd&cost": "CD: 1.5   Mana Cost: 50",
                       "skilldesc": "Clint menembakkan granat ke arah target yang akan meledak saat mengenai lawan pertama, memberikan 280<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan menyebabkan 50% slow ke lawan selama 0.5 detik.\n\nSatu granat dapat dipulihkan setiap 10 detik (hingga 3).",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_144f654bbb1560ed883a8f21b11f8a9d.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_587d5cc00661e817572607eca6e27e83.png",
                       "skillid": 1330,
                       "skillname": "Grenade Bombardment",
                       "skilltag": [
@@ -105,7 +106,7 @@
               ],
               "heroskin": null,
               "name": "Clint",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3f5ffe36b6e07ded46dac0ce665d971b.png",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_3f5ffe36b6e07ded46dac0ce665d971b.png",
               "recommendlevel": [
                 "3",
                 "1",
@@ -137,14 +138,14 @@
                 },
                 ""
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b4302450af5d1f55adf07399b4d3ed95.png",
               "roadsorticon2": "",
               "roadsortlabel": [
                 "Gold Lane",
                 ""
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ffb96ce8d57c9987401f9c5bfebee3b2.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_9a8a8fa3b5eed761a86d8f98740a4325.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_094c17e22ff5e8086641e9a2c67dd81e.png",
               "sorticon2": "",
               "sortid": [
                 {
@@ -178,9 +179,9 @@
                 "Finisher",
                 "Burst"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f7716a349ae9c5119841031df22210ed.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8136b5ece3387dfe347956f797a14a5d.jpg",
-              "story": "Seorang penembak jitu yang penuh kebenaran dan keadilan.",
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_f7716a349ae9c5119841031df22210ed.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_8136b5ece3387dfe347956f797a14a5d.jpg",
+              "story": "Seorang penembak jitu dan sheriff yang tak kenal takut, menegakkan keadilan di hamparan pasir dengan keteguhan dan tekad yang tak tergoyahkan.",
               "tale": ""
             },
             "id": 100515,
@@ -193,12 +194,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_68277dce415742c4a98883151c693a07.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_68277dce415742c4a98883151c693a07.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_c7e0183956b2c2fd6d3fa0b18fe46917.png"
                   }
                 }
               ],
@@ -212,12 +213,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a60a866ab6752a7f66766e720da987ea.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_a60a866ab6752a7f66766e720da987ea.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_da894b37bfb5cadb32307f371f31918a.png"
                   }
                 }
               ],
@@ -231,12 +232,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1fa7436301fea3f13fbcd4772051d22d.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_1fa7436301fea3f13fbcd4772051d22d.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_294576f2bd0dcbcc9041031969d0eb09.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_294576f2bd0dcbcc9041031969d0eb09.png"
                   }
                 }
               ],
@@ -254,12 +255,11 @@
           2667538
         ],
         "sort": 0,
-        "updatedAt": 1726805440128,
-        "updatedUser": "nickjin"
+        "updatedAt": 1789376727861,
+        "updatedUser": "keiralin"
       }
     ],
     "total": 1
   },
-  "message": "OK",
   "traceID": null
 }

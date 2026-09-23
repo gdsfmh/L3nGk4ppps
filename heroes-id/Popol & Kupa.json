@@ -1,5 +1,6 @@
 {
   "code": 0,
+  "message": "OK",
   "data": {
     "records": [
       {
@@ -15,24 +16,24 @@
           "hero": {
             "_createdAt": 1724837699141,
             "_id": "66ceef43af5771f18c50126f",
-            "_updatedAt": 1776932104952,
+            "_updatedAt": 1789542901527,
             "data": {
               "abilityshow": [
                 "30",
                 "70",
                 "70",
-                "50"
+                "60"
               ],
-              "difficulty": "50",
-              "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1acbb23b9a50f412104047a60eb18808.png",
+              "difficulty": "60",
+              "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_1acbb23b9a50f412104047a60eb18808.png",
               "heroid": 94,
               "heroskilllist": [
                 {
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Kupa memulihkan 10% Max HP setiap detik setelah tidak menerima damage selama 5 detik. Saat Kupa tereliminasi, Popol bisa menggunakan <font color=\"a6aafb\">Pray</font> selama 3 detik untuk membangkitkan Kupa kembali ke battlefield. Cooldown: 30 detik.\nSetiap 3 serangan berturut-turut dari Kupa akan memperkuat Basic Attack Popol berikutnya yang memberikan <font color=\"fba51f\"> (+220% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Kupa mempunyai 2500<font color=\"fba51f\"> (+1200% Total Physical Attack)</font> Max HP dan mewarisi 100% dari atribut lainnya serta efek pasif equipment milik Popol (kecuali efek equipment Jungle dan Roam).\nKupa memberikan 120% damage tambahan terhadap Creep.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ae294efaf8078fdb791495649aac563d.png",
+                      "skilldesc": "Kupa memulihkan 10% <font color=\"26e407\"><1005></font> per detik setelah tidak menerima damage selama 5 detik. Saat Kupa tereliminasi, Popol bisa menggunakan <font color=\"a6aafb\">Pray</font> selama 3 detik untuk membangkitkan Kupa kembali ke medan tempur. Cooldown: 30 detik.\nSetiap 3 serangan berturut-turut dari Kupa akan memperkuat Basic Attack Popol berikutnya, memberikan <font color=\"fba51f\"> (+220% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Kupa mempunyai 2500<font color=\"fba51f\"> (+1200% Total Physical Attack)</font> <font color=\"26e407\"><1005></font> dan mewarisi 100% dari atribut lainnya serta efek pasif equipment milik Popol (kecuali efek equipment Jungling dan Roaming).\nKupa memberikan 120% damage tambahan terhadap creep.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_ae294efaf8078fdb791495649aac563d.png",
                       "skillid": 9450,
                       "skillname": "We Are Friends",
                       "skilltag": [
@@ -47,7 +48,7 @@
                     {
                       "skillcd&cost": "CD: 7   Mana Cost: 50",
                       "skilldesc": "Popol melempar tombak ke target, memberikan 80<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan memerintahkan Kupa untuk menyerang target, memberikan 70<font color=\"fba51f\"> (+75% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> tambahan. Kupa akan terus menyerang target selama 3 detik.\n<font color=\"a6aafb\">Mode Alpha Wolf</font>: Kupa menyebabkan stun ke lawan selama 1 detik dan menggigit mereka 3 kali berturut-turut.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e643949b1a1f58f30614b08b446a3f85.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_e643949b1a1f58f30614b08b446a3f85.png",
                       "skillid": 9410,
                       "skillname": "Bite 'em, Kupa!",
                       "skilltag": [
@@ -66,8 +67,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 5.5   Mana Cost: 50",
-                      "skilldesc": "Popol memanggil Kupa kembali ke sisinya, mendapatkan 240<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> shield sambil memberikan 240<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di sekitar dan menyebabkan 35% slow ke mereka selama 0.5 detik. Kupa akan membantu Popol untuk menyerang lawan di sekitar selama 3 detik.\n<font color=\"a6aafb\">Mode Alpha Wolf</font>: Kupa kembali ke Popol, menyebabkan airborne lawan di sekitar selama 0.2 detik. Shield dan damage meningkat menjadi 125%.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ccfd9569e5240ea46584ec0b1db669e8.png",
+                      "skilldesc": "Popol memanggil Kupa kembali ke sisinya, mendapatkan 240<font color=\"fba51f\"> (+200% Physical Attack Tambahan)</font> shield sambil memberikan 240<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di sekitar dan menyebabkan 35% slow ke mereka selama 0.5 detik. Kupa akan membantu Popol untuk menyerang lawan di sekitar selama 3 detik.\n<font color=\"a6aafb\">Mode Alpha Wolf</font>: Kupa kembali ke Popol, menyebabkan airborne lawan di sekitar selama 0.2 detik. Shield dan damage meningkat menjadi 125%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_ccfd9569e5240ea46584ec0b1db669e8.png",
                       "skillid": 9420,
                       "skillname": "Kupa, Help!",
                       "skilltag": [
@@ -87,7 +88,7 @@
                     {
                       "skillcd&cost": "CD: 1.5   Mana Cost: 50",
                       "skilldesc": "Popol memasang perangkap yang akan aktif dalam beberapa waktu setelah lawan menginjaknya, memberikan 70<font color=\"62f8fe\"> (+20% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan Immobilize selama 1 detik, dan menciptakan Frost Zone selama 4 detik. Movement Speed lawan di dalam Frost Zone berkurang sebesar 20%.\nPopol dapat menyimpan hingga 3 perangkap dan mendapatkan 1 perangkap setiap 22 detik. Popol dapat memasang hingga 3 perangkap di pertarungan, masing-masing bertahan selama 60 detik.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8e90afefec90b007f23efd1d8a89f0dd.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_8e90afefec90b007f23efd1d8a89f0dd.png",
                       "skillid": 9430,
                       "skillname": "Popol's Surprise",
                       "skilltag": [
@@ -106,8 +107,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 38   Mana Cost: 100",
-                      "skilldesc": "Popol & Kupa memasuki Mode Enraged selama 12 detik:\nPopol & Kupa memperoleh 15% Movement Speed tambahan serta meningkatkan Attack Speed-nya menjadi 1.3 kali.\nKupa memasuki <font color=\"a6aafb\">Mode Alpha Wolf</font>, memperoleh 1500 Max HP, dan <font color=\"a6aafb\">memperkuat</font> Skill lainnya. Kupa juga memulihkan HP-nya hingga penuh.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_247d588d97c1dffa73391a55002ed308.png",
+                      "skilldesc": "Popol & Kupa memasuki mode <font color=\"a6aafb\">Enraged</font> selama 12 detik, mendapatkan 15% Movement Speed tambahan dan meningkatkan Attack Speed-nya menjadi 1.3 kali.\nKupa memasuki <font color=\"a6aafb\">Mode Alpha Wolf</font>, mendapatkan 1500 <font color=\"26e407\"><1005></font>, memulihkan HP-nya sampai penuh, dan <font color=\"a6aafb\">memperkuat</font> skill lainnya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_247d588d97c1dffa73391a55002ed308.png",
                       "skillid": 9440,
                       "skillname": "We Are Angry!",
                       "skilltag": [
@@ -126,8 +127,8 @@
                   "skilllist": [
                     {
                       "skillcd&cost": "",
-                      "skilldesc": "Kupa memulihkan 10% Max HP setiap detik setelah tidak menerima damage selama 5 detik. Saat Kupa tereliminasi, Popol bisa menggunakan <font color=\"a6aafb\">Pray</font> selama 3 detik untuk membangkitkan Kupa kembali ke battlefield. Cooldown: 30 detik.\nSetiap 3 serangan berturut-turut dari Kupa akan memperkuat Basic Attack Popol berikutnya yang memberikan <font color=\"fba51f\"> (+220% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Kupa mempunyai 2500<font color=\"fba51f\"> (+1200% Total Physical Attack)</font> Max HP dan mewarisi 100% dari atribut lainnya serta efek pasif equipment milik Popol (kecuali efek equipment Jungle dan Roam).\nKupa memberikan 120% damage tambahan terhadap Creep.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ae294efaf8078fdb791495649aac563d.png",
+                      "skilldesc": "Kupa memulihkan 10% <font color=\"26e407\"><1005></font> per detik setelah tidak menerima damage selama 5 detik. Saat Kupa tereliminasi, Popol bisa menggunakan <font color=\"a6aafb\">Pray</font> selama 3 detik untuk membangkitkan Kupa kembali ke medan tempur. Cooldown: 30 detik.\nSetiap 3 serangan berturut-turut dari Kupa akan memperkuat Basic Attack Popol berikutnya, memberikan <font color=\"fba51f\"> (+220% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font>. Kupa mempunyai 2500<font color=\"fba51f\"> (+1200% Total Physical Attack)</font> <font color=\"26e407\"><1005></font> dan mewarisi 100% dari atribut lainnya serta efek pasif equipment milik Popol (kecuali efek equipment Jungling dan Roaming).\nKupa memberikan 120% damage tambahan terhadap creep.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_ae294efaf8078fdb791495649aac563d.png",
                       "skillid": 9450,
                       "skillname": "We Are Friends",
                       "skilltag": [
@@ -142,7 +143,7 @@
                     {
                       "skillcd&cost": "CD: 7   Mana Cost: 50",
                       "skilldesc": "Popol melempar tombak ke target, memberikan 80<font color=\"fba51f\"> (+100% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> dan memerintahkan Kupa untuk menyerang target, memberikan 70<font color=\"fba51f\"> (+75% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> tambahan. Kupa akan terus menyerang target selama 3 detik.\n<font color=\"a6aafb\">Mode Alpha Wolf</font>: Kupa menyebabkan stun ke lawan selama 1 detik dan menggigit mereka 3 kali berturut-turut.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bdd55dca8cccb8db6059ed36a7bf4150.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_bdd55dca8cccb8db6059ed36a7bf4150.png",
                       "skillid": 9413,
                       "skillname": "Bite 'em, Kupa!",
                       "skilltag": [
@@ -161,8 +162,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 5.5   Mana Cost: 50",
-                      "skilldesc": "Popol memanggil Kupa kembali ke sisinya, mendapatkan 240<font color=\"fba51f\"> (+200% Extra Physical Attack)</font> shield sambil memberikan 240<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di sekitar dan menyebabkan 35% slow ke mereka selama 0.5 detik. Kupa akan membantu Popol untuk menyerang lawan di sekitar selama 3 detik.\n<font color=\"a6aafb\">Mode Alpha Wolf</font>: Kupa kembali ke Popol, menyebabkan airborne lawan di sekitar selama 0.2 detik. Shield dan damage meningkat menjadi 125%.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_041619eeff63fa6b8ec5bee9c3af5591.png",
+                      "skilldesc": "Popol memanggil Kupa kembali ke sisinya, mendapatkan 240<font color=\"fba51f\"> (+200% Physical Attack Tambahan)</font> shield sambil memberikan 240<font color=\"fba51f\"> (+50% Total Physical Attack)</font> <font color=\"fb1f1f\">Physical Damage</font> ke lawan di sekitar dan menyebabkan 35% slow ke mereka selama 0.5 detik. Kupa akan membantu Popol untuk menyerang lawan di sekitar selama 3 detik.\n<font color=\"a6aafb\">Mode Alpha Wolf</font>: Kupa kembali ke Popol, menyebabkan airborne lawan di sekitar selama 0.2 detik. Shield dan damage meningkat menjadi 125%.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_041619eeff63fa6b8ec5bee9c3af5591.png",
                       "skillid": 9423,
                       "skillname": "Kupa, Help!",
                       "skilltag": [
@@ -182,7 +183,7 @@
                     {
                       "skillcd&cost": "CD: 1.5   Mana Cost: 50",
                       "skilldesc": "Popol memasang perangkap yang akan aktif dalam beberapa waktu setelah lawan menginjaknya, memberikan 70<font color=\"62f8fe\"> (+20% Total Magic Power)</font> <font color=\"7f62fe\">Magic Damage</font> dan menyebabkan Immobilize selama 1 detik, dan menciptakan Frost Zone selama 4 detik. Movement Speed lawan di dalam Frost Zone berkurang sebesar 20%.\nPopol dapat menyimpan hingga 3 perangkap dan mendapatkan 1 perangkap setiap 22 detik. Popol dapat memasang hingga 3 perangkap di pertarungan, masing-masing bertahan selama 60 detik.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8e90afefec90b007f23efd1d8a89f0dd.png",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_8e90afefec90b007f23efd1d8a89f0dd.png",
                       "skillid": 9430,
                       "skillname": "Popol's Surprise",
                       "skilltag": [
@@ -201,8 +202,8 @@
                     },
                     {
                       "skillcd&cost": "CD: 38   Mana Cost: 100",
-                      "skilldesc": "Popol & Kupa memasuki Mode Enraged selama 12 detik:\nPopol & Kupa memperoleh 15% Movement Speed tambahan serta meningkatkan Attack Speed-nya menjadi 1.3 kali.\nKupa memasuki <font color=\"a6aafb\">Mode Alpha Wolf</font>, memperoleh 1500 Max HP, dan <font color=\"a6aafb\">memperkuat</font> Skill lainnya. Kupa juga memulihkan HP-nya hingga penuh.",
-                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_247d588d97c1dffa73391a55002ed308.png",
+                      "skilldesc": "Popol & Kupa memasuki mode <font color=\"a6aafb\">Enraged</font> selama 12 detik, mendapatkan 15% Movement Speed tambahan dan meningkatkan Attack Speed-nya menjadi 1.3 kali.\nKupa memasuki <font color=\"a6aafb\">Mode Alpha Wolf</font>, mendapatkan 1500 <font color=\"26e407\"><1005></font>, memulihkan HP-nya sampai penuh, dan <font color=\"a6aafb\">memperkuat</font> skill lainnya.",
+                      "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_247d588d97c1dffa73391a55002ed308.png",
                       "skillid": 9440,
                       "skillname": "We Are Angry!",
                       "skilltag": [
@@ -220,7 +221,7 @@
               ],
               "heroskin": null,
               "name": "Popol & Kupa",
-              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08f8fb30b35d029e172e0ed9be3be09d.png",
+              "painting": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_08f8fb30b35d029e172e0ed9be3be09d.png",
               "recommendlevel": [
                 "4",
                 "1",
@@ -273,14 +274,14 @@
                   "updatedUser": "nickjin"
                 }
               ],
-              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_741d46ff696f02305139a2d817e67e75.png",
-              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b4302450af5d1f55adf07399b4d3ed95.png",
+              "roadsorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_741d46ff696f02305139a2d817e67e75.png",
+              "roadsorticon2": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b4302450af5d1f55adf07399b4d3ed95.png",
               "roadsortlabel": [
                 "Jungle",
                 "Gold Lane"
               ],
-              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_30e98c9005e54b1625712892560ad9ab.png",
-              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_094c17e22ff5e8086641e9a2c67dd81e.png",
+              "smallmap": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_30e98c9005e54b1625712892560ad9ab.png",
+              "sorticon1": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_094c17e22ff5e8086641e9a2c67dd81e.png",
               "sorticon2": "",
               "sortid": [
                 {
@@ -314,8 +315,8 @@
                 "Push",
                 "Burst"
               ],
-              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4e209cd7493f719891e723627e91628b.jpg",
-              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_555eb8df475f57d6f01a1f2a2675671c.jpg",
+              "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_4e209cd7493f719891e723627e91628b.jpg",
+              "squareheadbig": "https://akmweb.youngjoygame.com/web/svnres/file/test/homepage_2_2_16_1232_1/100_555eb8df475f57d6f01a1f2a2675671c.jpg",
               "story": "Seorang bocah dan seekor Icefield Wolf, dua sahabat yang tak terpisahkan.",
               "tale": ""
             },
@@ -329,12 +330,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86c9f91f530727db6498f920d19180d1.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_86c9f91f530727db6498f920d19180d1.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_540a6a9d343842674ce002082366ec9d.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_540a6a9d343842674ce002082366ec9d.png"
                   }
                 },
                 0
@@ -350,12 +351,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_08770893183018333f54a98e63c41ee3.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_08770893183018333f54a98e63c41ee3.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f18e45a9a4cb45897e1f614593ff4497.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_cbb309b63cdf838fce79bd9cb95d4ed7.png"
                   }
                 },
                 0,
@@ -373,12 +374,12 @@
               "target_hero": [
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6cd232de60da5372a7101a203e56554.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_c6cd232de60da5372a7101a203e56554.png"
                   }
                 },
                 {
                   "data": {
-                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49394186dc0e55d545da8377be83280.png"
+                    "head": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f49394186dc0e55d545da8377be83280.png"
                   }
                 },
                 0,
@@ -406,6 +407,5 @@
     ],
     "total": 1
   },
-  "message": "OK",
   "traceID": null
 }
