@@ -12493,5 +12493,16 @@
     "sort": "15",
     "date_upload": "2026-09-23",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
+  },
+  "arlott-zoro": {
+    "key": "arlott-zoro",
+    "hero": "Arlott",
+    "skin_name": "Zoro",
+    "download": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/arlott%20x%20zoro.zip",
+    "img": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/arlott%20x%20zoro.jpg",
+    "img2": "https://raw.githubusercontent.com/z3ld4-upl0d/upl0d/main/arlott%20x%20zoro.jpg",
+    "sort": "30",
+    "date_upload": "2026-09-23",
+    "tag": ""
   }
 }
