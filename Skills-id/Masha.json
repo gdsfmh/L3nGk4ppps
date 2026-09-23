@@ -11,26 +11,15 @@
         "createdUser": "rubickguo",
         "data": {
           "_object": 2684183,
-          "desc": "Saat fase Laning, gunakan Skill 1 Masha untuk mendekati lawan dan gunakan Skill 2 untuk menyerang dan menyebabkan Slow ke mereka. Lanjutkan dengan Basic Attack untuk memberikan lebih banyak Damage.",
+          "desc": "Saat fase laning, gunakan Skill 2 untuk mendekat dan Basic Attack untuk menyebabkan Wound. Sebabkan slow ke target dengan Skill 1, lalu terus serang untuk memicu Basic Attack yang Diperkuat, lalu terus tekan lawan!",
           "hero_id": 88,
           "skill_id": [
             {
               "_createdAt": 1730960698379,
-              "_id": "672c5d3a9d856a6db37d97f1",
-              "_updatedAt": 1758787888320,
-              "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e8d16ab8090bc35167878013b946b53f.png",
-                "skillid": 8810
-              },
-              "id": 110849,
-              "sourceId": 2674712
-            },
-            {
-              "_createdAt": 1730960698379,
               "_id": "672c5d3a9d856a6db37d97f0",
-              "_updatedAt": 1758787888320,
+              "_updatedAt": 1789542901081,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18145750af85a40bbae3287f1ed47ebb.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b137533c0a7e40fb4759d2b68ffbc230.png",
                 "skillid": 8820
               },
               "id": 110848,
@@ -39,9 +28,31 @@
             {
               "_createdAt": 1730960698379,
               "_id": "672c5d3a9d856a6db37d97ee",
-              "_updatedAt": 1758787888320,
+              "_updatedAt": 1789542901081,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 8800
+              },
+              "id": 110846,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97f1",
+              "_updatedAt": 1789542901081,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_0d1830ffdf3eda7e34a33f879aea70d1.png",
+                "skillid": 8810
+              },
+              "id": 110849,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97ee",
+              "_updatedAt": 1789542901081,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
                 "skillid": 8800
               },
               "id": 110846,
@@ -56,8 +67,8 @@
           2684183
         ],
         "sort": 0,
-        "updatedAt": 1715152453341,
-        "updatedUser": "rubickguo"
+        "updatedAt": 1789532949675,
+        "updatedUser": "v_zhoujie"
       },
       {
         "_id": "663b2627633922a8d1876bf3",
@@ -67,15 +78,15 @@
         "createdUser": "rubickguo",
         "data": {
           "_object": 2684183,
-          "desc": "Saat Team Fight, gunakan Ultimate Masha untuk menerjang ke arah lawan, lalu gunakan Skill 1-nya dilanjutkan dengan Basic Attack untuk memberikan lebih banyak Damage. Setiap kali dia kehilangan Bar HP-nya, gunakan Ultimate kembali untuk menerjang target dan gunakan Skill 2 untuk menyebabkan Slow ke mereka.",
+          "desc": "Saat team fight, gunakan Ultimate untuk menerjang target empuk. Lanjutkan dengan Basic Attack yang Diperkuat,  lalu Skill 2 untuk menyebabkan efek Wound ke beberapa lawan, dan eliminasi mereka dengan damage area dari Basic Attack beruntun.",
           "hero_id": 88,
           "skill_id": [
             {
               "_createdAt": 1730960698379,
               "_id": "672c5d3a9d856a6db37d97f3",
-              "_updatedAt": 1758787888320,
+              "_updatedAt": 1789542901081,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7bd1cc6fe451768339602321771094a.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_a973d17d6ff36a513b419a343a131997.png",
                 "skillid": 8830
               },
               "id": 110851,
@@ -83,21 +94,10 @@
             },
             {
               "_createdAt": 1730960698379,
-              "_id": "672c5d3a9d856a6db37d97f1",
-              "_updatedAt": 1758787888320,
-              "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e8d16ab8090bc35167878013b946b53f.png",
-                "skillid": 8810
-              },
-              "id": 110849,
-              "sourceId": 2674712
-            },
-            {
-              "_createdAt": 1730960698379,
               "_id": "672c5d3a9d856a6db37d97ee",
-              "_updatedAt": 1758787888320,
+              "_updatedAt": 1789542901081,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
                 "skillid": 8800
               },
               "id": 110846,
@@ -105,24 +105,57 @@
             },
             {
               "_createdAt": 1730960698379,
-              "_id": "672c5d3a9d856a6db37d97f3",
-              "_updatedAt": 1758787888320,
+              "_id": "672c5d3a9d856a6db37d97f0",
+              "_updatedAt": 1789542901081,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7bd1cc6fe451768339602321771094a.png",
-                "skillid": 8830
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_b137533c0a7e40fb4759d2b68ffbc230.png",
+                "skillid": 8820
               },
-              "id": 110851,
+              "id": 110848,
               "sourceId": 2674712
             },
             {
               "_createdAt": 1730960698379,
-              "_id": "672c5d3a9d856a6db37d97f0",
-              "_updatedAt": 1758787888320,
+              "_id": "672c5d3a9d856a6db37d97ee",
+              "_updatedAt": 1789542901081,
               "data": {
-                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18145750af85a40bbae3287f1ed47ebb.png",
-                "skillid": 8820
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 8800
               },
-              "id": 110848,
+              "id": 110846,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97ee",
+              "_updatedAt": 1789542901081,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 8800
+              },
+              "id": 110846,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97ee",
+              "_updatedAt": 1789542901081,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 8800
+              },
+              "id": 110846,
+              "sourceId": 2674712
+            },
+            {
+              "_createdAt": 1730960698379,
+              "_id": "672c5d3a9d856a6db37d97ee",
+              "_updatedAt": 1789542901081,
+              "data": {
+                "skillicon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_2_16_1232_1/100_f98d2e98eaebfb31c6c5101cf1c3201a.png",
+                "skillid": 8800
+              },
+              "id": 110846,
               "sourceId": 2674712
             }
           ],
@@ -134,8 +167,8 @@
           2684183
         ],
         "sort": 0,
-        "updatedAt": 1720668186847,
-        "updatedUser": "rubickguo"
+        "updatedAt": 1789533408856,
+        "updatedUser": "v_zhoujie"
       }
     ],
     "total": 2
