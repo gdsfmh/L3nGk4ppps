@@ -12660,5 +12660,16 @@
     "sort": "15",
     "date_upload": "2026-09-29",
     "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/scale-to-width-down/75?cb=20220216235857"
+  },
+  "aamon-test": {
+    "key": "aamon-test",
+    "hero": "Aamon",
+    "skin_name": "test",
+    "download": "https://github.com/ddsuphhj/P0tuSk1n/raw/refs/heads/main/aamon%20x%20alhaitham.png",
+    "img": "https://github.com/ddsuphhj/P0tuSk1n/raw/refs/heads/main/aamon%20x%20alhaitham.png",
+    "img2": "https://github.com/ddsuphhj/P0tuSk1n/raw/refs/heads/main/aamon%20x%20alhaitham.png",
+    "sort": "30",
+    "date_upload": "2026-09-30",
+    "tag": ""
   }
 }
